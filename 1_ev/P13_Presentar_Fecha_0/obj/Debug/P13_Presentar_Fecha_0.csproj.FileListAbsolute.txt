@@ -1,0 +1,7 @@
+C:\Users\csi21-sdiapos\source\repos\P13_Presentar_Fecha_0\P13_Presentar_Fecha_0\obj\Debug\P13_Presentar_Fecha_0.csproj.AssemblyReference.cache
+C:\Users\csi21-sdiapos\source\repos\P13_Presentar_Fecha_0\P13_Presentar_Fecha_0\obj\Debug\P13_Presentar_Fecha_0.csproj.CoreCompileInputs.cache
+C:\Users\csi21-sdiapos\source\repos\P13_Presentar_Fecha_0\P13_Presentar_Fecha_0\bin\Debug\P13_Presentar_Fecha_0.exe.config
+C:\Users\csi21-sdiapos\source\repos\P13_Presentar_Fecha_0\P13_Presentar_Fecha_0\bin\Debug\P13_Presentar_Fecha_0.exe
+C:\Users\csi21-sdiapos\source\repos\P13_Presentar_Fecha_0\P13_Presentar_Fecha_0\bin\Debug\P13_Presentar_Fecha_0.pdb
+C:\Users\csi21-sdiapos\source\repos\P13_Presentar_Fecha_0\P13_Presentar_Fecha_0\obj\Debug\P13_Presentar_Fecha_0.exe
+C:\Users\csi21-sdiapos\source\repos\P13_Presentar_Fecha_0\P13_Presentar_Fecha_0\obj\Debug\P13_Presentar_Fecha_0.pdb

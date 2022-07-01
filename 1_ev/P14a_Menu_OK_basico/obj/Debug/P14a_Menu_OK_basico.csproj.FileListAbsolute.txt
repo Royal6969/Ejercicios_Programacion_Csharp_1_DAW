@@ -1,0 +1,6 @@
+C:\Users\csi21-sdiapos\Desktop\Programacion\1T\Tareas\P14a_Menu_OK_basico\P14a_Menu_OK_basico\bin\Debug\P14a_Menu_OK_basico.exe.config
+C:\Users\csi21-sdiapos\Desktop\Programacion\1T\Tareas\P14a_Menu_OK_basico\P14a_Menu_OK_basico\bin\Debug\P14a_Menu_OK_basico.exe
+C:\Users\csi21-sdiapos\Desktop\Programacion\1T\Tareas\P14a_Menu_OK_basico\P14a_Menu_OK_basico\bin\Debug\P14a_Menu_OK_basico.pdb
+C:\Users\csi21-sdiapos\Desktop\Programacion\1T\Tareas\P14a_Menu_OK_basico\P14a_Menu_OK_basico\obj\Debug\P14a_Menu_OK_basico.csproj.CoreCompileInputs.cache
+C:\Users\csi21-sdiapos\Desktop\Programacion\1T\Tareas\P14a_Menu_OK_basico\P14a_Menu_OK_basico\obj\Debug\P14a_Menu_OK_basico.exe
+C:\Users\csi21-sdiapos\Desktop\Programacion\1T\Tareas\P14a_Menu_OK_basico\P14a_Menu_OK_basico\obj\Debug\P14a_Menu_OK_basico.pdb

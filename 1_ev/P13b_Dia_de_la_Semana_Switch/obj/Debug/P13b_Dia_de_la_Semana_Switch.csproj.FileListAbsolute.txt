@@ -1,0 +1,6 @@
+C:\Users\csi21-sdiapos\Desktop\Programacion\1T\Tareas\P13b_Dia_de_la_Semana_Switch\P13b_Dia_de_la_Semana_Switch\bin\Debug\P13b_Dia_de_la_Semana_Switch.exe.config
+C:\Users\csi21-sdiapos\Desktop\Programacion\1T\Tareas\P13b_Dia_de_la_Semana_Switch\P13b_Dia_de_la_Semana_Switch\bin\Debug\P13b_Dia_de_la_Semana_Switch.exe
+C:\Users\csi21-sdiapos\Desktop\Programacion\1T\Tareas\P13b_Dia_de_la_Semana_Switch\P13b_Dia_de_la_Semana_Switch\bin\Debug\P13b_Dia_de_la_Semana_Switch.pdb
+C:\Users\csi21-sdiapos\Desktop\Programacion\1T\Tareas\P13b_Dia_de_la_Semana_Switch\P13b_Dia_de_la_Semana_Switch\obj\Debug\P13b_Dia_de_la_Semana_Switch.csproj.CoreCompileInputs.cache
+C:\Users\csi21-sdiapos\Desktop\Programacion\1T\Tareas\P13b_Dia_de_la_Semana_Switch\P13b_Dia_de_la_Semana_Switch\obj\Debug\P13b_Dia_de_la_Semana_Switch.exe
+C:\Users\csi21-sdiapos\Desktop\Programacion\1T\Tareas\P13b_Dia_de_la_Semana_Switch\P13b_Dia_de_la_Semana_Switch\obj\Debug\P13b_Dia_de_la_Semana_Switch.pdb

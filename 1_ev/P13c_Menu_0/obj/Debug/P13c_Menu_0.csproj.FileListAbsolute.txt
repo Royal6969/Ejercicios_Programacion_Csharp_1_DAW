@@ -1,0 +1,7 @@
+C:\Users\csi21-sdiapos\Desktop\Programacion\1T\Tareas\P13c_Menu_0\P13c_Menu_0\bin\Debug\P13c_Menu_0.exe.config
+C:\Users\csi21-sdiapos\Desktop\Programacion\1T\Tareas\P13c_Menu_0\P13c_Menu_0\bin\Debug\P13c_Menu_0.exe
+C:\Users\csi21-sdiapos\Desktop\Programacion\1T\Tareas\P13c_Menu_0\P13c_Menu_0\bin\Debug\P13c_Menu_0.pdb
+C:\Users\csi21-sdiapos\Desktop\Programacion\1T\Tareas\P13c_Menu_0\P13c_Menu_0\obj\Debug\P13c_Menu_0.csproj.AssemblyReference.cache
+C:\Users\csi21-sdiapos\Desktop\Programacion\1T\Tareas\P13c_Menu_0\P13c_Menu_0\obj\Debug\P13c_Menu_0.csproj.CoreCompileInputs.cache
+C:\Users\csi21-sdiapos\Desktop\Programacion\1T\Tareas\P13c_Menu_0\P13c_Menu_0\obj\Debug\P13c_Menu_0.exe
+C:\Users\csi21-sdiapos\Desktop\Programacion\1T\Tareas\P13c_Menu_0\P13c_Menu_0\obj\Debug\P13c_Menu_0.pdb

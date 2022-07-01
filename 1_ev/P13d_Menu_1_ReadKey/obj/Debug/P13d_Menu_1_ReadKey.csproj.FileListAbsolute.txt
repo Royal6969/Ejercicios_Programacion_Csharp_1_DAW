@@ -1,0 +1,7 @@
+C:\Users\csi21-sdiapos\Desktop\Programacion\1T\Tareas\P13d_Menu_1_ReadKey\P13d_Menu_1_ReadKey\bin\Debug\P13d_Menu_1_ReadKey.exe.config
+C:\Users\csi21-sdiapos\Desktop\Programacion\1T\Tareas\P13d_Menu_1_ReadKey\P13d_Menu_1_ReadKey\bin\Debug\P13d_Menu_1_ReadKey.exe
+C:\Users\csi21-sdiapos\Desktop\Programacion\1T\Tareas\P13d_Menu_1_ReadKey\P13d_Menu_1_ReadKey\bin\Debug\P13d_Menu_1_ReadKey.pdb
+C:\Users\csi21-sdiapos\Desktop\Programacion\1T\Tareas\P13d_Menu_1_ReadKey\P13d_Menu_1_ReadKey\obj\Debug\P13d_Menu_1_ReadKey.csproj.AssemblyReference.cache
+C:\Users\csi21-sdiapos\Desktop\Programacion\1T\Tareas\P13d_Menu_1_ReadKey\P13d_Menu_1_ReadKey\obj\Debug\P13d_Menu_1_ReadKey.csproj.CoreCompileInputs.cache
+C:\Users\csi21-sdiapos\Desktop\Programacion\1T\Tareas\P13d_Menu_1_ReadKey\P13d_Menu_1_ReadKey\obj\Debug\P13d_Menu_1_ReadKey.exe
+C:\Users\csi21-sdiapos\Desktop\Programacion\1T\Tareas\P13d_Menu_1_ReadKey\P13d_Menu_1_ReadKey\obj\Debug\P13d_Menu_1_ReadKey.pdb

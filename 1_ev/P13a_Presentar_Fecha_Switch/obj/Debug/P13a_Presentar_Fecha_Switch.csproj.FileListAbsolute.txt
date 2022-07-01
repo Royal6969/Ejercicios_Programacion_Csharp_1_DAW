@@ -1,0 +1,7 @@
+C:\Users\csi21-sdiapos\Desktop\Programacion\1T\Tareas\P13a_Presentar_Fecha_Switch\P13a_Presentar_Fecha_Switch\bin\Debug\P13a_Presentar_Fecha_Switch.exe.config
+C:\Users\csi21-sdiapos\Desktop\Programacion\1T\Tareas\P13a_Presentar_Fecha_Switch\P13a_Presentar_Fecha_Switch\bin\Debug\P13a_Presentar_Fecha_Switch.exe
+C:\Users\csi21-sdiapos\Desktop\Programacion\1T\Tareas\P13a_Presentar_Fecha_Switch\P13a_Presentar_Fecha_Switch\bin\Debug\P13a_Presentar_Fecha_Switch.pdb
+C:\Users\csi21-sdiapos\Desktop\Programacion\1T\Tareas\P13a_Presentar_Fecha_Switch\P13a_Presentar_Fecha_Switch\obj\Debug\P13a_Presentar_Fecha_Switch.csproj.AssemblyReference.cache
+C:\Users\csi21-sdiapos\Desktop\Programacion\1T\Tareas\P13a_Presentar_Fecha_Switch\P13a_Presentar_Fecha_Switch\obj\Debug\P13a_Presentar_Fecha_Switch.csproj.CoreCompileInputs.cache
+C:\Users\csi21-sdiapos\Desktop\Programacion\1T\Tareas\P13a_Presentar_Fecha_Switch\P13a_Presentar_Fecha_Switch\obj\Debug\P13a_Presentar_Fecha_Switch.exe
+C:\Users\csi21-sdiapos\Desktop\Programacion\1T\Tareas\P13a_Presentar_Fecha_Switch\P13a_Presentar_Fecha_Switch\obj\Debug\P13a_Presentar_Fecha_Switch.pdb
