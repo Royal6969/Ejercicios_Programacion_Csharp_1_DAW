@@ -1,0 +1,2 @@
+C:\Users\csi21-sdiapos\source\repos\P12e_Captura_Entero_1\P12e_Captura_Entero_1\obj\Debug\P12e_Captura_Entero_1.csproj.AssemblyReference.cache
+C:\Users\csi21-sdiapos\source\repos\P12e_Captura_Entero_1\P12e_Captura_Entero_1\obj\Debug\P12e_Captura_Entero_1.csproj.CoreCompileInputs.cache

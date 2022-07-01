@@ -1,0 +1,7 @@
+C:\Users\csi21-sdiapos\source\repos\P12e_Captura_Entero_0\P12e_Captura_Entero_0\bin\Debug\P12e_Captura_Entero_0.exe.config
+C:\Users\csi21-sdiapos\source\repos\P12e_Captura_Entero_0\P12e_Captura_Entero_0\bin\Debug\P12e_Captura_Entero_0.exe
+C:\Users\csi21-sdiapos\source\repos\P12e_Captura_Entero_0\P12e_Captura_Entero_0\bin\Debug\P12e_Captura_Entero_0.pdb
+C:\Users\csi21-sdiapos\source\repos\P12e_Captura_Entero_0\P12e_Captura_Entero_0\obj\Debug\P12e_Captura_Entero_0.csproj.AssemblyReference.cache
+C:\Users\csi21-sdiapos\source\repos\P12e_Captura_Entero_0\P12e_Captura_Entero_0\obj\Debug\P12e_Captura_Entero_0.csproj.CoreCompileInputs.cache
+C:\Users\csi21-sdiapos\source\repos\P12e_Captura_Entero_0\P12e_Captura_Entero_0\obj\Debug\P12e_Captura_Entero_0.exe
+C:\Users\csi21-sdiapos\source\repos\P12e_Captura_Entero_0\P12e_Captura_Entero_0\obj\Debug\P12e_Captura_Entero_0.pdb

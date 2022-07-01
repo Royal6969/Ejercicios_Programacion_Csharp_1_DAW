@@ -1,0 +1,7 @@
+C:\Users\csi21-sdiapos\Desktop\Programacion\1T\Tareas\P12i_Dia_de_la_Semana\P12i_Dia_de_la_Semana\bin\Debug\P12i_Dia_de_la_Semana.exe.config
+C:\Users\csi21-sdiapos\Desktop\Programacion\1T\Tareas\P12i_Dia_de_la_Semana\P12i_Dia_de_la_Semana\bin\Debug\P12i_Dia_de_la_Semana.exe
+C:\Users\csi21-sdiapos\Desktop\Programacion\1T\Tareas\P12i_Dia_de_la_Semana\P12i_Dia_de_la_Semana\bin\Debug\P12i_Dia_de_la_Semana.pdb
+C:\Users\csi21-sdiapos\Desktop\Programacion\1T\Tareas\P12i_Dia_de_la_Semana\P12i_Dia_de_la_Semana\obj\Debug\P12i_Dia_de_la_Semana.csproj.AssemblyReference.cache
+C:\Users\csi21-sdiapos\Desktop\Programacion\1T\Tareas\P12i_Dia_de_la_Semana\P12i_Dia_de_la_Semana\obj\Debug\P12i_Dia_de_la_Semana.csproj.CoreCompileInputs.cache
+C:\Users\csi21-sdiapos\Desktop\Programacion\1T\Tareas\P12i_Dia_de_la_Semana\P12i_Dia_de_la_Semana\obj\Debug\P12i_Dia_de_la_Semana.exe
+C:\Users\csi21-sdiapos\Desktop\Programacion\1T\Tareas\P12i_Dia_de_la_Semana\P12i_Dia_de_la_Semana\obj\Debug\P12i_Dia_de_la_Semana.pdb
