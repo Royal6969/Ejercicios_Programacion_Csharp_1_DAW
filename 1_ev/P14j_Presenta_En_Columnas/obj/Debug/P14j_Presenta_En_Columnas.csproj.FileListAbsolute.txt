@@ -1,0 +1,7 @@
+C:\Users\csi21-sdiapos\Desktop\Programacion\1T\Tareas\P14j_Presenta_En_Columnas\P14j_Presenta_En_Columnas\bin\Debug\P14j_Presenta_En_Columnas.exe.config
+C:\Users\csi21-sdiapos\Desktop\Programacion\1T\Tareas\P14j_Presenta_En_Columnas\P14j_Presenta_En_Columnas\bin\Debug\P14j_Presenta_En_Columnas.exe
+C:\Users\csi21-sdiapos\Desktop\Programacion\1T\Tareas\P14j_Presenta_En_Columnas\P14j_Presenta_En_Columnas\bin\Debug\P14j_Presenta_En_Columnas.pdb
+C:\Users\csi21-sdiapos\Desktop\Programacion\1T\Tareas\P14j_Presenta_En_Columnas\P14j_Presenta_En_Columnas\obj\Debug\P14j_Presenta_En_Columnas.csproj.AssemblyReference.cache
+C:\Users\csi21-sdiapos\Desktop\Programacion\1T\Tareas\P14j_Presenta_En_Columnas\P14j_Presenta_En_Columnas\obj\Debug\P14j_Presenta_En_Columnas.csproj.CoreCompileInputs.cache
+C:\Users\csi21-sdiapos\Desktop\Programacion\1T\Tareas\P14j_Presenta_En_Columnas\P14j_Presenta_En_Columnas\obj\Debug\P14j_Presenta_En_Columnas.exe
+C:\Users\csi21-sdiapos\Desktop\Programacion\1T\Tareas\P14j_Presenta_En_Columnas\P14j_Presenta_En_Columnas\obj\Debug\P14j_Presenta_En_Columnas.pdb

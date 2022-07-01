@@ -1,0 +1,7 @@
+C:\Users\csi21-sdiapos\Desktop\Programacion\1T\Tareas\P14h_Buscar_Aleatorio_Max_Min\P14h_Buscar_Aleatorio_Max_Min\bin\Debug\P14h_Buscar_Aleatorio_Max_Min.exe.config
+C:\Users\csi21-sdiapos\Desktop\Programacion\1T\Tareas\P14h_Buscar_Aleatorio_Max_Min\P14h_Buscar_Aleatorio_Max_Min\bin\Debug\P14h_Buscar_Aleatorio_Max_Min.exe
+C:\Users\csi21-sdiapos\Desktop\Programacion\1T\Tareas\P14h_Buscar_Aleatorio_Max_Min\P14h_Buscar_Aleatorio_Max_Min\bin\Debug\P14h_Buscar_Aleatorio_Max_Min.pdb
+C:\Users\csi21-sdiapos\Desktop\Programacion\1T\Tareas\P14h_Buscar_Aleatorio_Max_Min\P14h_Buscar_Aleatorio_Max_Min\obj\Debug\P14h_Buscar_Aleatorio_Max_Min.csproj.CoreCompileInputs.cache
+C:\Users\csi21-sdiapos\Desktop\Programacion\1T\Tareas\P14h_Buscar_Aleatorio_Max_Min\P14h_Buscar_Aleatorio_Max_Min\obj\Debug\P14h_Buscar_Aleatorio_Max_Min.exe
+C:\Users\csi21-sdiapos\Desktop\Programacion\1T\Tareas\P14h_Buscar_Aleatorio_Max_Min\P14h_Buscar_Aleatorio_Max_Min\obj\Debug\P14h_Buscar_Aleatorio_Max_Min.pdb
+C:\Users\csi21-sdiapos\Desktop\Programacion\1T\Tareas\P14h_Buscar_Aleatorio_Max_Min\P14h_Buscar_Aleatorio_Max_Min\obj\Debug\P14h_Buscar_Aleatorio_Max_Min.csproj.AssemblyReference.cache

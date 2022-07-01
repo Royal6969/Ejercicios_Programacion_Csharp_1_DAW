@@ -1,0 +1,6 @@
+C:\Users\csi21-sdiapos\Desktop\Programacion\1T\Tareas\P14f_Sumador_2\P14f_Sumador_2\bin\Debug\P14f_Sumador_2.exe.config
+C:\Users\csi21-sdiapos\Desktop\Programacion\1T\Tareas\P14f_Sumador_2\P14f_Sumador_2\bin\Debug\P14f_Sumador_2.exe
+C:\Users\csi21-sdiapos\Desktop\Programacion\1T\Tareas\P14f_Sumador_2\P14f_Sumador_2\bin\Debug\P14f_Sumador_2.pdb
+C:\Users\csi21-sdiapos\Desktop\Programacion\1T\Tareas\P14f_Sumador_2\P14f_Sumador_2\obj\Debug\P14f_Sumador_2.csproj.CoreCompileInputs.cache
+C:\Users\csi21-sdiapos\Desktop\Programacion\1T\Tareas\P14f_Sumador_2\P14f_Sumador_2\obj\Debug\P14f_Sumador_2.exe
+C:\Users\csi21-sdiapos\Desktop\Programacion\1T\Tareas\P14f_Sumador_2\P14f_Sumador_2\obj\Debug\P14f_Sumador_2.pdb

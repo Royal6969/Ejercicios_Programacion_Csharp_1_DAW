@@ -1,0 +1,7 @@
+C:\Users\csi21-sdiapos\Desktop\Programacion\1T\Tareas\P14g_Presenta_en_Columna_0\P14g_Presenta_en_Columna_0\bin\Debug\P14g_Presenta_en_Columna_0.exe.config
+C:\Users\csi21-sdiapos\Desktop\Programacion\1T\Tareas\P14g_Presenta_en_Columna_0\P14g_Presenta_en_Columna_0\bin\Debug\P14g_Presenta_en_Columna_0.exe
+C:\Users\csi21-sdiapos\Desktop\Programacion\1T\Tareas\P14g_Presenta_en_Columna_0\P14g_Presenta_en_Columna_0\bin\Debug\P14g_Presenta_en_Columna_0.pdb
+C:\Users\csi21-sdiapos\Desktop\Programacion\1T\Tareas\P14g_Presenta_en_Columna_0\P14g_Presenta_en_Columna_0\obj\Debug\P14g_Presenta_en_Columna_0.csproj.AssemblyReference.cache
+C:\Users\csi21-sdiapos\Desktop\Programacion\1T\Tareas\P14g_Presenta_en_Columna_0\P14g_Presenta_en_Columna_0\obj\Debug\P14g_Presenta_en_Columna_0.csproj.CoreCompileInputs.cache
+C:\Users\csi21-sdiapos\Desktop\Programacion\1T\Tareas\P14g_Presenta_en_Columna_0\P14g_Presenta_en_Columna_0\obj\Debug\P14g_Presenta_en_Columna_0.exe
+C:\Users\csi21-sdiapos\Desktop\Programacion\1T\Tareas\P14g_Presenta_en_Columna_0\P14g_Presenta_en_Columna_0\obj\Debug\P14g_Presenta_en_Columna_0.pdb
