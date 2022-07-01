@@ -1,0 +1,7 @@
+C:\Users\csi21-sdiapos\Desktop\Programacion\1T\Tareas\P14c0_Acierta_Numero_Basico\P14c0_Acierta_Numero_Basico\bin\Debug\P14c0_Acierta_Numero_Basico.exe.config
+C:\Users\csi21-sdiapos\Desktop\Programacion\1T\Tareas\P14c0_Acierta_Numero_Basico\P14c0_Acierta_Numero_Basico\bin\Debug\P14c0_Acierta_Numero_Basico.exe
+C:\Users\csi21-sdiapos\Desktop\Programacion\1T\Tareas\P14c0_Acierta_Numero_Basico\P14c0_Acierta_Numero_Basico\bin\Debug\P14c0_Acierta_Numero_Basico.pdb
+C:\Users\csi21-sdiapos\Desktop\Programacion\1T\Tareas\P14c0_Acierta_Numero_Basico\P14c0_Acierta_Numero_Basico\obj\Debug\P14c0_Acierta_Numero_Basico.csproj.AssemblyReference.cache
+C:\Users\csi21-sdiapos\Desktop\Programacion\1T\Tareas\P14c0_Acierta_Numero_Basico\P14c0_Acierta_Numero_Basico\obj\Debug\P14c0_Acierta_Numero_Basico.csproj.CoreCompileInputs.cache
+C:\Users\csi21-sdiapos\Desktop\Programacion\1T\Tareas\P14c0_Acierta_Numero_Basico\P14c0_Acierta_Numero_Basico\obj\Debug\P14c0_Acierta_Numero_Basico.exe
+C:\Users\csi21-sdiapos\Desktop\Programacion\1T\Tareas\P14c0_Acierta_Numero_Basico\P14c0_Acierta_Numero_Basico\obj\Debug\P14c0_Acierta_Numero_Basico.pdb

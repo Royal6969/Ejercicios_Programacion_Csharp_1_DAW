@@ -1,0 +1,7 @@
+C:\Users\csi21-sdiapos\Desktop\Programacion\1T\Tareas\P14e_Menu_Multiplos\P14e_Menu_Multiplos\bin\Debug\P14e_Menu_Multiplos.exe.config
+C:\Users\csi21-sdiapos\Desktop\Programacion\1T\Tareas\P14e_Menu_Multiplos\P14e_Menu_Multiplos\bin\Debug\P14e_Menu_Multiplos.exe
+C:\Users\csi21-sdiapos\Desktop\Programacion\1T\Tareas\P14e_Menu_Multiplos\P14e_Menu_Multiplos\bin\Debug\P14e_Menu_Multiplos.pdb
+C:\Users\csi21-sdiapos\Desktop\Programacion\1T\Tareas\P14e_Menu_Multiplos\P14e_Menu_Multiplos\obj\Debug\P14e_Menu_Multiplos.csproj.AssemblyReference.cache
+C:\Users\csi21-sdiapos\Desktop\Programacion\1T\Tareas\P14e_Menu_Multiplos\P14e_Menu_Multiplos\obj\Debug\P14e_Menu_Multiplos.csproj.CoreCompileInputs.cache
+C:\Users\csi21-sdiapos\Desktop\Programacion\1T\Tareas\P14e_Menu_Multiplos\P14e_Menu_Multiplos\obj\Debug\P14e_Menu_Multiplos.exe
+C:\Users\csi21-sdiapos\Desktop\Programacion\1T\Tareas\P14e_Menu_Multiplos\P14e_Menu_Multiplos\obj\Debug\P14e_Menu_Multiplos.pdb

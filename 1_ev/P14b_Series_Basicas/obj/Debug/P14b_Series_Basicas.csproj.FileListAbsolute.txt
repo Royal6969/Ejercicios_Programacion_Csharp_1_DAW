@@ -1,0 +1,7 @@
+C:\Users\csi21-sdiapos\Desktop\Programacion\1T\Tareas\P14b_Series_Basicas\P14b_Series_Basicas\bin\Debug\P14b_Series_Basicas.exe.config
+C:\Users\csi21-sdiapos\Desktop\Programacion\1T\Tareas\P14b_Series_Basicas\P14b_Series_Basicas\bin\Debug\P14b_Series_Basicas.exe
+C:\Users\csi21-sdiapos\Desktop\Programacion\1T\Tareas\P14b_Series_Basicas\P14b_Series_Basicas\bin\Debug\P14b_Series_Basicas.pdb
+C:\Users\csi21-sdiapos\Desktop\Programacion\1T\Tareas\P14b_Series_Basicas\P14b_Series_Basicas\obj\Debug\P14b_Series_Basicas.csproj.AssemblyReference.cache
+C:\Users\csi21-sdiapos\Desktop\Programacion\1T\Tareas\P14b_Series_Basicas\P14b_Series_Basicas\obj\Debug\P14b_Series_Basicas.csproj.CoreCompileInputs.cache
+C:\Users\csi21-sdiapos\Desktop\Programacion\1T\Tareas\P14b_Series_Basicas\P14b_Series_Basicas\obj\Debug\P14b_Series_Basicas.exe
+C:\Users\csi21-sdiapos\Desktop\Programacion\1T\Tareas\P14b_Series_Basicas\P14b_Series_Basicas\obj\Debug\P14b_Series_Basicas.pdb

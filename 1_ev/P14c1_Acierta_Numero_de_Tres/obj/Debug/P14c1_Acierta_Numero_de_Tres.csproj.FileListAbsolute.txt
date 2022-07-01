@@ -1,0 +1,7 @@
+C:\Users\csi21-sdiapos\Desktop\Programacion\1T\Tareas\P14c1_Acierta_Numero_de_Tres\P14c1_Acierta_Numero_de_Tres\bin\Debug\P14c1_Acierta_Numero_de_Tres.exe.config
+C:\Users\csi21-sdiapos\Desktop\Programacion\1T\Tareas\P14c1_Acierta_Numero_de_Tres\P14c1_Acierta_Numero_de_Tres\bin\Debug\P14c1_Acierta_Numero_de_Tres.exe
+C:\Users\csi21-sdiapos\Desktop\Programacion\1T\Tareas\P14c1_Acierta_Numero_de_Tres\P14c1_Acierta_Numero_de_Tres\bin\Debug\P14c1_Acierta_Numero_de_Tres.pdb
+C:\Users\csi21-sdiapos\Desktop\Programacion\1T\Tareas\P14c1_Acierta_Numero_de_Tres\P14c1_Acierta_Numero_de_Tres\obj\Debug\P14c1_Acierta_Numero_de_Tres.csproj.AssemblyReference.cache
+C:\Users\csi21-sdiapos\Desktop\Programacion\1T\Tareas\P14c1_Acierta_Numero_de_Tres\P14c1_Acierta_Numero_de_Tres\obj\Debug\P14c1_Acierta_Numero_de_Tres.csproj.CoreCompileInputs.cache
+C:\Users\csi21-sdiapos\Desktop\Programacion\1T\Tareas\P14c1_Acierta_Numero_de_Tres\P14c1_Acierta_Numero_de_Tres\obj\Debug\P14c1_Acierta_Numero_de_Tres.exe
+C:\Users\csi21-sdiapos\Desktop\Programacion\1T\Tareas\P14c1_Acierta_Numero_de_Tres\P14c1_Acierta_Numero_de_Tres\obj\Debug\P14c1_Acierta_Numero_de_Tres.pdb

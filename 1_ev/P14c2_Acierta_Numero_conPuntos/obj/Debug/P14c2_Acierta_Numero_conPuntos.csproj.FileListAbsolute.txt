@@ -1,0 +1,7 @@
+C:\Users\csi21-sdiapos\Desktop\Programacion\1T\Tareas\P14c2_Acierta_Numero_conPuntos\P14c2_Acierta_Numero_conPuntos\bin\Debug\P14c2_Acierta_Numero_conPuntos.exe.config
+C:\Users\csi21-sdiapos\Desktop\Programacion\1T\Tareas\P14c2_Acierta_Numero_conPuntos\P14c2_Acierta_Numero_conPuntos\bin\Debug\P14c2_Acierta_Numero_conPuntos.exe
+C:\Users\csi21-sdiapos\Desktop\Programacion\1T\Tareas\P14c2_Acierta_Numero_conPuntos\P14c2_Acierta_Numero_conPuntos\bin\Debug\P14c2_Acierta_Numero_conPuntos.pdb
+C:\Users\csi21-sdiapos\Desktop\Programacion\1T\Tareas\P14c2_Acierta_Numero_conPuntos\P14c2_Acierta_Numero_conPuntos\obj\Debug\P14c2_Acierta_Numero_conPuntos.csproj.AssemblyReference.cache
+C:\Users\csi21-sdiapos\Desktop\Programacion\1T\Tareas\P14c2_Acierta_Numero_conPuntos\P14c2_Acierta_Numero_conPuntos\obj\Debug\P14c2_Acierta_Numero_conPuntos.csproj.CoreCompileInputs.cache
+C:\Users\csi21-sdiapos\Desktop\Programacion\1T\Tareas\P14c2_Acierta_Numero_conPuntos\P14c2_Acierta_Numero_conPuntos\obj\Debug\P14c2_Acierta_Numero_conPuntos.exe
+C:\Users\csi21-sdiapos\Desktop\Programacion\1T\Tareas\P14c2_Acierta_Numero_conPuntos\P14c2_Acierta_Numero_conPuntos\obj\Debug\P14c2_Acierta_Numero_conPuntos.pdb
