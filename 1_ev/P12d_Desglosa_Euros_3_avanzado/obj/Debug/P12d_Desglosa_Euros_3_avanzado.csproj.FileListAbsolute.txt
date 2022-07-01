@@ -1,0 +1,7 @@
+C:\Users\csi21-sdiapos\source\repos\P12d_Desglosa_Euros_3_avanzado\P12d_Desglosa_Euros_3_avanzado\bin\Debug\P12d_Desglosa_Euros_3_avanzado.exe.config
+C:\Users\csi21-sdiapos\source\repos\P12d_Desglosa_Euros_3_avanzado\P12d_Desglosa_Euros_3_avanzado\bin\Debug\P12d_Desglosa_Euros_3_avanzado.exe
+C:\Users\csi21-sdiapos\source\repos\P12d_Desglosa_Euros_3_avanzado\P12d_Desglosa_Euros_3_avanzado\bin\Debug\P12d_Desglosa_Euros_3_avanzado.pdb
+C:\Users\csi21-sdiapos\source\repos\P12d_Desglosa_Euros_3_avanzado\P12d_Desglosa_Euros_3_avanzado\obj\Debug\P12d_Desglosa_Euros_3_avanzado.csproj.AssemblyReference.cache
+C:\Users\csi21-sdiapos\source\repos\P12d_Desglosa_Euros_3_avanzado\P12d_Desglosa_Euros_3_avanzado\obj\Debug\P12d_Desglosa_Euros_3_avanzado.csproj.CoreCompileInputs.cache
+C:\Users\csi21-sdiapos\source\repos\P12d_Desglosa_Euros_3_avanzado\P12d_Desglosa_Euros_3_avanzado\obj\Debug\P12d_Desglosa_Euros_3_avanzado.exe
+C:\Users\csi21-sdiapos\source\repos\P12d_Desglosa_Euros_3_avanzado\P12d_Desglosa_Euros_3_avanzado\obj\Debug\P12d_Desglosa_Euros_3_avanzado.pdb

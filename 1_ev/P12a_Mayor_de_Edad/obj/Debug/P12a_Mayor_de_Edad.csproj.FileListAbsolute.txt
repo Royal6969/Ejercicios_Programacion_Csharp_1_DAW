@@ -1,0 +1,7 @@
+C:\Users\csi21-sdiapos\Desktop\Programacion\1T\Tareas\P12a_Mayor_de_Edad\P12a_Mayor_de_Edad\bin\Debug\P12a_Mayor_de_Edad.exe.config
+C:\Users\csi21-sdiapos\Desktop\Programacion\1T\Tareas\P12a_Mayor_de_Edad\P12a_Mayor_de_Edad\bin\Debug\P12a_Mayor_de_Edad.exe
+C:\Users\csi21-sdiapos\Desktop\Programacion\1T\Tareas\P12a_Mayor_de_Edad\P12a_Mayor_de_Edad\bin\Debug\P12a_Mayor_de_Edad.pdb
+C:\Users\csi21-sdiapos\Desktop\Programacion\1T\Tareas\P12a_Mayor_de_Edad\P12a_Mayor_de_Edad\obj\Debug\P12a_Mayor_de_Edad.csproj.AssemblyReference.cache
+C:\Users\csi21-sdiapos\Desktop\Programacion\1T\Tareas\P12a_Mayor_de_Edad\P12a_Mayor_de_Edad\obj\Debug\P12a_Mayor_de_Edad.csproj.CoreCompileInputs.cache
+C:\Users\csi21-sdiapos\Desktop\Programacion\1T\Tareas\P12a_Mayor_de_Edad\P12a_Mayor_de_Edad\obj\Debug\P12a_Mayor_de_Edad.exe
+C:\Users\csi21-sdiapos\Desktop\Programacion\1T\Tareas\P12a_Mayor_de_Edad\P12a_Mayor_de_Edad\obj\Debug\P12a_Mayor_de_Edad.pdb

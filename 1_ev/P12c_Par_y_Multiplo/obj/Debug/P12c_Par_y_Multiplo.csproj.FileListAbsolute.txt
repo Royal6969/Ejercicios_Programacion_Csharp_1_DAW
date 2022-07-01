@@ -1,0 +1,7 @@
+C:\Users\csi21-sdiapos\Desktop\Programacion\1T\Tareas\P12c_Par_y_Multiplo\P12c_Par_y_Multiplo\bin\Debug\P12c_Par_y_Multiplo.exe.config
+C:\Users\csi21-sdiapos\Desktop\Programacion\1T\Tareas\P12c_Par_y_Multiplo\P12c_Par_y_Multiplo\bin\Debug\P12c_Par_y_Multiplo.exe
+C:\Users\csi21-sdiapos\Desktop\Programacion\1T\Tareas\P12c_Par_y_Multiplo\P12c_Par_y_Multiplo\bin\Debug\P12c_Par_y_Multiplo.pdb
+C:\Users\csi21-sdiapos\Desktop\Programacion\1T\Tareas\P12c_Par_y_Multiplo\P12c_Par_y_Multiplo\obj\Debug\P12c_Par_y_Multiplo.csproj.CoreCompileInputs.cache
+C:\Users\csi21-sdiapos\Desktop\Programacion\1T\Tareas\P12c_Par_y_Multiplo\P12c_Par_y_Multiplo\obj\Debug\P12c_Par_y_Multiplo.exe
+C:\Users\csi21-sdiapos\Desktop\Programacion\1T\Tareas\P12c_Par_y_Multiplo\P12c_Par_y_Multiplo\obj\Debug\P12c_Par_y_Multiplo.pdb
+C:\Users\csi21-sdiapos\Desktop\Programacion\1T\Tareas\P12c_Par_y_Multiplo\P12c_Par_y_Multiplo\obj\Debug\P12c_Par_y_Multiplo.csproj.AssemblyReference.cache

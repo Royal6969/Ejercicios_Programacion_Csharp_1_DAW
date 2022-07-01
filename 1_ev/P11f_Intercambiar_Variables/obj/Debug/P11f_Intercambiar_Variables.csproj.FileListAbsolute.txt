@@ -1,0 +1,7 @@
+C:\Users\csi21-sdiapos\Desktop\Programacion\1T\Tareas\P11f_Intercambiar_Variables\P11f_Intercambiar_Variables\bin\Debug\P11f_Intercambiar_Variables.exe.config
+C:\Users\csi21-sdiapos\Desktop\Programacion\1T\Tareas\P11f_Intercambiar_Variables\P11f_Intercambiar_Variables\bin\Debug\P11f_Intercambiar_Variables.exe
+C:\Users\csi21-sdiapos\Desktop\Programacion\1T\Tareas\P11f_Intercambiar_Variables\P11f_Intercambiar_Variables\bin\Debug\P11f_Intercambiar_Variables.pdb
+C:\Users\csi21-sdiapos\Desktop\Programacion\1T\Tareas\P11f_Intercambiar_Variables\P11f_Intercambiar_Variables\obj\Debug\P11f_Intercambiar_Variables.csproj.AssemblyReference.cache
+C:\Users\csi21-sdiapos\Desktop\Programacion\1T\Tareas\P11f_Intercambiar_Variables\P11f_Intercambiar_Variables\obj\Debug\P11f_Intercambiar_Variables.csproj.CoreCompileInputs.cache
+C:\Users\csi21-sdiapos\Desktop\Programacion\1T\Tareas\P11f_Intercambiar_Variables\P11f_Intercambiar_Variables\obj\Debug\P11f_Intercambiar_Variables.exe
+C:\Users\csi21-sdiapos\Desktop\Programacion\1T\Tareas\P11f_Intercambiar_Variables\P11f_Intercambiar_Variables\obj\Debug\P11f_Intercambiar_Variables.pdb

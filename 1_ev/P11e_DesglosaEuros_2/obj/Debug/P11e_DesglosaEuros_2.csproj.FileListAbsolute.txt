@@ -1,0 +1,7 @@
+C:\Users\csi21-sdiapos\Desktop\Programacion\1T\Tareas\P11e_DesglosaEuros_2\P11e_DesglosaEuros_2\bin\Debug\P11e_DesglosaEuros_2.exe.config
+C:\Users\csi21-sdiapos\Desktop\Programacion\1T\Tareas\P11e_DesglosaEuros_2\P11e_DesglosaEuros_2\bin\Debug\P11e_DesglosaEuros_2.exe
+C:\Users\csi21-sdiapos\Desktop\Programacion\1T\Tareas\P11e_DesglosaEuros_2\P11e_DesglosaEuros_2\bin\Debug\P11e_DesglosaEuros_2.pdb
+C:\Users\csi21-sdiapos\Desktop\Programacion\1T\Tareas\P11e_DesglosaEuros_2\P11e_DesglosaEuros_2\obj\Debug\P11e_DesglosaEuros_2.csproj.AssemblyReference.cache
+C:\Users\csi21-sdiapos\Desktop\Programacion\1T\Tareas\P11e_DesglosaEuros_2\P11e_DesglosaEuros_2\obj\Debug\P11e_DesglosaEuros_2.csproj.CoreCompileInputs.cache
+C:\Users\csi21-sdiapos\Desktop\Programacion\1T\Tareas\P11e_DesglosaEuros_2\P11e_DesglosaEuros_2\obj\Debug\P11e_DesglosaEuros_2.exe
+C:\Users\csi21-sdiapos\Desktop\Programacion\1T\Tareas\P11e_DesglosaEuros_2\P11e_DesglosaEuros_2\obj\Debug\P11e_DesglosaEuros_2.pdb
