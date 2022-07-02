@@ -1,0 +1,10 @@
+Directorio: D:\Experiencias\Utilidades
+
+Ficheros Seleccionados:
+-----------------------
+BuscaEmails.exe
+Comando dir.txt
+CorreosDesdeExcel.exe
+PalabrasConTilde.txt
+QuitaSatosLinea.exe
+RenombraFicheros.exe

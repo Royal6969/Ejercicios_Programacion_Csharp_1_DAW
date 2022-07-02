@@ -1,0 +1,51 @@
+C:\Users\Alberto\Desktop\Banco de Pruebas\Captura nombre Ficheros\CapturaNombreFicheros\obj\x86\Debug\CapturaNombreFicheros.csprojAssemblyReference.cache
+C:\Users\Alberto\Desktop\Banco de Pruebas\Captura nombre Ficheros\CapturaNombreFicheros\obj\x86\Debug\CapturaNombreFicheros.Properties.Resources.resources
+C:\Users\Alberto\Desktop\Banco de Pruebas\Captura nombre Ficheros\CapturaNombreFicheros\obj\x86\Debug\CapturaNombreFicheros.csproj.GenerateResource.cache
+C:\Users\Alberto\Desktop\Banco de Pruebas\Captura nombre Ficheros\CapturaNombreFicheros\obj\x86\Debug\CapturaNombreFicheros.csproj.CoreCompileInputs.cache
+C:\Users\Alberto\Desktop\Banco de Pruebas\Captura nombre Ficheros\CapturaNombreFicheros\bin\Debug\CapturaNombreFicheros.exe.config
+C:\Users\Alberto\Desktop\Banco de Pruebas\Captura nombre Ficheros\CapturaNombreFicheros\bin\Debug\CapturaNombreFicheros.exe
+C:\Users\Alberto\Desktop\Banco de Pruebas\Captura nombre Ficheros\CapturaNombreFicheros\bin\Debug\CapturaNombreFicheros.pdb
+C:\Users\Alberto\Desktop\Banco de Pruebas\Captura nombre Ficheros\CapturaNombreFicheros\obj\x86\Debug\CapturaNombreFicheros.FormBuscaEmails.resources
+C:\Users\Alberto\Desktop\Banco de Pruebas\Captura nombre Ficheros\CapturaNombreFicheros\obj\x86\Debug\CapturaNombreFicheros.FormEspere.resources
+C:\Users\Alberto\Desktop\Banco de Pruebas\Captura nombre Ficheros\CapturaNombreFicheros\obj\x86\Debug\CapturaNombreFicheros.exe
+C:\Users\Alberto\Desktop\Banco de Pruebas\Captura nombre Ficheros\CapturaNombreFicheros\obj\x86\Debug\CapturaNombreFicheros.pdb
+C:\Users\Alberto\Desktop\Captura nombre Ficheros\CapturaNombreFicheros\obj\x86\Debug\CapturaNombreFicheros.csprojAssemblyReference.cache
+C:\Users\Alberto\Desktop\Captura nombre Ficheros\CapturaNombreFicheros\obj\x86\Debug\CapturaNombreFicheros.FormBuscaEmails.resources
+C:\Users\Alberto\Desktop\Captura nombre Ficheros\CapturaNombreFicheros\obj\x86\Debug\CapturaNombreFicheros.Properties.Resources.resources
+C:\Users\Alberto\Desktop\Captura nombre Ficheros\CapturaNombreFicheros\obj\x86\Debug\CapturaNombreFicheros.csproj.GenerateResource.cache
+C:\Users\Alberto\Desktop\Captura nombre Ficheros\CapturaNombreFicheros\obj\x86\Debug\CapturaNombreFicheros.csproj.CoreCompileInputs.cache
+C:\Users\Alberto\Desktop\Captura nombre Ficheros\CapturaNombreFicheros\obj\x86\Debug\CapturaNombreFicheros.exe
+C:\Users\Alberto\Desktop\Captura nombre Ficheros\CapturaNombreFicheros\obj\x86\Debug\CapturaNombreFicheros.pdb
+C:\Users\Alberto\Desktop\Captura nombre Ficheros\CapturaNombreFicheros\bin\Debug\CapturaNombreFicheros.exe.config
+C:\Users\Alberto\Desktop\Captura nombre Ficheros\CapturaNombreFicheros\bin\Debug\CapturaNombreFicheros.exe
+C:\Users\Alberto\Desktop\Captura nombre Ficheros\CapturaNombreFicheros\bin\Debug\CapturaNombreFicheros.pdb
+C:\Users\Alberto\Desktop\Captura nombre Ficheros - Tarea\CapturaNombreFicheros\bin\Debug\CapturaNombreFicheros.exe.config
+C:\Users\Alberto\Desktop\Captura nombre Ficheros - Tarea\CapturaNombreFicheros\bin\Debug\CapturaNombreFicheros.exe
+C:\Users\Alberto\Desktop\Captura nombre Ficheros - Tarea\CapturaNombreFicheros\bin\Debug\CapturaNombreFicheros.pdb
+C:\Users\Alberto\Desktop\Captura nombre Ficheros - Tarea\CapturaNombreFicheros\obj\x86\Debug\CapturaNombreFicheros.FormListarFicheros.resources
+C:\Users\Alberto\Desktop\Captura nombre Ficheros - Tarea\CapturaNombreFicheros\obj\x86\Debug\CapturaNombreFicheros.Properties.Resources.resources
+C:\Users\Alberto\Desktop\Captura nombre Ficheros - Tarea\CapturaNombreFicheros\obj\x86\Debug\CapturaNombreFicheros.csproj.GenerateResource.cache
+C:\Users\Alberto\Desktop\Captura nombre Ficheros - Tarea\CapturaNombreFicheros\obj\x86\Debug\CapturaNombreFicheros.csproj.CoreCompileInputs.cache
+C:\Users\Alberto\Desktop\Captura nombre Ficheros - Tarea\CapturaNombreFicheros\obj\x86\Debug\CapturaNombreFicheros.exe
+C:\Users\Alberto\Desktop\Captura nombre Ficheros - Tarea\CapturaNombreFicheros\obj\x86\Debug\CapturaNombreFicheros.pdb
+C:\Users\Alberto\Desktop\Captura nombre Ficheros - Tarea\CapturaNombreFicheros\obj\x86\Debug\CapturaNombreFicheros.csprojAssemblyReference.cache
+C:\Users\csi21-sdiapos\Desktop\CapturaNombreFicheros\bin\Debug\CapturaNombreFicheros.exe.config
+C:\Users\csi21-sdiapos\Desktop\CapturaNombreFicheros\bin\Debug\CapturaNombreFicheros.exe
+C:\Users\csi21-sdiapos\Desktop\CapturaNombreFicheros\bin\Debug\CapturaNombreFicheros.pdb
+C:\Users\csi21-sdiapos\Desktop\CapturaNombreFicheros\obj\x86\Debug\CapturaNombreFicheros.csproj.AssemblyReference.cache
+C:\Users\csi21-sdiapos\Desktop\CapturaNombreFicheros\obj\x86\Debug\CapturaNombreFicheros.FormListarFicheros.resources
+C:\Users\csi21-sdiapos\Desktop\CapturaNombreFicheros\obj\x86\Debug\CapturaNombreFicheros.Properties.Resources.resources
+C:\Users\csi21-sdiapos\Desktop\CapturaNombreFicheros\obj\x86\Debug\CapturaNombreFicheros.csproj.GenerateResource.cache
+C:\Users\csi21-sdiapos\Desktop\CapturaNombreFicheros\obj\x86\Debug\CapturaNombreFicheros.csproj.CoreCompileInputs.cache
+C:\Users\csi21-sdiapos\Desktop\CapturaNombreFicheros\obj\x86\Debug\CapturaNombreFicheros.exe
+C:\Users\csi21-sdiapos\Desktop\CapturaNombreFicheros\obj\x86\Debug\CapturaNombreFicheros.pdb
+C:\Users\csi21-sdiapos\Desktop\P39_Captura_Nombre_De_Ficheros\CapturaNombreFicheros\bin\Debug\CapturaNombreFicheros.exe.config
+C:\Users\csi21-sdiapos\Desktop\P39_Captura_Nombre_De_Ficheros\CapturaNombreFicheros\bin\Debug\CapturaNombreFicheros.exe
+C:\Users\csi21-sdiapos\Desktop\P39_Captura_Nombre_De_Ficheros\CapturaNombreFicheros\bin\Debug\CapturaNombreFicheros.pdb
+C:\Users\csi21-sdiapos\Desktop\P39_Captura_Nombre_De_Ficheros\CapturaNombreFicheros\obj\x86\Debug\CapturaNombreFicheros.csproj.AssemblyReference.cache
+C:\Users\csi21-sdiapos\Desktop\P39_Captura_Nombre_De_Ficheros\CapturaNombreFicheros\obj\x86\Debug\CapturaNombreFicheros.FormListarFicheros.resources
+C:\Users\csi21-sdiapos\Desktop\P39_Captura_Nombre_De_Ficheros\CapturaNombreFicheros\obj\x86\Debug\CapturaNombreFicheros.Properties.Resources.resources
+C:\Users\csi21-sdiapos\Desktop\P39_Captura_Nombre_De_Ficheros\CapturaNombreFicheros\obj\x86\Debug\CapturaNombreFicheros.csproj.GenerateResource.cache
+C:\Users\csi21-sdiapos\Desktop\P39_Captura_Nombre_De_Ficheros\CapturaNombreFicheros\obj\x86\Debug\CapturaNombreFicheros.csproj.CoreCompileInputs.cache
+C:\Users\csi21-sdiapos\Desktop\P39_Captura_Nombre_De_Ficheros\CapturaNombreFicheros\obj\x86\Debug\CapturaNombreFicheros.exe
+C:\Users\csi21-sdiapos\Desktop\P39_Captura_Nombre_De_Ficheros\CapturaNombreFicheros\obj\x86\Debug\CapturaNombreFicheros.pdb

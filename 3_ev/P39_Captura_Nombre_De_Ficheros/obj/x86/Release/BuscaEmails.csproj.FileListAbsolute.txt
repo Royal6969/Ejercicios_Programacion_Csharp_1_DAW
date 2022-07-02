@@ -1,0 +1,93 @@
+C:\Users\Alberto\Desktop\Buscar e-mails de archivos\BuscaEmailsActualizaBD\BuscaEmails\bin\Release\BuscaEmails.exe.config
+C:\Users\Alberto\Desktop\Buscar e-mails de archivos\BuscaEmailsActualizaBD\BuscaEmails\bin\Release\BuscaEmails.exe
+C:\Users\Alberto\Desktop\Buscar e-mails de archivos\BuscaEmailsActualizaBD\BuscaEmails\bin\Release\BuscaEmails.pdb
+C:\Users\Alberto\Desktop\Buscar e-mails de archivos\BuscaEmailsActualizaBD\BuscaEmails\obj\x86\Release\BuscaEmails.FormBuscaEmails.resources
+C:\Users\Alberto\Desktop\Buscar e-mails de archivos\BuscaEmailsActualizaBD\BuscaEmails\obj\x86\Release\BuscaEmails.Properties.Resources.resources
+C:\Users\Alberto\Desktop\Buscar e-mails de archivos\BuscaEmailsActualizaBD\BuscaEmails\obj\x86\Release\BuscaEmails.csproj.GenerateResource.Cache
+C:\Users\Alberto\Desktop\Buscar e-mails de archivos\BuscaEmailsActualizaBD\BuscaEmails\obj\x86\Release\BuscaEmails.exe
+C:\Users\Alberto\Desktop\Buscar e-mails de archivos\BuscaEmailsActualizaBD\BuscaEmails\obj\x86\Release\BuscaEmails.pdb
+C:\Users\Alberto\Desktop\Buscar e-mails de archivos\BuscaEmailsActualizaBD\BuscaEmails\obj\x86\Release\BuscaEmails.csprojResolveAssemblyReference.cache
+C:\Users\Alberto\Desktop\Buscar e-mails de archivos\BuscaEmailsActualizaBD\BuscaEmails\bin\Release\AlumniAltair.mdb
+C:\Users\Alberto\Documents\Altair\Experiencias\Buscar e-mails de archivos\BuscaEmailsActualizaBD\BuscaEmails\bin\Release\BuscaEmails.exe.config
+C:\Users\Alberto\Documents\Altair\Experiencias\Buscar e-mails de archivos\BuscaEmailsActualizaBD\BuscaEmails\obj\x86\Release\BuscaEmails.exe
+C:\Users\Alberto\Documents\Altair\Experiencias\Buscar e-mails de archivos\BuscaEmailsActualizaBD\BuscaEmails\obj\x86\Release\BuscaEmails.pdb
+C:\Users\Alberto\Documents\Altair\Experiencias\Buscar e-mails de archivos\BuscaEmailsActualizaBD\BuscaEmails\bin\Release\AlumniAltair.mdb
+C:\Users\Alberto\Documents\Altair\Experiencias\Buscar e-mails de archivos\BuscaEmailsActualizaBD\BuscaEmails\bin\Release\BuscaEmails.exe
+C:\Users\Alberto\Documents\Altair\Experiencias\Buscar e-mails de archivos\BuscaEmailsActualizaBD\BuscaEmails\bin\Release\BuscaEmails.pdb
+C:\Users\Alberto\Documents\Altair\Experiencias\Buscar e-mails de archivos\BuscaEmailsActualizaBD\BuscaEmails\obj\x86\Release\BuscaEmails.csprojResolveAssemblyReference.cache
+C:\Users\Alberto\Documents\Altair\Experiencias\Buscar e-mails de archivos\BuscaEmailsActualizaBD\BuscaEmails\obj\x86\Release\BuscaEmails.FormBuscaEmails.resources
+C:\Users\Alberto\Documents\Altair\Experiencias\Buscar e-mails de archivos\BuscaEmailsActualizaBD\BuscaEmails\obj\x86\Release\BuscaEmails.Properties.Resources.resources
+C:\Users\Alberto\Documents\Altair\Experiencias\Buscar e-mails de archivos\BuscaEmailsActualizaBD\BuscaEmails\obj\x86\Release\BuscaEmails.csproj.GenerateResource.Cache
+C:\Altair\Experiencias\Buscar e-mails de archivos\BuscaEmailsActualizaBD\BuscaEmails\bin\Release\BuscaEmails.exe.config
+C:\Altair\Experiencias\Buscar e-mails de archivos\BuscaEmailsActualizaBD\BuscaEmails\obj\x86\Release\BuscaEmails.exe
+C:\Altair\Experiencias\Buscar e-mails de archivos\BuscaEmailsActualizaBD\BuscaEmails\obj\x86\Release\BuscaEmails.pdb
+C:\Altair\Experiencias\Buscar e-mails de archivos\BuscaEmailsActualizaBD\BuscaEmails\bin\Release\AlumniAltair.mdb
+C:\Altair\Experiencias\Buscar e-mails de archivos\BuscaEmailsActualizaBD\BuscaEmails\bin\Release\BuscaEmails.exe
+C:\Altair\Experiencias\Buscar e-mails de archivos\BuscaEmailsActualizaBD\BuscaEmails\bin\Release\BuscaEmails.pdb
+C:\Altair\Experiencias\Buscar e-mails de archivos\BuscaEmailsActualizaBD\BuscaEmails\obj\x86\Release\BuscaEmails.csprojResolveAssemblyReference.cache
+C:\Altair\Experiencias\Buscar e-mails de archivos\BuscaEmailsActualizaBD\BuscaEmails\obj\x86\Release\BuscaEmails.FormBuscaEmails.resources
+C:\Altair\Experiencias\Buscar e-mails de archivos\BuscaEmailsActualizaBD\BuscaEmails\obj\x86\Release\BuscaEmails.Properties.Resources.resources
+C:\Altair\Experiencias\Buscar e-mails de archivos\BuscaEmailsActualizaBD\BuscaEmails\obj\x86\Release\BuscaEmails.csproj.GenerateResource.Cache
+C:\Users\Alberto\Desktop\BuscaEmailsActualizaBD\BuscaEmails\bin\Release\BuscaEmails.exe.config
+C:\Users\Alberto\Desktop\BuscaEmailsActualizaBD\BuscaEmails\obj\x86\Release\BuscaEmails.exe
+C:\Users\Alberto\Desktop\BuscaEmailsActualizaBD\BuscaEmails\obj\x86\Release\BuscaEmails.pdb
+C:\Users\Alberto\Desktop\BuscaEmailsActualizaBD\BuscaEmails\obj\x86\Release\BuscaEmails.csprojResolveAssemblyReference.cache
+C:\Users\Alberto\Desktop\BuscaEmailsActualizaBD\BuscaEmails\obj\x86\Release\BuscaEmails.FormBuscaEmails.resources
+C:\Users\Alberto\Desktop\BuscaEmailsActualizaBD\BuscaEmails\obj\x86\Release\BuscaEmails.Properties.Resources.resources
+C:\Users\Alberto\Desktop\BuscaEmailsActualizaBD\BuscaEmails\obj\x86\Release\BuscaEmails.csproj.GenerateResource.Cache
+C:\Users\Alberto\Desktop\BuscaEmailsActualizaBD\BuscaEmails\bin\Release\BuscaEmails.exe
+C:\Users\Alberto\Desktop\BuscaEmailsActualizaBD\BuscaEmails\bin\Release\BuscaEmails.pdb
+C:\Users\Alberto\Desktop\BuscaEmails\BuscaEmails\bin\Release\BuscaEmails.exe.config
+C:\Users\Alberto\Desktop\BuscaEmails\BuscaEmails\obj\x86\Release\BuscaEmails.exe
+C:\Users\Alberto\Desktop\BuscaEmails\BuscaEmails\obj\x86\Release\BuscaEmails.pdb
+C:\Users\Alberto\Desktop\BuscaEmails\BuscaEmails\bin\Release\Alumni.accdb
+C:\Users\Alberto\Desktop\BuscaEmails\BuscaEmails\bin\Release\BuscaEmails.exe
+C:\Users\Alberto\Desktop\BuscaEmails\BuscaEmails\bin\Release\BuscaEmails.pdb
+C:\Users\Alberto\Desktop\BuscaEmails\BuscaEmails\obj\x86\Release\BuscaEmails.csprojResolveAssemblyReference.cache
+C:\Users\Alberto\Desktop\BuscaEmails\BuscaEmails\obj\x86\Release\BuscaEmails.FormBuscaEmails.resources
+C:\Users\Alberto\Desktop\BuscaEmails\BuscaEmails\obj\x86\Release\BuscaEmails.Properties.Resources.resources
+C:\Users\Alberto\Desktop\BuscaEmails\BuscaEmails\obj\x86\Release\BuscaEmails.csproj.GenerateResource.Cache
+C:\Altair\Experiencias\Buscar e-mails de archivos\BuscaEmails\BuscaEmails\bin\Release\BuscaEmails.exe.config
+C:\Altair\Experiencias\Buscar e-mails de archivos\BuscaEmails\BuscaEmails\obj\x86\Release\BuscaEmails.exe
+C:\Altair\Experiencias\Buscar e-mails de archivos\BuscaEmails\BuscaEmails\obj\x86\Release\BuscaEmails.pdb
+C:\Altair\Experiencias\Buscar e-mails de archivos\BuscaEmails\BuscaEmails\bin\Release\Alumni.accdb
+C:\Altair\Experiencias\Buscar e-mails de archivos\BuscaEmails\BuscaEmails\obj\x86\Release\BuscaEmails.csprojResolveAssemblyReference.cache
+C:\Altair\Experiencias\Buscar e-mails de archivos\BuscaEmails\BuscaEmails\obj\x86\Release\BuscaEmails.FormBuscaEmails.resources
+C:\Altair\Experiencias\Buscar e-mails de archivos\BuscaEmails\BuscaEmails\obj\x86\Release\BuscaEmails.Properties.Resources.resources
+C:\Altair\Experiencias\Buscar e-mails de archivos\BuscaEmails\BuscaEmails\obj\x86\Release\BuscaEmails.csproj.GenerateResource.Cache
+C:\Altair\Experiencias\Buscar e-mails de archivos\BuscaEmails\BuscaEmails\bin\Release\BuscaEmails.exe
+C:\Altair\Experiencias\Buscar e-mails de archivos\BuscaEmails\BuscaEmails\bin\Release\BuscaEmails.pdb
+C:\Altair\Experiencias\Buscar e-mails de archivos\BuscaEmails\bin\Release\BuscaEmails.exe.config
+C:\Altair\Experiencias\Buscar e-mails de archivos\BuscaEmails\obj\x86\Release\BuscaEmails.exe
+C:\Altair\Experiencias\Buscar e-mails de archivos\BuscaEmails\obj\x86\Release\BuscaEmails.pdb
+C:\Altair\Experiencias\Buscar e-mails de archivos\BuscaEmails\bin\Release\Alumni.accdb
+C:\Altair\Experiencias\Buscar e-mails de archivos\BuscaEmails\bin\Release\BuscaEmails.exe
+C:\Altair\Experiencias\Buscar e-mails de archivos\BuscaEmails\bin\Release\BuscaEmails.pdb
+C:\Altair\Experiencias\Buscar e-mails de archivos\BuscaEmails\obj\x86\Release\BuscaEmails.csprojResolveAssemblyReference.cache
+C:\Altair\Experiencias\Buscar e-mails de archivos\BuscaEmails\obj\x86\Release\BuscaEmails.FormBuscaEmails.resources
+C:\Altair\Experiencias\Buscar e-mails de archivos\BuscaEmails\obj\x86\Release\BuscaEmails.Properties.Resources.resources
+C:\Altair\Experiencias\Buscar e-mails de archivos\BuscaEmails\obj\x86\Release\BuscaEmails.csproj.GenerateResource.Cache
+C:\Altair\Experiencias\Buscar e-mails de archivos\Versión 2018-2\BuscaEmails\bin\Release\BuscaEmails.exe.config
+C:\Altair\Experiencias\Buscar e-mails de archivos\Versión 2018-2\BuscaEmails\obj\x86\Release\BuscaEmails.exe
+C:\Altair\Experiencias\Buscar e-mails de archivos\Versión 2018-2\BuscaEmails\obj\x86\Release\BuscaEmails.pdb
+C:\Altair\Experiencias\Buscar e-mails de archivos\Versión 2018-2\BuscaEmails\bin\Release\Alumni.accdb
+C:\Altair\Experiencias\Buscar e-mails de archivos\Versión 2018-2\BuscaEmails\bin\Release\BuscaEmails.exe
+C:\Altair\Experiencias\Buscar e-mails de archivos\Versión 2018-2\BuscaEmails\bin\Release\BuscaEmails.pdb
+C:\Altair\Experiencias\Buscar e-mails de archivos\Versión 2018-2\BuscaEmails\obj\x86\Release\BuscaEmails.FormBuscaEmails.resources
+C:\Altair\Experiencias\Buscar e-mails de archivos\Versión 2018-2\BuscaEmails\obj\x86\Release\BuscaEmails.FormEspere.resources
+C:\Altair\Experiencias\Buscar e-mails de archivos\Versión 2018-2\BuscaEmails\obj\x86\Release\BuscaEmails.Properties.Resources.resources
+C:\Altair\Experiencias\Buscar e-mails de archivos\Versión 2018-2\BuscaEmails\obj\x86\Release\BuscaEmails.csproj.GenerateResource.Cache
+C:\Altair\Experiencias\Buscar e-mails de archivos\Versión 2018-2\BuscaEmails\obj\x86\Release\BuscaEmails.csprojAssemblyReference.cache
+C:\Altair\Experiencias\Buscar e-mails de archivos\Versión 2018-2\BuscaEmails\obj\x86\Release\BuscaEmails.csproj.CoreCompileInputs.cache
+C:\Users\Alberto\Desktop\Banco de Pruebas\Versión 2018-2\BuscaEmails\bin\Release\Alumni.accdb
+C:\Users\Alberto\Desktop\Banco de Pruebas\Versión 2018-2\BuscaEmails\bin\Release\BuscaEmails.exe.config
+C:\Users\Alberto\Desktop\Banco de Pruebas\Versión 2018-2\BuscaEmails\bin\Release\BuscaEmails.exe
+C:\Users\Alberto\Desktop\Banco de Pruebas\Versión 2018-2\BuscaEmails\bin\Release\BuscaEmails.pdb
+C:\Users\Alberto\Desktop\Banco de Pruebas\Versión 2018-2\BuscaEmails\obj\x86\Release\BuscaEmails.csprojAssemblyReference.cache
+C:\Users\Alberto\Desktop\Banco de Pruebas\Versión 2018-2\BuscaEmails\obj\x86\Release\BuscaEmails.FormBuscaEmails.resources
+C:\Users\Alberto\Desktop\Banco de Pruebas\Versión 2018-2\BuscaEmails\obj\x86\Release\BuscaEmails.FormEspere.resources
+C:\Users\Alberto\Desktop\Banco de Pruebas\Versión 2018-2\BuscaEmails\obj\x86\Release\BuscaEmails.Properties.Resources.resources
+C:\Users\Alberto\Desktop\Banco de Pruebas\Versión 2018-2\BuscaEmails\obj\x86\Release\BuscaEmails.csproj.GenerateResource.cache
+C:\Users\Alberto\Desktop\Banco de Pruebas\Versión 2018-2\BuscaEmails\obj\x86\Release\BuscaEmails.csproj.CoreCompileInputs.cache
+C:\Users\Alberto\Desktop\Banco de Pruebas\Versión 2018-2\BuscaEmails\obj\x86\Release\BuscaEmails.exe
+C:\Users\Alberto\Desktop\Banco de Pruebas\Versión 2018-2\BuscaEmails\obj\x86\Release\BuscaEmails.pdb
