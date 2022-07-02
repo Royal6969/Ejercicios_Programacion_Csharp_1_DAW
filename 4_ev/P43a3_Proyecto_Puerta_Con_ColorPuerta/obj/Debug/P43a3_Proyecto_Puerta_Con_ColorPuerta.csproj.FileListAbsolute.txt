@@ -1,0 +1,7 @@
+C:\Users\csi21-sdiapos\Desktop\Programacion\4Ev\Tareas\P43a3_Proyecto_Puerta_Con_ColorPuerta\obj\Debug\P43a3_Proyecto_Puerta_Con_ColorPuerta.csproj.AssemblyReference.cache
+C:\Users\csi21-sdiapos\Desktop\Programacion\4Ev\Tareas\P43a3_Proyecto_Puerta_Con_ColorPuerta\obj\Debug\P43a3_Proyecto_Puerta_Con_ColorPuerta.csproj.CoreCompileInputs.cache
+C:\Users\csi21-sdiapos\Desktop\Programacion\4Ev\Tareas\P43a3_Proyecto_Puerta_Con_ColorPuerta\bin\Debug\P43a3_Proyecto_Puerta_Con_ColorPuerta.exe.config
+C:\Users\csi21-sdiapos\Desktop\Programacion\4Ev\Tareas\P43a3_Proyecto_Puerta_Con_ColorPuerta\bin\Debug\P43a3_Proyecto_Puerta_Con_ColorPuerta.exe
+C:\Users\csi21-sdiapos\Desktop\Programacion\4Ev\Tareas\P43a3_Proyecto_Puerta_Con_ColorPuerta\bin\Debug\P43a3_Proyecto_Puerta_Con_ColorPuerta.pdb
+C:\Users\csi21-sdiapos\Desktop\Programacion\4Ev\Tareas\P43a3_Proyecto_Puerta_Con_ColorPuerta\obj\Debug\P43a3_Proyecto_Puerta_Con_ColorPuerta.exe
+C:\Users\csi21-sdiapos\Desktop\Programacion\4Ev\Tareas\P43a3_Proyecto_Puerta_Con_ColorPuerta\obj\Debug\P43a3_Proyecto_Puerta_Con_ColorPuerta.pdb

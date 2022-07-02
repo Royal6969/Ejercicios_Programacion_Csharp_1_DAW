@@ -1,0 +1,8 @@
+C:\Users\Sergio DC\Desktop\DAW\Programacion\4Ev\P43a4_Proyecto_Portón_Con_Polimorfismo\bin\Debug\P43a4_Proyecto_Portón_Con_Polimorfismo.exe.config
+C:\Users\Sergio DC\Desktop\DAW\Programacion\4Ev\P43a4_Proyecto_Portón_Con_Polimorfismo\bin\Debug\P43a4_Proyecto_Portón_Con_Polimorfismo.exe
+C:\Users\Sergio DC\Desktop\DAW\Programacion\4Ev\P43a4_Proyecto_Portón_Con_Polimorfismo\bin\Debug\P43a4_Proyecto_Portón_Con_Polimorfismo.pdb
+C:\Users\Sergio DC\Desktop\DAW\Programacion\4Ev\P43a4_Proyecto_Portón_Con_Polimorfismo\obj\Debug\P43a4_Proyecto_Portón_Con_Polimorfismo.csproj.AssemblyReference.cache
+C:\Users\Sergio DC\Desktop\DAW\Programacion\4Ev\P43a4_Proyecto_Portón_Con_Polimorfismo\obj\Debug\P43a4_Proyecto_Portón_Con_Polimorfismo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sergio DC\Desktop\DAW\Programacion\4Ev\P43a4_Proyecto_Portón_Con_Polimorfismo\obj\Debug\P43a4_Proyecto_Portón_Con_Polimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\Sergio DC\Desktop\DAW\Programacion\4Ev\P43a4_Proyecto_Portón_Con_Polimorfismo\obj\Debug\P43a4_Proyecto_Portón_Con_Polimorfismo.exe
+C:\Users\Sergio DC\Desktop\DAW\Programacion\4Ev\P43a4_Proyecto_Portón_Con_Polimorfismo\obj\Debug\P43a4_Proyecto_Portón_Con_Polimorfismo.pdb

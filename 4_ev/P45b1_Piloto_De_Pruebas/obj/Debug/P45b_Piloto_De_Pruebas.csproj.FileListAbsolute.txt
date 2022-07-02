@@ -1,0 +1,8 @@
+C:\Users\Sergio DC\Desktop\DAW\Programacion\4Ev\P45b_Piloto_De_Pruebas\bin\Debug\P45b_Piloto_De_Pruebas.exe.config
+C:\Users\Sergio DC\Desktop\DAW\Programacion\4Ev\P45b_Piloto_De_Pruebas\bin\Debug\P45b_Piloto_De_Pruebas.exe
+C:\Users\Sergio DC\Desktop\DAW\Programacion\4Ev\P45b_Piloto_De_Pruebas\bin\Debug\P45b_Piloto_De_Pruebas.pdb
+C:\Users\Sergio DC\Desktop\DAW\Programacion\4Ev\P45b_Piloto_De_Pruebas\obj\Debug\P45b_Piloto_De_Pruebas.csproj.AssemblyReference.cache
+C:\Users\Sergio DC\Desktop\DAW\Programacion\4Ev\P45b_Piloto_De_Pruebas\obj\Debug\P45b_Piloto_De_Pruebas.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sergio DC\Desktop\DAW\Programacion\4Ev\P45b_Piloto_De_Pruebas\obj\Debug\P45b_Piloto_De_Pruebas.csproj.CoreCompileInputs.cache
+C:\Users\Sergio DC\Desktop\DAW\Programacion\4Ev\P45b_Piloto_De_Pruebas\obj\Debug\P45b_Piloto_De_Pruebas.exe
+C:\Users\Sergio DC\Desktop\DAW\Programacion\4Ev\P45b_Piloto_De_Pruebas\obj\Debug\P45b_Piloto_De_Pruebas.pdb
