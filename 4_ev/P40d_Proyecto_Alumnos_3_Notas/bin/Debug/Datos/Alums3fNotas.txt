@@ -1,0 +1,50 @@
+﻿28255995;A;Álvaro;Sánchez Elegante;28;6,7;8,0;9,1;7,93
+28481006;L;Daniel Luis;Arenas Mata;18;5,1;5,6;9,1;6,60
+28895615;M;Juan Manuel;García Solís;17;6,4;9,6;6,4;7,47
+28652873;K;Agustin;Rodríguez Vázquez;31;9,1;8,8;8,0;8,63
+28221242;E;Fco. Javier;Hurtado Miranda;31;9,7;9,1;6,8;8,53
+28545921;E;Miranda;Pinto Mirinda;18;8,1;5,3;3,5;5,63
+28387769;S;Tomás;Barrios Garrobo;25;5,1;6,4;4,0;5,17
+28751514;T;Carlos;Márquez Salazar;35;5,1;9,3;7,8;7,40
+28019297;X;Jose Carlos;Medina Gómez;24;3,0;5,0;9,7;5,90
+28407360;N;Juan Luis;Alonso Pérez;28;5,9;6,1;5,5;5,83
+28601968;P;Daniel;López Mora;32;5,0;9,4;8,9;7,77
+28179613;H;Angel;González Chaparro;34;3,1;6,3;8,2;5,87
+28627307;N;Jacobo;Ferrer Jiménez;31;8,3;4,7;4,1;5,70
+28782039;T;Alejandro;Morales Moncayo;35;3,2;5,1;4,6;4,30
+28952901;R;Francisco;Fernández Perea;25;5,1;5,5;3,2;4,60
+28067345;M;Alfredo;Blanco Roldán;35;7,0;9,9;6,8;7,90
+28134135;R;Francisco;Navarro Romero;24;5,5;4,1;4,3;4,63
+28901752;U;Antonio;Aguilar Rubio;29;6,8;7,0;4,5;6,10
+28446230;H;Constantino;Baena Fernández;22;8,6;4,6;8,7;7,30
+28597282;E;Roberto;Barco Ramírez;34;4,2;5,0;3,5;4,23
+28171148;I;Rafael;Delgado Rodríguez;31;9,3;3,4;6,4;6,37
+28995697;R;Antonio;Duque Martínez;26;3,8;7,0;9,3;6,70
+28999048;E;Raúl;Gómez Rosales;36;9,0;9,6;5,7;8,10
+28289170;E;Mónica;Vargas Molinar;30;8,5;9,7;3,5;7,23
+28771083;W;Tomas;Villegas Zapata;28;9,3;4,8;4,2;6,10
+28762161;L;Armando;Alonso Carranza;36;9,3;9,9;6,7;8,63
+28379536;Y;Francisco;Molina Díaz;28;7,6;6,0;5,1;6,23
+28754091;F;Manuel Angel;Pérez Vélez;28;5,9;3,4;5,0;4,77
+28192541;A;J.Pablo;Luque Estrada;34;4,2;8,2;5,4;5,93
+28711480;W;Luis Juan;Ramos Fernández;32;7,4;4,5;4,6;5,50
+28432376;Q;Carlos;Lozano Huertas;35;9,5;7,0;9,7;8,73
+28454947;T;Esteban;Moya Insa;24;3,5;3,8;4,7;4,00
+28186924;X;David;Gutiérrez Legazpi;35;8,2;4,2;8,5;6,97
+28668446;Y;Manuel José;Rodríguez López;19;3,8;7,9;3,2;4,97
+28521358;Q;Daniel;Zabala Manzano;17;4,0;6,9;4,3;5,07
+28517473;C;Patricia;Rivas Moreno;25;3,7;7,4;5,2;5,43
+28732506;V;Fernando;Barrera Méndez;27;3,3;9,2;4,6;5,70
+28928460;P;Antonio Jesús;Pastor Acosta;17;4,9;6,6;9,0;6,83
+28828008;D;Manuel;Bucaro Naranjo;18;8,4;6,4;3,0;5,93
+28707561;S;Jesús Paulo;Rojo Núñez;22;4,4;9,6;8,8;7,60
+28555542;U;Jose Maria;Fuertes Olivera;36;6,9;4,6;8,0;6,50
+28613630;K;Alfonso;Galván Olmedo;19;4,0;8,9;5,7;6,20
+28875049;E;Jose Maria;Martínez Ortega;26;3,8;8,7;3,9;5,47
+28735775;C;Miguel Angel;López Palacios;28;9,5;4,1;8,7;7,43
+28698683;V;Luis Enrique;Muñoz Murillo;32;8,2;6,8;8,0;7,67
+28805558;P;Javier;Ruíz Portillo;21;4,8;4,9;6,4;5,37
+28223895;D;Antonio;Arias Ponce;25;3,6;3,4;3,7;3,57
+28821661;S;Miguel A.;Sevillano Quesada;31;3,1;7,0;5,3;5,13
+28346873;U;Pedro José;Garduño Rico;31;3,0;7,6;3,4;4,67
+28864598;K;Juan;Delegado Segura;31;3,7;5,0;7,4;5,37

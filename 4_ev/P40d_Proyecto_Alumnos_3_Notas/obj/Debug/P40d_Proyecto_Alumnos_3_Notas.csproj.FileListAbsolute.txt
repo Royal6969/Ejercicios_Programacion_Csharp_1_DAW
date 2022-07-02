@@ -1,0 +1,7 @@
+C:\Users\csi21-sdiapos\Desktop\Programacion\4Ev\Tareas\P40d_Proyecto_Alumnos_3_Notas\P40d_Proyecto_Alumnos_3_Notas\bin\Debug\P40d_Proyecto_Alumnos_3_Notas.exe.config
+C:\Users\csi21-sdiapos\Desktop\Programacion\4Ev\Tareas\P40d_Proyecto_Alumnos_3_Notas\P40d_Proyecto_Alumnos_3_Notas\bin\Debug\P40d_Proyecto_Alumnos_3_Notas.exe
+C:\Users\csi21-sdiapos\Desktop\Programacion\4Ev\Tareas\P40d_Proyecto_Alumnos_3_Notas\P40d_Proyecto_Alumnos_3_Notas\bin\Debug\P40d_Proyecto_Alumnos_3_Notas.pdb
+C:\Users\csi21-sdiapos\Desktop\Programacion\4Ev\Tareas\P40d_Proyecto_Alumnos_3_Notas\P40d_Proyecto_Alumnos_3_Notas\obj\Debug\P40d_Proyecto_Alumnos_3_Notas.csproj.AssemblyReference.cache
+C:\Users\csi21-sdiapos\Desktop\Programacion\4Ev\Tareas\P40d_Proyecto_Alumnos_3_Notas\P40d_Proyecto_Alumnos_3_Notas\obj\Debug\P40d_Proyecto_Alumnos_3_Notas.csproj.CoreCompileInputs.cache
+C:\Users\csi21-sdiapos\Desktop\Programacion\4Ev\Tareas\P40d_Proyecto_Alumnos_3_Notas\P40d_Proyecto_Alumnos_3_Notas\obj\Debug\P40d_Proyecto_Alumnos_3_Notas.exe
+C:\Users\csi21-sdiapos\Desktop\Programacion\4Ev\Tareas\P40d_Proyecto_Alumnos_3_Notas\P40d_Proyecto_Alumnos_3_Notas\obj\Debug\P40d_Proyecto_Alumnos_3_Notas.pdb

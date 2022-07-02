@@ -1,0 +1,8 @@
+C:\Users\Sergio DC\Desktop\DAW\Programacion\4Ev\P40c_Cliente_Fecha\bin\Debug\P40c_Cliente_Fecha.exe.config
+C:\Users\Sergio DC\Desktop\DAW\Programacion\4Ev\P40c_Cliente_Fecha\bin\Debug\P40c_Cliente_Fecha.exe
+C:\Users\Sergio DC\Desktop\DAW\Programacion\4Ev\P40c_Cliente_Fecha\bin\Debug\P40c_Cliente_Fecha.pdb
+C:\Users\Sergio DC\Desktop\DAW\Programacion\4Ev\P40c_Cliente_Fecha\obj\Debug\P40c_Cliente_Fecha.csproj.AssemblyReference.cache
+C:\Users\Sergio DC\Desktop\DAW\Programacion\4Ev\P40c_Cliente_Fecha\obj\Debug\P40c_Cliente_Fecha.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sergio DC\Desktop\DAW\Programacion\4Ev\P40c_Cliente_Fecha\obj\Debug\P40c_Cliente_Fecha.csproj.CoreCompileInputs.cache
+C:\Users\Sergio DC\Desktop\DAW\Programacion\4Ev\P40c_Cliente_Fecha\obj\Debug\P40c_Cliente_Fecha.exe
+C:\Users\Sergio DC\Desktop\DAW\Programacion\4Ev\P40c_Cliente_Fecha\obj\Debug\P40c_Cliente_Fecha.pdb

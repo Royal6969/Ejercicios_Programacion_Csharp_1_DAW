@@ -1,0 +1,7 @@
+C:\Users\csi21-sdiapos\Desktop\Programacion\4Ev\Tareas\P40e1_Proyecto_Rectangulo\P40e1_Proyecto_Rectangulo\bin\Debug\P40e1_Proyecto_Rectangulo.exe.config
+C:\Users\csi21-sdiapos\Desktop\Programacion\4Ev\Tareas\P40e1_Proyecto_Rectangulo\P40e1_Proyecto_Rectangulo\bin\Debug\P40e1_Proyecto_Rectangulo.exe
+C:\Users\csi21-sdiapos\Desktop\Programacion\4Ev\Tareas\P40e1_Proyecto_Rectangulo\P40e1_Proyecto_Rectangulo\bin\Debug\P40e1_Proyecto_Rectangulo.pdb
+C:\Users\csi21-sdiapos\Desktop\Programacion\4Ev\Tareas\P40e1_Proyecto_Rectangulo\P40e1_Proyecto_Rectangulo\obj\Debug\P40e1_Proyecto_Rectangulo.csproj.AssemblyReference.cache
+C:\Users\csi21-sdiapos\Desktop\Programacion\4Ev\Tareas\P40e1_Proyecto_Rectangulo\P40e1_Proyecto_Rectangulo\obj\Debug\P40e1_Proyecto_Rectangulo.csproj.CoreCompileInputs.cache
+C:\Users\csi21-sdiapos\Desktop\Programacion\4Ev\Tareas\P40e1_Proyecto_Rectangulo\P40e1_Proyecto_Rectangulo\obj\Debug\P40e1_Proyecto_Rectangulo.exe
+C:\Users\csi21-sdiapos\Desktop\Programacion\4Ev\Tareas\P40e1_Proyecto_Rectangulo\P40e1_Proyecto_Rectangulo\obj\Debug\P40e1_Proyecto_Rectangulo.pdb

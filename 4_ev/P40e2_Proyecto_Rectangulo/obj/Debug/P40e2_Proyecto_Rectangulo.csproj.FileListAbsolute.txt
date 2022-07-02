@@ -1,0 +1,8 @@
+C:\Users\Sergio DC\Desktop\DAW\Programacion\4Ev\P40e2_Proyecto_Rectangulo\bin\Debug\P40e2_Proyecto_Rectangulo.exe.config
+C:\Users\Sergio DC\Desktop\DAW\Programacion\4Ev\P40e2_Proyecto_Rectangulo\bin\Debug\P40e2_Proyecto_Rectangulo.exe
+C:\Users\Sergio DC\Desktop\DAW\Programacion\4Ev\P40e2_Proyecto_Rectangulo\bin\Debug\P40e2_Proyecto_Rectangulo.pdb
+C:\Users\Sergio DC\Desktop\DAW\Programacion\4Ev\P40e2_Proyecto_Rectangulo\obj\Debug\P40e2_Proyecto_Rectangulo.csproj.AssemblyReference.cache
+C:\Users\Sergio DC\Desktop\DAW\Programacion\4Ev\P40e2_Proyecto_Rectangulo\obj\Debug\P40e2_Proyecto_Rectangulo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sergio DC\Desktop\DAW\Programacion\4Ev\P40e2_Proyecto_Rectangulo\obj\Debug\P40e2_Proyecto_Rectangulo.csproj.CoreCompileInputs.cache
+C:\Users\Sergio DC\Desktop\DAW\Programacion\4Ev\P40e2_Proyecto_Rectangulo\obj\Debug\P40e2_Proyecto_Rectangulo.exe
+C:\Users\Sergio DC\Desktop\DAW\Programacion\4Ev\P40e2_Proyecto_Rectangulo\obj\Debug\P40e2_Proyecto_Rectangulo.pdb
