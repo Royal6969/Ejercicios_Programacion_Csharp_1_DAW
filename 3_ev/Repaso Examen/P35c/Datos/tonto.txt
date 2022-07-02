@@ -1,0 +1,124 @@
+300 extendida;BB;avi;1,17
+500 Dias juntos;C;avi;0,68
+Ahora o Nunca;C;avi;1,42
+Ahora MeVes;D;avi;1,45
+Ajuste de Cuentas;C;avi;0,61
+American Gangster;C;avi;1,37
+Antes de la tormenta;C;avi;1,27
+Apocalypto;A;avi;0,68
+Argo;B;avi;2,00
+Atrapado En El Tiempo;B;avi;0,70
+August Rush El Triunfo de un Sue�o;B;avi;0,77
+Bella;B;avi;0,68
+Betty Anne Waters;B;avi;0,66
+BIci Verde;C;avi;0,98
+Bienvenidos al norte;B;avi;0,67
+Big fish;A;avi;0,68
+Black rain;C;avi;0,68
+Blade Runner;A;avi;1,37
+Blanco perfecto;D;avi;0,65
+Blindado;E;avi;0,68
+Cabras;E;avi;1,54
+Cadena de Favores;B;mpg;0,73
+Calvary;B;avi;1,45
+Capitan phillips;B;avi;1,97
+Celda 211;B;avi;1,26
+Celular;D;avi;0,84
+Cinderella Man;B;avi;2,39
+Codigo Fuente;C;avi;1,33
+Comprometete;A;avi;0,69
+Conspiracion;B;avi;1,19
+Criadas Y Se�oras;B;avi;1,63
+Cuenta Conmigo;BB;avi;0,68
+Cuento de Navidad;B;avi;1,20
+Cut bank;C;avi;1,62
+Deja vu;B;avi;0,68
+Diplomacia;C;avi;1,36
+Distrito 9;E;avi;1,43
+Django;B;avi;1,93
+Ejecucion inminente;B;avi;0,67
+El Chef, La receta de la felicidad;E;avi;0,93
+El corcel negro;E;avi;0,69
+El discurso del Rey;C;avi;1,37
+El gran Gatsby;B;avi;2,05
+El hombre sin rostro;B;avi;0,88
+El ilusionista;B;avi;0,68
+El Incidente;BB;avi;0,68
+El Ingles Que Subio;D;avi;0,69
+El inocente;D;avi;1,62
+El Intercambio;C;avi;1,37
+El Irlandes;B;avi;1,11
+El mensajero;B;avi;1,67
+El Mundo es Nuestro;D;avi;1,18
+El Origen del Planeta de los Simios;C;mkv;3,90
+El Pacificador;BB;avi;1,27
+El Puente de los Espias;B;avi;2,11
+El Renacido;B;avi;2,40
+El Tigre y la nieve;A;avi;0,67
+El Turista;B;avi;1,05
+El �nico Superviviente;B;mkv;2,66
+El �ltimo gran h�roe;B;avi;1,37
+El Viento Se Levanta;B;avi;1,23
+El Invitado;B;avi;1,84
+Enemigos P�blicos;C;avi;1,65
+En Tierra Hostil;C;avi;1,36
+Firefox, el Arma definitiva;B;avi;0,69
+Gran ToRino;BB;avi;1,26
+Gravity;B;avi;1,50
+Green Zone;B;avi;1,87
+In Time;EB;avi;1,79
+Infiltrados;C;avi;1,37
+Intocable;C;avi;1,51
+Ironman;D;avi;4,09
+J Edgar;B;avi;1,62
+Jack Reacher;B;mkv;3,72
+John Carter;E;avi;1,88
+L A  CONFIDENCIAL;B;AVI;0,67
+La Conspiracion Del Panico;C;avi;1,37
+La Interprete;C;avi;0,68
+La Invencion De Hugo;B;mpg;0,78
+La Isla;B;avi;0,68
+La Sombra del Poder;B;avi;1,07
+La Terminal;BB;avi;0,69
+La vida es bella;A;avi;0,56
+La Isla Minima;C;avi;1,19
+Los chicos del coro;B;avi;0,68
+Los Descendientes;C;avi;1,04
+Los juegos del hambre;E;avi;0,98
+Los Sustitutos;C;avi;1,36
+Lucha de Titanes 2010;C;avi;1,23
+Lucy;D;avi;1,50
+Malditos Bastardos;B;avi;0,68
+Margin call;C;avi;1,72
+Marte;B;avi;2,30
+Matar al mensajero;C;mkv;1,81
+Naufrago;B;avi;0,68
+Noche y Dia;DB;avi;1,62
+O Brother;B;avi;0,68
+Oblivion;B;avi;1,59
+Origen;BB;avi;1,37
+Plan Oculto;A;avi;0,68
+PRECIOUS;B;avi;1,86
+RED;D;avi;1,08
+Robin Hood;E;avi;2,06
+Senna;C;avi;0,66
+Sherlock Holmes;D;avi;2,09
+Shutter Island;A;avi;1,71
+Sicario;C;avi;1,90
+Slumdog-Millionaire;A;avi;1,30
+Stardust;E;avi;1,36
+Terminator Salvation;D;avi;2,11
+THE ARTIST;B;avi;1,12
+The blind side;A;avi;1,91
+The Mexican;D;avi;0,68
+The Prestige El Truco Final;C;mpg;0,77
+The Town;B;avi;1,85
+This is it;A;avi;0,75
+Tiempo de matar;C;avi;0,77
+Tiempo De Valientes;B;avi;0,86
+Tomorrowland;E;avi;1,99
+Un Gran Dia Para Ellas;B;avi;0,69
+Un puente hacia terabithia;B;avi;0,68
+Una historia del Bronx;A;avi;0,64
+Venganza;A;avi;1,17
+Walter Mitty;D;mp4;0,34

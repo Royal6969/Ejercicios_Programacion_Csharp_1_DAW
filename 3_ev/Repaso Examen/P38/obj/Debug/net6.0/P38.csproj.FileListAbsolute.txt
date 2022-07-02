@@ -1,0 +1,15 @@
+C:\Users\Sergio DC\Desktop\P38\bin\Debug\net6.0\P38.exe
+C:\Users\Sergio DC\Desktop\P38\bin\Debug\net6.0\P38.deps.json
+C:\Users\Sergio DC\Desktop\P38\bin\Debug\net6.0\P38.runtimeconfig.json
+C:\Users\Sergio DC\Desktop\P38\bin\Debug\net6.0\P38.dll
+C:\Users\Sergio DC\Desktop\P38\bin\Debug\net6.0\P38.pdb
+C:\Users\Sergio DC\Desktop\P38\obj\Debug\net6.0\P38.csproj.AssemblyReference.cache
+C:\Users\Sergio DC\Desktop\P38\obj\Debug\net6.0\P38.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sergio DC\Desktop\P38\obj\Debug\net6.0\P38.AssemblyInfoInputs.cache
+C:\Users\Sergio DC\Desktop\P38\obj\Debug\net6.0\P38.AssemblyInfo.cs
+C:\Users\Sergio DC\Desktop\P38\obj\Debug\net6.0\P38.csproj.CoreCompileInputs.cache
+C:\Users\Sergio DC\Desktop\P38\obj\Debug\net6.0\P38.dll
+C:\Users\Sergio DC\Desktop\P38\obj\Debug\net6.0\refint\P38.dll
+C:\Users\Sergio DC\Desktop\P38\obj\Debug\net6.0\P38.pdb
+C:\Users\Sergio DC\Desktop\P38\obj\Debug\net6.0\P38.genruntimeconfig.cache
+C:\Users\Sergio DC\Desktop\P38\obj\Debug\net6.0\ref\P38.dll
