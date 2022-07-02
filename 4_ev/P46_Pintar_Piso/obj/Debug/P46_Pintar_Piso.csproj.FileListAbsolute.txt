@@ -1,0 +1,8 @@
+C:\Users\Sergio DC\Desktop\P46_Pintar_Piso\bin\Debug\P46_Pintar_Piso.exe.config
+C:\Users\Sergio DC\Desktop\P46_Pintar_Piso\bin\Debug\P46_Pintar_Piso.exe
+C:\Users\Sergio DC\Desktop\P46_Pintar_Piso\bin\Debug\P46_Pintar_Piso.pdb
+C:\Users\Sergio DC\Desktop\P46_Pintar_Piso\obj\Debug\P46_Pintar_Piso.csproj.AssemblyReference.cache
+C:\Users\Sergio DC\Desktop\P46_Pintar_Piso\obj\Debug\P46_Pintar_Piso.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sergio DC\Desktop\P46_Pintar_Piso\obj\Debug\P46_Pintar_Piso.csproj.CoreCompileInputs.cache
+C:\Users\Sergio DC\Desktop\P46_Pintar_Piso\obj\Debug\P46_Pintar_Piso.exe
+C:\Users\Sergio DC\Desktop\P46_Pintar_Piso\obj\Debug\P46_Pintar_Piso.pdb

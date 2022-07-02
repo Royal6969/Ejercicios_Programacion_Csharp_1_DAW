@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P46_Pintar_Piso", "P46_Pintar_Piso.csproj", "{41C3F5D3-D710-4E1E-82AA-B1D627B4822B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{41C3F5D3-D710-4E1E-82AA-B1D627B4822B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41C3F5D3-D710-4E1E-82AA-B1D627B4822B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41C3F5D3-D710-4E1E-82AA-B1D627B4822B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41C3F5D3-D710-4E1E-82AA-B1D627B4822B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6CB5D1C0-249C-492E-A2C4-1288512E5371}
+	EndGlobalSection
+EndGlobal

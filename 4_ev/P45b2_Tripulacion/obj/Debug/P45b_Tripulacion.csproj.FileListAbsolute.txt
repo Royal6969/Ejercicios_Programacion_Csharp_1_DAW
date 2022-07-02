@@ -1,0 +1,8 @@
+C:\Users\Sergio DC\Desktop\DAW\Programacion\4Ev\P45b_Tripulacion\bin\Debug\P45b_Tripulacion.exe.config
+C:\Users\Sergio DC\Desktop\DAW\Programacion\4Ev\P45b_Tripulacion\bin\Debug\P45b_Tripulacion.exe
+C:\Users\Sergio DC\Desktop\DAW\Programacion\4Ev\P45b_Tripulacion\bin\Debug\P45b_Tripulacion.pdb
+C:\Users\Sergio DC\Desktop\DAW\Programacion\4Ev\P45b_Tripulacion\obj\Debug\P45b_Tripulacion.csproj.AssemblyReference.cache
+C:\Users\Sergio DC\Desktop\DAW\Programacion\4Ev\P45b_Tripulacion\obj\Debug\P45b_Tripulacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sergio DC\Desktop\DAW\Programacion\4Ev\P45b_Tripulacion\obj\Debug\P45b_Tripulacion.csproj.CoreCompileInputs.cache
+C:\Users\Sergio DC\Desktop\DAW\Programacion\4Ev\P45b_Tripulacion\obj\Debug\P45b_Tripulacion.exe
+C:\Users\Sergio DC\Desktop\DAW\Programacion\4Ev\P45b_Tripulacion\obj\Debug\P45b_Tripulacion.pdb

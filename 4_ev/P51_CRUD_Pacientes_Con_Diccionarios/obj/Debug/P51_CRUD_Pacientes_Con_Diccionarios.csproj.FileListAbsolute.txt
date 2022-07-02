@@ -1,0 +1,15 @@
+C:\Users\Sergio DC\Desktop\DAW\Programacion\4Ev\P51_CRUD_Pacientes_Con_Diccionarios\bin\Debug\P51_CRUD_Pacientes_Con_Diccionarios.exe.config
+C:\Users\Sergio DC\Desktop\DAW\Programacion\4Ev\P51_CRUD_Pacientes_Con_Diccionarios\bin\Debug\P51_CRUD_Pacientes_Con_Diccionarios.exe
+C:\Users\Sergio DC\Desktop\DAW\Programacion\4Ev\P51_CRUD_Pacientes_Con_Diccionarios\bin\Debug\P51_CRUD_Pacientes_Con_Diccionarios.pdb
+C:\Users\Sergio DC\Desktop\DAW\Programacion\4Ev\P51_CRUD_Pacientes_Con_Diccionarios\obj\Debug\P51_CRUD_Pacientes_Con_Diccionarios.csproj.AssemblyReference.cache
+C:\Users\Sergio DC\Desktop\DAW\Programacion\4Ev\P51_CRUD_Pacientes_Con_Diccionarios\obj\Debug\P51_CRUD_Pacientes_Con_Diccionarios.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sergio DC\Desktop\DAW\Programacion\4Ev\P51_CRUD_Pacientes_Con_Diccionarios\obj\Debug\P51_CRUD_Pacientes_Con_Diccionarios.csproj.CoreCompileInputs.cache
+C:\Users\Sergio DC\Desktop\DAW\Programacion\4Ev\P51_CRUD_Pacientes_Con_Diccionarios\obj\Debug\P51_CRUD_Pacientes_Con_Diccionarios.exe
+C:\Users\Sergio DC\Desktop\DAW\Programacion\4Ev\P51_CRUD_Pacientes_Con_Diccionarios\obj\Debug\P51_CRUD_Pacientes_Con_Diccionarios.pdb
+C:\Users\csi21-sdiapos\Desktop\Programacion\4Ev\Tareas\P51_CRUD_Pacientes_Con_Diccionarios\bin\Debug\P51_CRUD_Pacientes_Con_Diccionarios.exe.config
+C:\Users\csi21-sdiapos\Desktop\Programacion\4Ev\Tareas\P51_CRUD_Pacientes_Con_Diccionarios\bin\Debug\P51_CRUD_Pacientes_Con_Diccionarios.exe
+C:\Users\csi21-sdiapos\Desktop\Programacion\4Ev\Tareas\P51_CRUD_Pacientes_Con_Diccionarios\bin\Debug\P51_CRUD_Pacientes_Con_Diccionarios.pdb
+C:\Users\csi21-sdiapos\Desktop\Programacion\4Ev\Tareas\P51_CRUD_Pacientes_Con_Diccionarios\obj\Debug\P51_CRUD_Pacientes_Con_Diccionarios.csproj.AssemblyReference.cache
+C:\Users\csi21-sdiapos\Desktop\Programacion\4Ev\Tareas\P51_CRUD_Pacientes_Con_Diccionarios\obj\Debug\P51_CRUD_Pacientes_Con_Diccionarios.csproj.CoreCompileInputs.cache
+C:\Users\csi21-sdiapos\Desktop\Programacion\4Ev\Tareas\P51_CRUD_Pacientes_Con_Diccionarios\obj\Debug\P51_CRUD_Pacientes_Con_Diccionarios.exe
+C:\Users\csi21-sdiapos\Desktop\Programacion\4Ev\Tareas\P51_CRUD_Pacientes_Con_Diccionarios\obj\Debug\P51_CRUD_Pacientes_Con_Diccionarios.pdb
