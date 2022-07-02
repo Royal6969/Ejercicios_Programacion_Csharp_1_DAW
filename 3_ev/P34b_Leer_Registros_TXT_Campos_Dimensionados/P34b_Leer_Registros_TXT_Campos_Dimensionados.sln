@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P34b_Leer_Registros_TXT_Campos_Dimensionados", "P34b_Leer_Registros_TXT_Campos_Dimensionados\P34b_Leer_Registros_TXT_Campos_Dimensionados.csproj", "{11460B96-7B0A-44AE-929A-8920A8B12EB1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11460B96-7B0A-44AE-929A-8920A8B12EB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11460B96-7B0A-44AE-929A-8920A8B12EB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11460B96-7B0A-44AE-929A-8920A8B12EB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11460B96-7B0A-44AE-929A-8920A8B12EB1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {67D51C14-73A1-4931-8611-91C3221CBC79}
+	EndGlobalSection
+EndGlobal

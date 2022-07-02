@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.PublishSingleFile = 
+build_property.IncludeAllContentForSelfExtract = 
+build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.RootNamespace = P33b3_Leer_Datos_En_TXT_Con_Separadores_Por_Campos
+build_property.ProjectDir = C:\Users\Sergio DC\Desktop\DAW\Programacion\3Ev\P33b3_Leer_Datos_En_TXT_Con_Separadores_Por_Campos\

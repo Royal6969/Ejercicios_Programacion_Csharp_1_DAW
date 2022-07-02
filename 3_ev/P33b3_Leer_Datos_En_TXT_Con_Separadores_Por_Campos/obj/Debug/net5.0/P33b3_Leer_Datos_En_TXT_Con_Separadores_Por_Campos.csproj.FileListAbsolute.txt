@@ -1,0 +1,16 @@
+C:\Users\Sergio DC\Desktop\DAW\Programacion\3Ev\P33b3_Leer_Datos_En_TXT_Con_Separadores_Por_Campos\bin\Debug\net5.0\P33b3_Leer_Datos_En_TXT_Con_Separadores_Por_Campos.exe
+C:\Users\Sergio DC\Desktop\DAW\Programacion\3Ev\P33b3_Leer_Datos_En_TXT_Con_Separadores_Por_Campos\bin\Debug\net5.0\P33b3_Leer_Datos_En_TXT_Con_Separadores_Por_Campos.deps.json
+C:\Users\Sergio DC\Desktop\DAW\Programacion\3Ev\P33b3_Leer_Datos_En_TXT_Con_Separadores_Por_Campos\bin\Debug\net5.0\P33b3_Leer_Datos_En_TXT_Con_Separadores_Por_Campos.runtimeconfig.json
+C:\Users\Sergio DC\Desktop\DAW\Programacion\3Ev\P33b3_Leer_Datos_En_TXT_Con_Separadores_Por_Campos\bin\Debug\net5.0\P33b3_Leer_Datos_En_TXT_Con_Separadores_Por_Campos.runtimeconfig.dev.json
+C:\Users\Sergio DC\Desktop\DAW\Programacion\3Ev\P33b3_Leer_Datos_En_TXT_Con_Separadores_Por_Campos\bin\Debug\net5.0\P33b3_Leer_Datos_En_TXT_Con_Separadores_Por_Campos.dll
+C:\Users\Sergio DC\Desktop\DAW\Programacion\3Ev\P33b3_Leer_Datos_En_TXT_Con_Separadores_Por_Campos\bin\Debug\net5.0\ref\P33b3_Leer_Datos_En_TXT_Con_Separadores_Por_Campos.dll
+C:\Users\Sergio DC\Desktop\DAW\Programacion\3Ev\P33b3_Leer_Datos_En_TXT_Con_Separadores_Por_Campos\bin\Debug\net5.0\P33b3_Leer_Datos_En_TXT_Con_Separadores_Por_Campos.pdb
+C:\Users\Sergio DC\Desktop\DAW\Programacion\3Ev\P33b3_Leer_Datos_En_TXT_Con_Separadores_Por_Campos\obj\Debug\net5.0\P33b3_Leer_Datos_En_TXT_Con_Separadores_Por_Campos.csproj.AssemblyReference.cache
+C:\Users\Sergio DC\Desktop\DAW\Programacion\3Ev\P33b3_Leer_Datos_En_TXT_Con_Separadores_Por_Campos\obj\Debug\net5.0\P33b3_Leer_Datos_En_TXT_Con_Separadores_Por_Campos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sergio DC\Desktop\DAW\Programacion\3Ev\P33b3_Leer_Datos_En_TXT_Con_Separadores_Por_Campos\obj\Debug\net5.0\P33b3_Leer_Datos_En_TXT_Con_Separadores_Por_Campos.AssemblyInfoInputs.cache
+C:\Users\Sergio DC\Desktop\DAW\Programacion\3Ev\P33b3_Leer_Datos_En_TXT_Con_Separadores_Por_Campos\obj\Debug\net5.0\P33b3_Leer_Datos_En_TXT_Con_Separadores_Por_Campos.AssemblyInfo.cs
+C:\Users\Sergio DC\Desktop\DAW\Programacion\3Ev\P33b3_Leer_Datos_En_TXT_Con_Separadores_Por_Campos\obj\Debug\net5.0\P33b3_Leer_Datos_En_TXT_Con_Separadores_Por_Campos.csproj.CoreCompileInputs.cache
+C:\Users\Sergio DC\Desktop\DAW\Programacion\3Ev\P33b3_Leer_Datos_En_TXT_Con_Separadores_Por_Campos\obj\Debug\net5.0\P33b3_Leer_Datos_En_TXT_Con_Separadores_Por_Campos.dll
+C:\Users\Sergio DC\Desktop\DAW\Programacion\3Ev\P33b3_Leer_Datos_En_TXT_Con_Separadores_Por_Campos\obj\Debug\net5.0\ref\P33b3_Leer_Datos_En_TXT_Con_Separadores_Por_Campos.dll
+C:\Users\Sergio DC\Desktop\DAW\Programacion\3Ev\P33b3_Leer_Datos_En_TXT_Con_Separadores_Por_Campos\obj\Debug\net5.0\P33b3_Leer_Datos_En_TXT_Con_Separadores_Por_Campos.pdb
+C:\Users\Sergio DC\Desktop\DAW\Programacion\3Ev\P33b3_Leer_Datos_En_TXT_Con_Separadores_Por_Campos\obj\Debug\net5.0\P33b3_Leer_Datos_En_TXT_Con_Separadores_Por_Campos.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "P33b3_Leer_Datos_En_TXT_Con_Separadores_Por_Campos/1.0.0": {
+        "runtime": {
+          "P33b3_Leer_Datos_En_TXT_Con_Separadores_Por_Campos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "P33b3_Leer_Datos_En_TXT_Con_Separadores_Por_Campos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
