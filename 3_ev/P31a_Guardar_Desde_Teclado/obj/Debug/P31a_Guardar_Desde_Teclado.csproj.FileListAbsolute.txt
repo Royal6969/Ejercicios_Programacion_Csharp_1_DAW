@@ -1,0 +1,7 @@
+C:\Users\csi21-sdiapos\Desktop\Programacion\3Ev\Tareas\P31a_Guardar_Desde_Teclado\P31a_Guardar_Desde_Teclado\bin\Debug\P31a_Guardar_Desde_Teclado.exe.config
+C:\Users\csi21-sdiapos\Desktop\Programacion\3Ev\Tareas\P31a_Guardar_Desde_Teclado\P31a_Guardar_Desde_Teclado\bin\Debug\P31a_Guardar_Desde_Teclado.exe
+C:\Users\csi21-sdiapos\Desktop\Programacion\3Ev\Tareas\P31a_Guardar_Desde_Teclado\P31a_Guardar_Desde_Teclado\bin\Debug\P31a_Guardar_Desde_Teclado.pdb
+C:\Users\csi21-sdiapos\Desktop\Programacion\3Ev\Tareas\P31a_Guardar_Desde_Teclado\P31a_Guardar_Desde_Teclado\obj\Debug\P31a_Guardar_Desde_Teclado.csproj.AssemblyReference.cache
+C:\Users\csi21-sdiapos\Desktop\Programacion\3Ev\Tareas\P31a_Guardar_Desde_Teclado\P31a_Guardar_Desde_Teclado\obj\Debug\P31a_Guardar_Desde_Teclado.csproj.CoreCompileInputs.cache
+C:\Users\csi21-sdiapos\Desktop\Programacion\3Ev\Tareas\P31a_Guardar_Desde_Teclado\P31a_Guardar_Desde_Teclado\obj\Debug\P31a_Guardar_Desde_Teclado.exe
+C:\Users\csi21-sdiapos\Desktop\Programacion\3Ev\Tareas\P31a_Guardar_Desde_Teclado\P31a_Guardar_Desde_Teclado\obj\Debug\P31a_Guardar_Desde_Teclado.pdb

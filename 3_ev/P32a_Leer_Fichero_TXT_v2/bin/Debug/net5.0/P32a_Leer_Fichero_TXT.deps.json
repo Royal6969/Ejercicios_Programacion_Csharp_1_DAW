@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "P32a_Leer_Fichero_TXT/1.0.0": {
+        "runtime": {
+          "P32a_Leer_Fichero_TXT.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "P32a_Leer_Fichero_TXT/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

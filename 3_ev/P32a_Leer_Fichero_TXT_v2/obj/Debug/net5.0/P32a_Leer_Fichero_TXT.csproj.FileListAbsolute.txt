@@ -1,0 +1,16 @@
+C:\Users\Sergio DC\Desktop\DAW\Programacion\3Ev\P32a_Leer_Fichero_TXT\bin\Debug\net5.0\P32a_Leer_Fichero_TXT.exe
+C:\Users\Sergio DC\Desktop\DAW\Programacion\3Ev\P32a_Leer_Fichero_TXT\bin\Debug\net5.0\P32a_Leer_Fichero_TXT.deps.json
+C:\Users\Sergio DC\Desktop\DAW\Programacion\3Ev\P32a_Leer_Fichero_TXT\bin\Debug\net5.0\P32a_Leer_Fichero_TXT.runtimeconfig.json
+C:\Users\Sergio DC\Desktop\DAW\Programacion\3Ev\P32a_Leer_Fichero_TXT\bin\Debug\net5.0\P32a_Leer_Fichero_TXT.runtimeconfig.dev.json
+C:\Users\Sergio DC\Desktop\DAW\Programacion\3Ev\P32a_Leer_Fichero_TXT\bin\Debug\net5.0\P32a_Leer_Fichero_TXT.dll
+C:\Users\Sergio DC\Desktop\DAW\Programacion\3Ev\P32a_Leer_Fichero_TXT\bin\Debug\net5.0\ref\P32a_Leer_Fichero_TXT.dll
+C:\Users\Sergio DC\Desktop\DAW\Programacion\3Ev\P32a_Leer_Fichero_TXT\bin\Debug\net5.0\P32a_Leer_Fichero_TXT.pdb
+C:\Users\Sergio DC\Desktop\DAW\Programacion\3Ev\P32a_Leer_Fichero_TXT\obj\Debug\net5.0\P32a_Leer_Fichero_TXT.csproj.AssemblyReference.cache
+C:\Users\Sergio DC\Desktop\DAW\Programacion\3Ev\P32a_Leer_Fichero_TXT\obj\Debug\net5.0\P32a_Leer_Fichero_TXT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sergio DC\Desktop\DAW\Programacion\3Ev\P32a_Leer_Fichero_TXT\obj\Debug\net5.0\P32a_Leer_Fichero_TXT.AssemblyInfoInputs.cache
+C:\Users\Sergio DC\Desktop\DAW\Programacion\3Ev\P32a_Leer_Fichero_TXT\obj\Debug\net5.0\P32a_Leer_Fichero_TXT.AssemblyInfo.cs
+C:\Users\Sergio DC\Desktop\DAW\Programacion\3Ev\P32a_Leer_Fichero_TXT\obj\Debug\net5.0\P32a_Leer_Fichero_TXT.csproj.CoreCompileInputs.cache
+C:\Users\Sergio DC\Desktop\DAW\Programacion\3Ev\P32a_Leer_Fichero_TXT\obj\Debug\net5.0\P32a_Leer_Fichero_TXT.dll
+C:\Users\Sergio DC\Desktop\DAW\Programacion\3Ev\P32a_Leer_Fichero_TXT\obj\Debug\net5.0\ref\P32a_Leer_Fichero_TXT.dll
+C:\Users\Sergio DC\Desktop\DAW\Programacion\3Ev\P32a_Leer_Fichero_TXT\obj\Debug\net5.0\P32a_Leer_Fichero_TXT.pdb
+C:\Users\Sergio DC\Desktop\DAW\Programacion\3Ev\P32a_Leer_Fichero_TXT\obj\Debug\net5.0\P32a_Leer_Fichero_TXT.genruntimeconfig.cache

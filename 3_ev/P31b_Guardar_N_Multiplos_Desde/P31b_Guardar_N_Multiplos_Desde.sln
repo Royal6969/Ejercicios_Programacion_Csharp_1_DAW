@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P31b_Guardar_N_Multiplos_Desde", "P31b_Guardar_N_Multiplos_Desde\P31b_Guardar_N_Multiplos_Desde.csproj", "{5F68D877-CC2D-4C01-9F2C-875F23AEF7EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F68D877-CC2D-4C01-9F2C-875F23AEF7EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F68D877-CC2D-4C01-9F2C-875F23AEF7EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F68D877-CC2D-4C01-9F2C-875F23AEF7EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F68D877-CC2D-4C01-9F2C-875F23AEF7EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8C585B56-52D9-49C9-97EF-62B9A5240A6B}
+	EndGlobalSection
+EndGlobal

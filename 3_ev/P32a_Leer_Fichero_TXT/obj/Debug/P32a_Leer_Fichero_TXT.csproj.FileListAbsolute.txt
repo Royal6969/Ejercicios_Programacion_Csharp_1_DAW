@@ -1,0 +1,7 @@
+C:\Users\csi21-sdiapos\Desktop\Programacion\3Ev\Tareas\P32a_Leer_Fichero_TXT\P32a_Leer_Fichero_TXT\bin\Debug\P32a_Leer_Fichero_TXT.exe.config
+C:\Users\csi21-sdiapos\Desktop\Programacion\3Ev\Tareas\P32a_Leer_Fichero_TXT\P32a_Leer_Fichero_TXT\bin\Debug\P32a_Leer_Fichero_TXT.exe
+C:\Users\csi21-sdiapos\Desktop\Programacion\3Ev\Tareas\P32a_Leer_Fichero_TXT\P32a_Leer_Fichero_TXT\bin\Debug\P32a_Leer_Fichero_TXT.pdb
+C:\Users\csi21-sdiapos\Desktop\Programacion\3Ev\Tareas\P32a_Leer_Fichero_TXT\P32a_Leer_Fichero_TXT\obj\Debug\P32a_Leer_Fichero_TXT.csproj.AssemblyReference.cache
+C:\Users\csi21-sdiapos\Desktop\Programacion\3Ev\Tareas\P32a_Leer_Fichero_TXT\P32a_Leer_Fichero_TXT\obj\Debug\P32a_Leer_Fichero_TXT.csproj.CoreCompileInputs.cache
+C:\Users\csi21-sdiapos\Desktop\Programacion\3Ev\Tareas\P32a_Leer_Fichero_TXT\P32a_Leer_Fichero_TXT\obj\Debug\P32a_Leer_Fichero_TXT.exe
+C:\Users\csi21-sdiapos\Desktop\Programacion\3Ev\Tareas\P32a_Leer_Fichero_TXT\P32a_Leer_Fichero_TXT\obj\Debug\P32a_Leer_Fichero_TXT.pdb

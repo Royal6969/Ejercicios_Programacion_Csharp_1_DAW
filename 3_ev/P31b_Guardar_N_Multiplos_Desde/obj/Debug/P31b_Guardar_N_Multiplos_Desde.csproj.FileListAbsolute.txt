@@ -1,0 +1,7 @@
+C:\Users\csi21-sdiapos\Desktop\Programacion\3Ev\Tareas\P31b_Guardar_N_Multiplos_Desde\P31b_Guardar_N_Multiplos_Desde\bin\Debug\P31b_Guardar_N_Multiplos_Desde.exe.config
+C:\Users\csi21-sdiapos\Desktop\Programacion\3Ev\Tareas\P31b_Guardar_N_Multiplos_Desde\P31b_Guardar_N_Multiplos_Desde\bin\Debug\P31b_Guardar_N_Multiplos_Desde.exe
+C:\Users\csi21-sdiapos\Desktop\Programacion\3Ev\Tareas\P31b_Guardar_N_Multiplos_Desde\P31b_Guardar_N_Multiplos_Desde\bin\Debug\P31b_Guardar_N_Multiplos_Desde.pdb
+C:\Users\csi21-sdiapos\Desktop\Programacion\3Ev\Tareas\P31b_Guardar_N_Multiplos_Desde\P31b_Guardar_N_Multiplos_Desde\obj\Debug\P31b_Guardar_N_Multiplos_Desde.csproj.AssemblyReference.cache
+C:\Users\csi21-sdiapos\Desktop\Programacion\3Ev\Tareas\P31b_Guardar_N_Multiplos_Desde\P31b_Guardar_N_Multiplos_Desde\obj\Debug\P31b_Guardar_N_Multiplos_Desde.csproj.CoreCompileInputs.cache
+C:\Users\csi21-sdiapos\Desktop\Programacion\3Ev\Tareas\P31b_Guardar_N_Multiplos_Desde\P31b_Guardar_N_Multiplos_Desde\obj\Debug\P31b_Guardar_N_Multiplos_Desde.exe
+C:\Users\csi21-sdiapos\Desktop\Programacion\3Ev\Tareas\P31b_Guardar_N_Multiplos_Desde\P31b_Guardar_N_Multiplos_Desde\obj\Debug\P31b_Guardar_N_Multiplos_Desde.pdb

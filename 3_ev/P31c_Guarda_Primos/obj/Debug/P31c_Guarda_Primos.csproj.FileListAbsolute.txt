@@ -1,0 +1,7 @@
+C:\Users\csi21-sdiapos\Desktop\Programacion\3Ev\Tareas\P31c_Guarda_Primos\P31c_Guarda_Primos\bin\Debug\P31c_Guarda_Primos.exe.config
+C:\Users\csi21-sdiapos\Desktop\Programacion\3Ev\Tareas\P31c_Guarda_Primos\P31c_Guarda_Primos\bin\Debug\P31c_Guarda_Primos.exe
+C:\Users\csi21-sdiapos\Desktop\Programacion\3Ev\Tareas\P31c_Guarda_Primos\P31c_Guarda_Primos\bin\Debug\P31c_Guarda_Primos.pdb
+C:\Users\csi21-sdiapos\Desktop\Programacion\3Ev\Tareas\P31c_Guarda_Primos\P31c_Guarda_Primos\obj\Debug\P31c_Guarda_Primos.csproj.AssemblyReference.cache
+C:\Users\csi21-sdiapos\Desktop\Programacion\3Ev\Tareas\P31c_Guarda_Primos\P31c_Guarda_Primos\obj\Debug\P31c_Guarda_Primos.csproj.CoreCompileInputs.cache
+C:\Users\csi21-sdiapos\Desktop\Programacion\3Ev\Tareas\P31c_Guarda_Primos\P31c_Guarda_Primos\obj\Debug\P31c_Guarda_Primos.exe
+C:\Users\csi21-sdiapos\Desktop\Programacion\3Ev\Tareas\P31c_Guarda_Primos\P31c_Guarda_Primos\obj\Debug\P31c_Guarda_Primos.pdb
