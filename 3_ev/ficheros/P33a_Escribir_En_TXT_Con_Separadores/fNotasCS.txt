@@ -1,0 +1,28 @@
+
+La matriz de tNotas es:
+
+
+ID	Apellidos	Nombre		n0	m1	n2	Media
+--	------		------		---	---	---	-----
+43;	Sánchez Elegante;Álvaro;   	3,3;	1,1;	6,6;	4,07;
+25;	Arenas Mata;Daniel Luis;   	1,1;	9,9;	6,6;	6,51;
+64;	García Solís;Juan Manuel;   	4,4;	0;	1,1;	2,04;
+26;	Rodríguez Vázquez;Agustín;   	1,1;	8,8;	8,8;	6,92;
+99;	Hurtado Miranda;Fco. Javier;   	5,5;	6,6;	8,8;	7,73;
+69;	Pinto Mirinda;José Manuel;   	6,6;	8,8;	2,2;	6,51;
+50;	Barrios Garrobo;María;   	3,3;	5,5;	9,9;	6,92;
+12;	Márquez Salazar;Carlos;   	4,4;	2,2;	8,8;	5,7;
+24;	Medina Gómez;Jose Carlos;   	2,2;	7,7;	4,4;	5,29;
+19;	Alonso Pérez;Juan Luis;   	2,2;	9,9;	8,8;	7,73;
+83;	López Mora;Daniel;   	1,1;	8,8;	8,8;	6,92;
+84;	González Chaparro;Carmen;   	6,6;	1,1;	6,6;	5,29;
+63;	Ferrer Jiménez;Jacobo;   	1,1;	4,4;	4,4;	3,66;
+70;	Morales Moncayo;Alejandro;   	3,3;	3,3;	3,3;	3,66;
+87;	Fernández Perea;Francisco;   	8,8;	7,7;	1,1;	6,51;
+90;	Blanco Roldán;Alicia;   	5,5;	5,5;	5,5;	6,11;
+34;	Navarro Romero;Francisco;   	0;	2,2;	1,1;	1,22;
+38;	Aguilar Rubio;Ángela;   	6,6;	9,9;	2,2;	6,92;
+92;	Baena Fernández;Constantino;   	8,8;	9,9;	9,9;	10,58;
+46;	Barco Ramírez;Mariló;   	7,7;	9,9;	2,2;	7,33;
+31;	Delegado Rodríguez;Rafaela;   	1,1;	1,1;	0;	0,81;
+88;	Duque Martínez;Antonio;   	3,3;	9,9;	9,9;	8,55;

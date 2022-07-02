@@ -1,0 +1,7 @@
+C:\Users\csi21-sdiapos\Desktop\Programacion\3Ev\Tareas\P_Extra_Cuadra_Texto\P_Extra_Cuadra_Texto\bin\Debug\P_Extra_Cuadra_Texto.exe.config
+C:\Users\csi21-sdiapos\Desktop\Programacion\3Ev\Tareas\P_Extra_Cuadra_Texto\P_Extra_Cuadra_Texto\bin\Debug\P_Extra_Cuadra_Texto.exe
+C:\Users\csi21-sdiapos\Desktop\Programacion\3Ev\Tareas\P_Extra_Cuadra_Texto\P_Extra_Cuadra_Texto\bin\Debug\P_Extra_Cuadra_Texto.pdb
+C:\Users\csi21-sdiapos\Desktop\Programacion\3Ev\Tareas\P_Extra_Cuadra_Texto\P_Extra_Cuadra_Texto\obj\Debug\P_Extra_Cuadra_Texto.csproj.AssemblyReference.cache
+C:\Users\csi21-sdiapos\Desktop\Programacion\3Ev\Tareas\P_Extra_Cuadra_Texto\P_Extra_Cuadra_Texto\obj\Debug\P_Extra_Cuadra_Texto.csproj.CoreCompileInputs.cache
+C:\Users\csi21-sdiapos\Desktop\Programacion\3Ev\Tareas\P_Extra_Cuadra_Texto\P_Extra_Cuadra_Texto\obj\Debug\P_Extra_Cuadra_Texto.exe
+C:\Users\csi21-sdiapos\Desktop\Programacion\3Ev\Tareas\P_Extra_Cuadra_Texto\P_Extra_Cuadra_Texto\obj\Debug\P_Extra_Cuadra_Texto.pdb
