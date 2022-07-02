@@ -1,0 +1,7 @@
+C:\Users\csi21-sdiapos\Desktop\Programacion\2Ev\Tareas\P24a_Baraja_Coleccion\P24a_Baraja_Coleccion\bin\Debug\P24a_Baraja_Coleccion.exe.config
+C:\Users\csi21-sdiapos\Desktop\Programacion\2Ev\Tareas\P24a_Baraja_Coleccion\P24a_Baraja_Coleccion\bin\Debug\P24a_Baraja_Coleccion.exe
+C:\Users\csi21-sdiapos\Desktop\Programacion\2Ev\Tareas\P24a_Baraja_Coleccion\P24a_Baraja_Coleccion\bin\Debug\P24a_Baraja_Coleccion.pdb
+C:\Users\csi21-sdiapos\Desktop\Programacion\2Ev\Tareas\P24a_Baraja_Coleccion\P24a_Baraja_Coleccion\obj\Debug\P24a_Baraja_Coleccion.csproj.AssemblyReference.cache
+C:\Users\csi21-sdiapos\Desktop\Programacion\2Ev\Tareas\P24a_Baraja_Coleccion\P24a_Baraja_Coleccion\obj\Debug\P24a_Baraja_Coleccion.csproj.CoreCompileInputs.cache
+C:\Users\csi21-sdiapos\Desktop\Programacion\2Ev\Tareas\P24a_Baraja_Coleccion\P24a_Baraja_Coleccion\obj\Debug\P24a_Baraja_Coleccion.exe
+C:\Users\csi21-sdiapos\Desktop\Programacion\2Ev\Tareas\P24a_Baraja_Coleccion\P24a_Baraja_Coleccion\obj\Debug\P24a_Baraja_Coleccion.pdb

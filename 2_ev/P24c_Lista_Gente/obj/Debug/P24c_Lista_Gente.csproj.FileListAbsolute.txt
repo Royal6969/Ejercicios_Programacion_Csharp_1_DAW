@@ -1,0 +1,7 @@
+C:\Users\csi21-sdiapos\Desktop\Programacion\2Ev\Tareas\P24c_Lista_Gente\P24c_Lista_Gente\bin\Debug\P24c_Lista_Gente.exe.config
+C:\Users\csi21-sdiapos\Desktop\Programacion\2Ev\Tareas\P24c_Lista_Gente\P24c_Lista_Gente\bin\Debug\P24c_Lista_Gente.exe
+C:\Users\csi21-sdiapos\Desktop\Programacion\2Ev\Tareas\P24c_Lista_Gente\P24c_Lista_Gente\bin\Debug\P24c_Lista_Gente.pdb
+C:\Users\csi21-sdiapos\Desktop\Programacion\2Ev\Tareas\P24c_Lista_Gente\P24c_Lista_Gente\obj\Debug\P24c_Lista_Gente.csproj.AssemblyReference.cache
+C:\Users\csi21-sdiapos\Desktop\Programacion\2Ev\Tareas\P24c_Lista_Gente\P24c_Lista_Gente\obj\Debug\P24c_Lista_Gente.csproj.CoreCompileInputs.cache
+C:\Users\csi21-sdiapos\Desktop\Programacion\2Ev\Tareas\P24c_Lista_Gente\P24c_Lista_Gente\obj\Debug\P24c_Lista_Gente.exe
+C:\Users\csi21-sdiapos\Desktop\Programacion\2Ev\Tareas\P24c_Lista_Gente\P24c_Lista_Gente\obj\Debug\P24c_Lista_Gente.pdb

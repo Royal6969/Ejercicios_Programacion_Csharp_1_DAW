@@ -1,0 +1,7 @@
+C:\Users\csi21-sdiapos\Desktop\Programacion\2Ev\Tareas\P24b_Barajar_Array2D\P24b_Barajar_Array2D\bin\Debug\P24b_Barajar_Array2D.exe.config
+C:\Users\csi21-sdiapos\Desktop\Programacion\2Ev\Tareas\P24b_Barajar_Array2D\P24b_Barajar_Array2D\bin\Debug\P24b_Barajar_Array2D.exe
+C:\Users\csi21-sdiapos\Desktop\Programacion\2Ev\Tareas\P24b_Barajar_Array2D\P24b_Barajar_Array2D\bin\Debug\P24b_Barajar_Array2D.pdb
+C:\Users\csi21-sdiapos\Desktop\Programacion\2Ev\Tareas\P24b_Barajar_Array2D\P24b_Barajar_Array2D\obj\Debug\P24b_Barajar_Array2D.csproj.AssemblyReference.cache
+C:\Users\csi21-sdiapos\Desktop\Programacion\2Ev\Tareas\P24b_Barajar_Array2D\P24b_Barajar_Array2D\obj\Debug\P24b_Barajar_Array2D.csproj.CoreCompileInputs.cache
+C:\Users\csi21-sdiapos\Desktop\Programacion\2Ev\Tareas\P24b_Barajar_Array2D\P24b_Barajar_Array2D\obj\Debug\P24b_Barajar_Array2D.exe
+C:\Users\csi21-sdiapos\Desktop\Programacion\2Ev\Tareas\P24b_Barajar_Array2D\P24b_Barajar_Array2D\obj\Debug\P24b_Barajar_Array2D.pdb

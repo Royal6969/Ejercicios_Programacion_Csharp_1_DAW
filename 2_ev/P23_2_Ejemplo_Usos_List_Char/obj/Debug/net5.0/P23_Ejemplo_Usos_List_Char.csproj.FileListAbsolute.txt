@@ -1,0 +1,16 @@
+C:\Users\Sergio DC\Desktop\DAW\Programacion\2Ev\P23_Ejemplo_Usos_List_Char\bin\Debug\net5.0\P23_Ejemplo_Usos_List_Char.exe
+C:\Users\Sergio DC\Desktop\DAW\Programacion\2Ev\P23_Ejemplo_Usos_List_Char\bin\Debug\net5.0\P23_Ejemplo_Usos_List_Char.deps.json
+C:\Users\Sergio DC\Desktop\DAW\Programacion\2Ev\P23_Ejemplo_Usos_List_Char\bin\Debug\net5.0\P23_Ejemplo_Usos_List_Char.runtimeconfig.json
+C:\Users\Sergio DC\Desktop\DAW\Programacion\2Ev\P23_Ejemplo_Usos_List_Char\bin\Debug\net5.0\P23_Ejemplo_Usos_List_Char.runtimeconfig.dev.json
+C:\Users\Sergio DC\Desktop\DAW\Programacion\2Ev\P23_Ejemplo_Usos_List_Char\bin\Debug\net5.0\P23_Ejemplo_Usos_List_Char.dll
+C:\Users\Sergio DC\Desktop\DAW\Programacion\2Ev\P23_Ejemplo_Usos_List_Char\bin\Debug\net5.0\ref\P23_Ejemplo_Usos_List_Char.dll
+C:\Users\Sergio DC\Desktop\DAW\Programacion\2Ev\P23_Ejemplo_Usos_List_Char\bin\Debug\net5.0\P23_Ejemplo_Usos_List_Char.pdb
+C:\Users\Sergio DC\Desktop\DAW\Programacion\2Ev\P23_Ejemplo_Usos_List_Char\obj\Debug\net5.0\P23_Ejemplo_Usos_List_Char.csproj.AssemblyReference.cache
+C:\Users\Sergio DC\Desktop\DAW\Programacion\2Ev\P23_Ejemplo_Usos_List_Char\obj\Debug\net5.0\P23_Ejemplo_Usos_List_Char.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sergio DC\Desktop\DAW\Programacion\2Ev\P23_Ejemplo_Usos_List_Char\obj\Debug\net5.0\P23_Ejemplo_Usos_List_Char.AssemblyInfoInputs.cache
+C:\Users\Sergio DC\Desktop\DAW\Programacion\2Ev\P23_Ejemplo_Usos_List_Char\obj\Debug\net5.0\P23_Ejemplo_Usos_List_Char.AssemblyInfo.cs
+C:\Users\Sergio DC\Desktop\DAW\Programacion\2Ev\P23_Ejemplo_Usos_List_Char\obj\Debug\net5.0\P23_Ejemplo_Usos_List_Char.csproj.CoreCompileInputs.cache
+C:\Users\Sergio DC\Desktop\DAW\Programacion\2Ev\P23_Ejemplo_Usos_List_Char\obj\Debug\net5.0\P23_Ejemplo_Usos_List_Char.dll
+C:\Users\Sergio DC\Desktop\DAW\Programacion\2Ev\P23_Ejemplo_Usos_List_Char\obj\Debug\net5.0\ref\P23_Ejemplo_Usos_List_Char.dll
+C:\Users\Sergio DC\Desktop\DAW\Programacion\2Ev\P23_Ejemplo_Usos_List_Char\obj\Debug\net5.0\P23_Ejemplo_Usos_List_Char.pdb
+C:\Users\Sergio DC\Desktop\DAW\Programacion\2Ev\P23_Ejemplo_Usos_List_Char\obj\Debug\net5.0\P23_Ejemplo_Usos_List_Char.genruntimeconfig.cache

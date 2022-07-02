@@ -1,0 +1,7 @@
+C:\Users\csi21-sdiapos\Desktop\Programacion\2Ev\Tareas\P23a_Tabla_2D_Gente\P23a_Tabla_2D_Gente\bin\Debug\P23a_Tabla_2D_Gente.exe.config
+C:\Users\csi21-sdiapos\Desktop\Programacion\2Ev\Tareas\P23a_Tabla_2D_Gente\P23a_Tabla_2D_Gente\bin\Debug\P23a_Tabla_2D_Gente.exe
+C:\Users\csi21-sdiapos\Desktop\Programacion\2Ev\Tareas\P23a_Tabla_2D_Gente\P23a_Tabla_2D_Gente\bin\Debug\P23a_Tabla_2D_Gente.pdb
+C:\Users\csi21-sdiapos\Desktop\Programacion\2Ev\Tareas\P23a_Tabla_2D_Gente\P23a_Tabla_2D_Gente\obj\Debug\P23a_Tabla_2D_Gente.csproj.AssemblyReference.cache
+C:\Users\csi21-sdiapos\Desktop\Programacion\2Ev\Tareas\P23a_Tabla_2D_Gente\P23a_Tabla_2D_Gente\obj\Debug\P23a_Tabla_2D_Gente.csproj.CoreCompileInputs.cache
+C:\Users\csi21-sdiapos\Desktop\Programacion\2Ev\Tareas\P23a_Tabla_2D_Gente\P23a_Tabla_2D_Gente\obj\Debug\P23a_Tabla_2D_Gente.exe
+C:\Users\csi21-sdiapos\Desktop\Programacion\2Ev\Tareas\P23a_Tabla_2D_Gente\P23a_Tabla_2D_Gente\obj\Debug\P23a_Tabla_2D_Gente.pdb
