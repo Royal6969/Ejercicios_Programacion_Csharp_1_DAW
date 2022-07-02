@@ -1,0 +1,15 @@
+C:\Users\Sergio DC\Desktop\P35a\bin\Debug\net6.0\P35a.exe
+C:\Users\Sergio DC\Desktop\P35a\bin\Debug\net6.0\P35a.deps.json
+C:\Users\Sergio DC\Desktop\P35a\bin\Debug\net6.0\P35a.runtimeconfig.json
+C:\Users\Sergio DC\Desktop\P35a\bin\Debug\net6.0\P35a.dll
+C:\Users\Sergio DC\Desktop\P35a\bin\Debug\net6.0\P35a.pdb
+C:\Users\Sergio DC\Desktop\P35a\obj\Debug\net6.0\P35a.csproj.AssemblyReference.cache
+C:\Users\Sergio DC\Desktop\P35a\obj\Debug\net6.0\P35a.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sergio DC\Desktop\P35a\obj\Debug\net6.0\P35a.AssemblyInfoInputs.cache
+C:\Users\Sergio DC\Desktop\P35a\obj\Debug\net6.0\P35a.AssemblyInfo.cs
+C:\Users\Sergio DC\Desktop\P35a\obj\Debug\net6.0\P35a.csproj.CoreCompileInputs.cache
+C:\Users\Sergio DC\Desktop\P35a\obj\Debug\net6.0\P35a.dll
+C:\Users\Sergio DC\Desktop\P35a\obj\Debug\net6.0\refint\P35a.dll
+C:\Users\Sergio DC\Desktop\P35a\obj\Debug\net6.0\P35a.pdb
+C:\Users\Sergio DC\Desktop\P35a\obj\Debug\net6.0\P35a.genruntimeconfig.cache
+C:\Users\Sergio DC\Desktop\P35a\obj\Debug\net6.0\ref\P35a.dll

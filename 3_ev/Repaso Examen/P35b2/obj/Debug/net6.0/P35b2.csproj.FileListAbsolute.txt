@@ -1,0 +1,15 @@
+C:\Users\Sergio DC\Desktop\P35b2\bin\Debug\net6.0\P35b2.exe
+C:\Users\Sergio DC\Desktop\P35b2\bin\Debug\net6.0\P35b2.deps.json
+C:\Users\Sergio DC\Desktop\P35b2\bin\Debug\net6.0\P35b2.runtimeconfig.json
+C:\Users\Sergio DC\Desktop\P35b2\bin\Debug\net6.0\P35b2.dll
+C:\Users\Sergio DC\Desktop\P35b2\bin\Debug\net6.0\P35b2.pdb
+C:\Users\Sergio DC\Desktop\P35b2\obj\Debug\net6.0\P35b2.csproj.AssemblyReference.cache
+C:\Users\Sergio DC\Desktop\P35b2\obj\Debug\net6.0\P35b2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sergio DC\Desktop\P35b2\obj\Debug\net6.0\P35b2.AssemblyInfoInputs.cache
+C:\Users\Sergio DC\Desktop\P35b2\obj\Debug\net6.0\P35b2.AssemblyInfo.cs
+C:\Users\Sergio DC\Desktop\P35b2\obj\Debug\net6.0\P35b2.csproj.CoreCompileInputs.cache
+C:\Users\Sergio DC\Desktop\P35b2\obj\Debug\net6.0\P35b2.dll
+C:\Users\Sergio DC\Desktop\P35b2\obj\Debug\net6.0\refint\P35b2.dll
+C:\Users\Sergio DC\Desktop\P35b2\obj\Debug\net6.0\P35b2.pdb
+C:\Users\Sergio DC\Desktop\P35b2\obj\Debug\net6.0\P35b2.genruntimeconfig.cache
+C:\Users\Sergio DC\Desktop\P35b2\obj\Debug\net6.0\ref\P35b2.dll

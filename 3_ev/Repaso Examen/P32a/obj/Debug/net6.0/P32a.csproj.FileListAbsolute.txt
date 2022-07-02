@@ -1,0 +1,15 @@
+C:\Users\Sergio DC\Desktop\P32a\bin\Debug\net6.0\P32a.exe
+C:\Users\Sergio DC\Desktop\P32a\bin\Debug\net6.0\P32a.deps.json
+C:\Users\Sergio DC\Desktop\P32a\bin\Debug\net6.0\P32a.runtimeconfig.json
+C:\Users\Sergio DC\Desktop\P32a\bin\Debug\net6.0\P32a.dll
+C:\Users\Sergio DC\Desktop\P32a\bin\Debug\net6.0\P32a.pdb
+C:\Users\Sergio DC\Desktop\P32a\obj\Debug\net6.0\P32a.csproj.AssemblyReference.cache
+C:\Users\Sergio DC\Desktop\P32a\obj\Debug\net6.0\P32a.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sergio DC\Desktop\P32a\obj\Debug\net6.0\P32a.AssemblyInfoInputs.cache
+C:\Users\Sergio DC\Desktop\P32a\obj\Debug\net6.0\P32a.AssemblyInfo.cs
+C:\Users\Sergio DC\Desktop\P32a\obj\Debug\net6.0\P32a.csproj.CoreCompileInputs.cache
+C:\Users\Sergio DC\Desktop\P32a\obj\Debug\net6.0\P32a.dll
+C:\Users\Sergio DC\Desktop\P32a\obj\Debug\net6.0\refint\P32a.dll
+C:\Users\Sergio DC\Desktop\P32a\obj\Debug\net6.0\P32a.pdb
+C:\Users\Sergio DC\Desktop\P32a\obj\Debug\net6.0\P32a.genruntimeconfig.cache
+C:\Users\Sergio DC\Desktop\P32a\obj\Debug\net6.0\ref\P32a.dll
