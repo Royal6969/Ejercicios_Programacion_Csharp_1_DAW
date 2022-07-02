@@ -1,0 +1,7 @@
+C:\Users\csi21-sdiapos\Desktop\Programacion\2Ev\Tareas\P21g_Coloca_Nums_alAzar_099\P21g_Coloca_Nums_alAzar_099\bin\Debug\P21g_Coloca_Nums_alAzar_099.exe.config
+C:\Users\csi21-sdiapos\Desktop\Programacion\2Ev\Tareas\P21g_Coloca_Nums_alAzar_099\P21g_Coloca_Nums_alAzar_099\bin\Debug\P21g_Coloca_Nums_alAzar_099.exe
+C:\Users\csi21-sdiapos\Desktop\Programacion\2Ev\Tareas\P21g_Coloca_Nums_alAzar_099\P21g_Coloca_Nums_alAzar_099\bin\Debug\P21g_Coloca_Nums_alAzar_099.pdb
+C:\Users\csi21-sdiapos\Desktop\Programacion\2Ev\Tareas\P21g_Coloca_Nums_alAzar_099\P21g_Coloca_Nums_alAzar_099\obj\Debug\P21g_Coloca_Nums_alAzar_099.csproj.AssemblyReference.cache
+C:\Users\csi21-sdiapos\Desktop\Programacion\2Ev\Tareas\P21g_Coloca_Nums_alAzar_099\P21g_Coloca_Nums_alAzar_099\obj\Debug\P21g_Coloca_Nums_alAzar_099.csproj.CoreCompileInputs.cache
+C:\Users\csi21-sdiapos\Desktop\Programacion\2Ev\Tareas\P21g_Coloca_Nums_alAzar_099\P21g_Coloca_Nums_alAzar_099\obj\Debug\P21g_Coloca_Nums_alAzar_099.exe
+C:\Users\csi21-sdiapos\Desktop\Programacion\2Ev\Tareas\P21g_Coloca_Nums_alAzar_099\P21g_Coloca_Nums_alAzar_099\obj\Debug\P21g_Coloca_Nums_alAzar_099.pdb

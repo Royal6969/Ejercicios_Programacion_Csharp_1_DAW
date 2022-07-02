@@ -1,0 +1,7 @@
+C:\Users\csi21-sdiapos\Desktop\Programacion\2Ev\Tareas\P22a_Captura_Entero\P22a_Captura_Entero\bin\Debug\P22a_Captura_Entero.exe.config
+C:\Users\csi21-sdiapos\Desktop\Programacion\2Ev\Tareas\P22a_Captura_Entero\P22a_Captura_Entero\bin\Debug\P22a_Captura_Entero.exe
+C:\Users\csi21-sdiapos\Desktop\Programacion\2Ev\Tareas\P22a_Captura_Entero\P22a_Captura_Entero\bin\Debug\P22a_Captura_Entero.pdb
+C:\Users\csi21-sdiapos\Desktop\Programacion\2Ev\Tareas\P22a_Captura_Entero\P22a_Captura_Entero\obj\Debug\P22a_Captura_Entero.csproj.AssemblyReference.cache
+C:\Users\csi21-sdiapos\Desktop\Programacion\2Ev\Tareas\P22a_Captura_Entero\P22a_Captura_Entero\obj\Debug\P22a_Captura_Entero.csproj.CoreCompileInputs.cache
+C:\Users\csi21-sdiapos\Desktop\Programacion\2Ev\Tareas\P22a_Captura_Entero\P22a_Captura_Entero\obj\Debug\P22a_Captura_Entero.exe
+C:\Users\csi21-sdiapos\Desktop\Programacion\2Ev\Tareas\P22a_Captura_Entero\P22a_Captura_Entero\obj\Debug\P22a_Captura_Entero.pdb

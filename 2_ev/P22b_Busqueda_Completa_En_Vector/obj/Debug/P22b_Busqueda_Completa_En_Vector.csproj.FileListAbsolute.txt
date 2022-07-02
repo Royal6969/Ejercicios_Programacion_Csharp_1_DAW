@@ -1,0 +1,7 @@
+C:\Users\csi21-sdiapos\Desktop\Programacion\2Ev\Tareas\P22b_Busqueda_Completa_En_Vector\P22b_Busqueda_Completa_En_Vector\bin\Debug\P22b_Busqueda_Completa_En_Vector.exe.config
+C:\Users\csi21-sdiapos\Desktop\Programacion\2Ev\Tareas\P22b_Busqueda_Completa_En_Vector\P22b_Busqueda_Completa_En_Vector\bin\Debug\P22b_Busqueda_Completa_En_Vector.exe
+C:\Users\csi21-sdiapos\Desktop\Programacion\2Ev\Tareas\P22b_Busqueda_Completa_En_Vector\P22b_Busqueda_Completa_En_Vector\bin\Debug\P22b_Busqueda_Completa_En_Vector.pdb
+C:\Users\csi21-sdiapos\Desktop\Programacion\2Ev\Tareas\P22b_Busqueda_Completa_En_Vector\P22b_Busqueda_Completa_En_Vector\obj\Debug\P22b_Busqueda_Completa_En_Vector.csproj.AssemblyReference.cache
+C:\Users\csi21-sdiapos\Desktop\Programacion\2Ev\Tareas\P22b_Busqueda_Completa_En_Vector\P22b_Busqueda_Completa_En_Vector\obj\Debug\P22b_Busqueda_Completa_En_Vector.csproj.CoreCompileInputs.cache
+C:\Users\csi21-sdiapos\Desktop\Programacion\2Ev\Tareas\P22b_Busqueda_Completa_En_Vector\P22b_Busqueda_Completa_En_Vector\obj\Debug\P22b_Busqueda_Completa_En_Vector.exe
+C:\Users\csi21-sdiapos\Desktop\Programacion\2Ev\Tareas\P22b_Busqueda_Completa_En_Vector\P22b_Busqueda_Completa_En_Vector\obj\Debug\P22b_Busqueda_Completa_En_Vector.pdb
