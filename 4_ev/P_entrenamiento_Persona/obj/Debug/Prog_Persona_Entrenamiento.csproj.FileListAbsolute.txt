@@ -1,0 +1,7 @@
+C:\Users\csi21-sdiapos\Desktop\Programacion\4Ev\Tareas\Prog_Persona_Entrenamiento\Prog_Persona_Entrenamiento\bin\Debug\Prog_Persona_Entrenamiento.exe.config
+C:\Users\csi21-sdiapos\Desktop\Programacion\4Ev\Tareas\Prog_Persona_Entrenamiento\Prog_Persona_Entrenamiento\bin\Debug\Prog_Persona_Entrenamiento.exe
+C:\Users\csi21-sdiapos\Desktop\Programacion\4Ev\Tareas\Prog_Persona_Entrenamiento\Prog_Persona_Entrenamiento\bin\Debug\Prog_Persona_Entrenamiento.pdb
+C:\Users\csi21-sdiapos\Desktop\Programacion\4Ev\Tareas\Prog_Persona_Entrenamiento\Prog_Persona_Entrenamiento\obj\Debug\Prog_Persona_Entrenamiento.csproj.AssemblyReference.cache
+C:\Users\csi21-sdiapos\Desktop\Programacion\4Ev\Tareas\Prog_Persona_Entrenamiento\Prog_Persona_Entrenamiento\obj\Debug\Prog_Persona_Entrenamiento.csproj.CoreCompileInputs.cache
+C:\Users\csi21-sdiapos\Desktop\Programacion\4Ev\Tareas\Prog_Persona_Entrenamiento\Prog_Persona_Entrenamiento\obj\Debug\Prog_Persona_Entrenamiento.exe
+C:\Users\csi21-sdiapos\Desktop\Programacion\4Ev\Tareas\Prog_Persona_Entrenamiento\Prog_Persona_Entrenamiento\obj\Debug\Prog_Persona_Entrenamiento.pdb
