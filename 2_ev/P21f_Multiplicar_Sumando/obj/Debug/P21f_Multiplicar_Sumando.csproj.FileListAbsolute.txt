@@ -1,0 +1,7 @@
+C:\Users\csi21-sdiapos\Desktop\Programacion\2Ev\Tareas\P21f_Multiplicar_Sumando\P21f_Multiplicar_Sumando\bin\Debug\P21f_Multiplicar_Sumando.exe.config
+C:\Users\csi21-sdiapos\Desktop\Programacion\2Ev\Tareas\P21f_Multiplicar_Sumando\P21f_Multiplicar_Sumando\bin\Debug\P21f_Multiplicar_Sumando.exe
+C:\Users\csi21-sdiapos\Desktop\Programacion\2Ev\Tareas\P21f_Multiplicar_Sumando\P21f_Multiplicar_Sumando\bin\Debug\P21f_Multiplicar_Sumando.pdb
+C:\Users\csi21-sdiapos\Desktop\Programacion\2Ev\Tareas\P21f_Multiplicar_Sumando\P21f_Multiplicar_Sumando\obj\Debug\P21f_Multiplicar_Sumando.csproj.AssemblyReference.cache
+C:\Users\csi21-sdiapos\Desktop\Programacion\2Ev\Tareas\P21f_Multiplicar_Sumando\P21f_Multiplicar_Sumando\obj\Debug\P21f_Multiplicar_Sumando.csproj.CoreCompileInputs.cache
+C:\Users\csi21-sdiapos\Desktop\Programacion\2Ev\Tareas\P21f_Multiplicar_Sumando\P21f_Multiplicar_Sumando\obj\Debug\P21f_Multiplicar_Sumando.exe
+C:\Users\csi21-sdiapos\Desktop\Programacion\2Ev\Tareas\P21f_Multiplicar_Sumando\P21f_Multiplicar_Sumando\obj\Debug\P21f_Multiplicar_Sumando.pdb

@@ -1,0 +1,7 @@
+C:\Users\csi21-sdiapos\Desktop\Programacion\2Ev\Tareas\P21_Metodos_Entrenamiento\P21_Metodos_Entrenamiento\bin\Debug\P21_Metodos_Entrenamiento.exe.config
+C:\Users\csi21-sdiapos\Desktop\Programacion\2Ev\Tareas\P21_Metodos_Entrenamiento\P21_Metodos_Entrenamiento\bin\Debug\P21_Metodos_Entrenamiento.exe
+C:\Users\csi21-sdiapos\Desktop\Programacion\2Ev\Tareas\P21_Metodos_Entrenamiento\P21_Metodos_Entrenamiento\bin\Debug\P21_Metodos_Entrenamiento.pdb
+C:\Users\csi21-sdiapos\Desktop\Programacion\2Ev\Tareas\P21_Metodos_Entrenamiento\P21_Metodos_Entrenamiento\obj\Debug\P21_Metodos_Entrenamiento.csproj.AssemblyReference.cache
+C:\Users\csi21-sdiapos\Desktop\Programacion\2Ev\Tareas\P21_Metodos_Entrenamiento\P21_Metodos_Entrenamiento\obj\Debug\P21_Metodos_Entrenamiento.csproj.CoreCompileInputs.cache
+C:\Users\csi21-sdiapos\Desktop\Programacion\2Ev\Tareas\P21_Metodos_Entrenamiento\P21_Metodos_Entrenamiento\obj\Debug\P21_Metodos_Entrenamiento.exe
+C:\Users\csi21-sdiapos\Desktop\Programacion\2Ev\Tareas\P21_Metodos_Entrenamiento\P21_Metodos_Entrenamiento\obj\Debug\P21_Metodos_Entrenamiento.pdb
