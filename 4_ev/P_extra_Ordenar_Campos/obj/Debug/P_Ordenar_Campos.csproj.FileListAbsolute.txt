@@ -1,0 +1,8 @@
+C:\Users\Sergio DC\Desktop\DAW\Programacion\4Ev\P_Ordenar_Campos\bin\Debug\P_Ordenar_Campos.exe.config
+C:\Users\Sergio DC\Desktop\DAW\Programacion\4Ev\P_Ordenar_Campos\bin\Debug\P_Ordenar_Campos.exe
+C:\Users\Sergio DC\Desktop\DAW\Programacion\4Ev\P_Ordenar_Campos\bin\Debug\P_Ordenar_Campos.pdb
+C:\Users\Sergio DC\Desktop\DAW\Programacion\4Ev\P_Ordenar_Campos\obj\Debug\P_Ordenar_Campos.csproj.AssemblyReference.cache
+C:\Users\Sergio DC\Desktop\DAW\Programacion\4Ev\P_Ordenar_Campos\obj\Debug\P_Ordenar_Campos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sergio DC\Desktop\DAW\Programacion\4Ev\P_Ordenar_Campos\obj\Debug\P_Ordenar_Campos.csproj.CoreCompileInputs.cache
+C:\Users\Sergio DC\Desktop\DAW\Programacion\4Ev\P_Ordenar_Campos\obj\Debug\P_Ordenar_Campos.exe
+C:\Users\Sergio DC\Desktop\DAW\Programacion\4Ev\P_Ordenar_Campos\obj\Debug\P_Ordenar_Campos.pdb

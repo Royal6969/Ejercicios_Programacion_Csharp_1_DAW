@@ -1,0 +1,7 @@
+C:\Users\csi21-sdiapos\Desktop\Programacion\4Ev\Tareas\P40a_Proyecto_Cliente\P40a_Proyecto_Cliente\bin\Debug\P40a_Proyecto_Cliente.exe.config
+C:\Users\csi21-sdiapos\Desktop\Programacion\4Ev\Tareas\P40a_Proyecto_Cliente\P40a_Proyecto_Cliente\bin\Debug\P40a_Proyecto_Cliente.exe
+C:\Users\csi21-sdiapos\Desktop\Programacion\4Ev\Tareas\P40a_Proyecto_Cliente\P40a_Proyecto_Cliente\bin\Debug\P40a_Proyecto_Cliente.pdb
+C:\Users\csi21-sdiapos\Desktop\Programacion\4Ev\Tareas\P40a_Proyecto_Cliente\P40a_Proyecto_Cliente\obj\Debug\P40a_Proyecto_Cliente.csproj.CoreCompileInputs.cache
+C:\Users\csi21-sdiapos\Desktop\Programacion\4Ev\Tareas\P40a_Proyecto_Cliente\P40a_Proyecto_Cliente\obj\Debug\P40a_Proyecto_Cliente.exe
+C:\Users\csi21-sdiapos\Desktop\Programacion\4Ev\Tareas\P40a_Proyecto_Cliente\P40a_Proyecto_Cliente\obj\Debug\P40a_Proyecto_Cliente.pdb
+C:\Users\csi21-sdiapos\Desktop\Programacion\4Ev\Tareas\P40a_Proyecto_Cliente\P40a_Proyecto_Cliente\obj\Debug\P40a_Proyecto_Cliente.csproj.AssemblyReference.cache
