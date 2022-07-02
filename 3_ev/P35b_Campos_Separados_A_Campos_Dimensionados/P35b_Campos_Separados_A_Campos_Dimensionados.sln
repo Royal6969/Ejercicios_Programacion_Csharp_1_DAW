@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P35b_Campos_Separados_A_Campos_Dimensionados", "P35b_Campos_Separados_A_Campos_Dimensionados\P35b_Campos_Separados_A_Campos_Dimensionados.csproj", "{90089DDB-4E1D-4D4B-BE5F-D962A4A3898A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90089DDB-4E1D-4D4B-BE5F-D962A4A3898A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90089DDB-4E1D-4D4B-BE5F-D962A4A3898A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90089DDB-4E1D-4D4B-BE5F-D962A4A3898A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90089DDB-4E1D-4D4B-BE5F-D962A4A3898A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E77FBD10-29E2-4CFD-A480-A48C2E58E7C4}
+	EndGlobalSection
+EndGlobal

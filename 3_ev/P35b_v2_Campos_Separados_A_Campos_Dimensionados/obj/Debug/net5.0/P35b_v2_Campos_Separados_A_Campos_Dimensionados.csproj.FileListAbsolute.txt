@@ -1,0 +1,16 @@
+C:\Users\Sergio DC\Desktop\DAW\Programacion\3Ev\P35b_v2_Campos_Separados_A_Campos_Dimensionados\bin\Debug\net5.0\P35b_v2_Campos_Separados_A_Campos_Dimensionados.exe
+C:\Users\Sergio DC\Desktop\DAW\Programacion\3Ev\P35b_v2_Campos_Separados_A_Campos_Dimensionados\bin\Debug\net5.0\P35b_v2_Campos_Separados_A_Campos_Dimensionados.deps.json
+C:\Users\Sergio DC\Desktop\DAW\Programacion\3Ev\P35b_v2_Campos_Separados_A_Campos_Dimensionados\bin\Debug\net5.0\P35b_v2_Campos_Separados_A_Campos_Dimensionados.runtimeconfig.json
+C:\Users\Sergio DC\Desktop\DAW\Programacion\3Ev\P35b_v2_Campos_Separados_A_Campos_Dimensionados\bin\Debug\net5.0\P35b_v2_Campos_Separados_A_Campos_Dimensionados.runtimeconfig.dev.json
+C:\Users\Sergio DC\Desktop\DAW\Programacion\3Ev\P35b_v2_Campos_Separados_A_Campos_Dimensionados\bin\Debug\net5.0\P35b_v2_Campos_Separados_A_Campos_Dimensionados.dll
+C:\Users\Sergio DC\Desktop\DAW\Programacion\3Ev\P35b_v2_Campos_Separados_A_Campos_Dimensionados\bin\Debug\net5.0\ref\P35b_v2_Campos_Separados_A_Campos_Dimensionados.dll
+C:\Users\Sergio DC\Desktop\DAW\Programacion\3Ev\P35b_v2_Campos_Separados_A_Campos_Dimensionados\bin\Debug\net5.0\P35b_v2_Campos_Separados_A_Campos_Dimensionados.pdb
+C:\Users\Sergio DC\Desktop\DAW\Programacion\3Ev\P35b_v2_Campos_Separados_A_Campos_Dimensionados\obj\Debug\net5.0\P35b_v2_Campos_Separados_A_Campos_Dimensionados.csproj.AssemblyReference.cache
+C:\Users\Sergio DC\Desktop\DAW\Programacion\3Ev\P35b_v2_Campos_Separados_A_Campos_Dimensionados\obj\Debug\net5.0\P35b_v2_Campos_Separados_A_Campos_Dimensionados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sergio DC\Desktop\DAW\Programacion\3Ev\P35b_v2_Campos_Separados_A_Campos_Dimensionados\obj\Debug\net5.0\P35b_v2_Campos_Separados_A_Campos_Dimensionados.AssemblyInfoInputs.cache
+C:\Users\Sergio DC\Desktop\DAW\Programacion\3Ev\P35b_v2_Campos_Separados_A_Campos_Dimensionados\obj\Debug\net5.0\P35b_v2_Campos_Separados_A_Campos_Dimensionados.AssemblyInfo.cs
+C:\Users\Sergio DC\Desktop\DAW\Programacion\3Ev\P35b_v2_Campos_Separados_A_Campos_Dimensionados\obj\Debug\net5.0\P35b_v2_Campos_Separados_A_Campos_Dimensionados.csproj.CoreCompileInputs.cache
+C:\Users\Sergio DC\Desktop\DAW\Programacion\3Ev\P35b_v2_Campos_Separados_A_Campos_Dimensionados\obj\Debug\net5.0\P35b_v2_Campos_Separados_A_Campos_Dimensionados.dll
+C:\Users\Sergio DC\Desktop\DAW\Programacion\3Ev\P35b_v2_Campos_Separados_A_Campos_Dimensionados\obj\Debug\net5.0\ref\P35b_v2_Campos_Separados_A_Campos_Dimensionados.dll
+C:\Users\Sergio DC\Desktop\DAW\Programacion\3Ev\P35b_v2_Campos_Separados_A_Campos_Dimensionados\obj\Debug\net5.0\P35b_v2_Campos_Separados_A_Campos_Dimensionados.pdb
+C:\Users\Sergio DC\Desktop\DAW\Programacion\3Ev\P35b_v2_Campos_Separados_A_Campos_Dimensionados\obj\Debug\net5.0\P35b_v2_Campos_Separados_A_Campos_Dimensionados.genruntimeconfig.cache

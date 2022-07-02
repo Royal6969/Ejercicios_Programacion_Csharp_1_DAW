@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "P35b_v2_Campos_Separados_A_Campos_Dimensionados/1.0.0": {
+        "runtime": {
+          "P35b_v2_Campos_Separados_A_Campos_Dimensionados.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "P35b_v2_Campos_Separados_A_Campos_Dimensionados/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
