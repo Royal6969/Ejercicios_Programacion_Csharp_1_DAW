@@ -1,0 +1,7 @@
+C:\Users\csi21-sdiapos\Desktop\Programacion\4Ev\Tareas\P41b0_Paralelogramos_Sin_Herencia\bin\Debug\P41b0_Paralelogramos_Sin_Herencia.exe.config
+C:\Users\csi21-sdiapos\Desktop\Programacion\4Ev\Tareas\P41b0_Paralelogramos_Sin_Herencia\bin\Debug\P41b0_Paralelogramos_Sin_Herencia.exe
+C:\Users\csi21-sdiapos\Desktop\Programacion\4Ev\Tareas\P41b0_Paralelogramos_Sin_Herencia\bin\Debug\P41b0_Paralelogramos_Sin_Herencia.pdb
+C:\Users\csi21-sdiapos\Desktop\Programacion\4Ev\Tareas\P41b0_Paralelogramos_Sin_Herencia\obj\Debug\P41b0_Paralelogramos_Sin_Herencia.csproj.AssemblyReference.cache
+C:\Users\csi21-sdiapos\Desktop\Programacion\4Ev\Tareas\P41b0_Paralelogramos_Sin_Herencia\obj\Debug\P41b0_Paralelogramos_Sin_Herencia.csproj.CoreCompileInputs.cache
+C:\Users\csi21-sdiapos\Desktop\Programacion\4Ev\Tareas\P41b0_Paralelogramos_Sin_Herencia\obj\Debug\P41b0_Paralelogramos_Sin_Herencia.exe
+C:\Users\csi21-sdiapos\Desktop\Programacion\4Ev\Tareas\P41b0_Paralelogramos_Sin_Herencia\obj\Debug\P41b0_Paralelogramos_Sin_Herencia.pdb

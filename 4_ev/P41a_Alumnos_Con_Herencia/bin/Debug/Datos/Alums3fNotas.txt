@@ -1,0 +1,51 @@
+45875214;H;Filomena;García Hurtado;19950210;7;8;9
+28255995;A;Álvaro;Sánchez Elegante;19930810;4,1;9,5;8,1
+28481006;L;Daniel Luis;Arenas Mata;20040129;3;4;5,4
+28895615;M;Juan Manuel;García Solís;20040829;6,9;7,5;5
+28652873;K;Agustin;Rodríguez Vázquez;19900913;4,6;9,5;3,9
+28221242;E;Fco. Javier;Hurtado Miranda;19900528;8,1;3,1;8,9
+28545921;E;Miranda;Pinto Mirinda;20030509;4,4;5,8;7,3
+28387769;S;Tomás;Barrios Garrobo;19970118;9,2;7,4;8,5
+28751514;T;Carlos;Márquez Salazar;19870116;5,4;7,2;4,1
+28019297;X;Jose Carlos;Medina Gómez;19980129;5,1;9,3;7
+28407360;N;Juan Luis;Alonso Pérez;19930508;3,5;5,2;8,9
+28601968;P;Daniel;López Mora;19890920;7,1;7,6;4,2
+28179613;H;Angel;González Chaparro;19880220;3,5;7,2;4,5
+28627307;N;Jacobo;Ferrer Jiménez;19901127;3,1;4,1;5
+28782039;T;Alejandro;Morales Moncayo;19870110;4,2;9,8;3,8
+28952901;R;Francisco;Fernández Perea;19960805;9,5;4,3;3,3
+28067345;M;Alfredo;Blanco Roldán;19870120;6,6;3,9;7,6
+28134135;R;Francisco;Navarro Romero;19970901;5,3;9,1;9,8
+28901752;U;Antonio;Aguilar Rubio;19930126;6,1;5,6;3,4
+28446230;H;Constantino;Baena Fernández;19990508;9,5;8,7;5,2
+28597282;E;Roberto;Barco Ramírez;19871107;7;7,9;4,7
+28171148;I;Rafael;Delgado Rodríguez;19900421;8,3;6,4;5,2
+28995697;R;Antonio;Duque Martínez;19950926;6,1;7,4;4,9
+28999048;E;Raúl;Gómez Rosales;19860209;9,6;7,6;5,8
+28289170;E;Mónica;Vargas Molinar;19920108;7,3;4,2;4,7
+28771083;W;Tomas;Villegas Zapata;19931215;5,3;7,9;7,5
+28762161;L;Armando;Alonso Carranza;19850810;7,6;5,9;5,9
+28379536;Y;Francisco;Molina Díaz;19930823;3,7;8,5;8,3
+28754091;F;Manuel Angel;Pérez Vélez;19930904;9,4;8,1;6,1
+28192541;A;J.Pablo;Luque Estrada;19870922;9;4;4,9
+28711480;W;Luis Juan;Ramos Fernández;19891113;3,8;4;8,5
+28432376;Q;Carlos;Lozano Huertas;19860304;9,2;6,1;6,1
+28454947;T;Esteban;Moya Insa;19970823;3,2;5,8;6,4
+28186924;X;David;Gutiérrez Legazpi;19860816;8,5;6,3;6,8
+28668446;Y;Manuel José;Rodríguez López;20020405;8,4;6,9;6,3
+28521358;Q;Daniel;Zabala Manzano;20040902;4,7;7,9;7,8
+28517473;C;Patricia;Rivas Moreno;19960614;8;3,8;7,7
+28732506;V;Fernando;Barrera Méndez;19940913;5,8;4,8;5,7
+28928460;P;Antonio Jesús;Pastor Acosta;20040630;9,3;6,3;9,4
+28828008;D;Manuel;Bucaro Naranjo;20031019;6,3;8,9;8,2
+28707561;S;Jesús Paulo;Rojo Núñez;19990721;9,1;7;6,4
+28555542;U;Jose Maria;Fuertes Olivera;19860226;9,9;8,8;6,5
+28613630;K;Alfonso;Galván Olmedo;20020330;7,3;8;8,1
+28875049;E;Jose Maria;Martínez Ortega;19950830;8,5;5;5
+28735775;C;Miguel Angel;López Palacios;19930413;4,1;9,1;9,5
+28698683;V;Luis Enrique;Muñoz Murillo;19890610;9;5,2;4,5
+28805558;P;Javier;Ruíz Portillo;20010223;4,9;7,6;3,2
+28223895;D;Antonio;Arias Ponce;19960422;8,2;4;3,2
+28821661;S;Miguel A.;Sevillano Quesada;19900524;7,2;8;9,1
+28346873;U;Pedro José;Garduño Rico;19900309;5,7;9,9;9,7
+28864598;K;Juan;Delegado Segura;19901203;6,7;6,9;6,9

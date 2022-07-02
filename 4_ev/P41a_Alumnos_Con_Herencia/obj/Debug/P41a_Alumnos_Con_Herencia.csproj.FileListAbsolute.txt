@@ -1,0 +1,15 @@
+C:\Users\csi21-sdiapos\Desktop\Programacion\4Ev\Tareas\P41a_Alumnos_Con_Herencia\bin\Debug\P41a_Alumnos_Con_Herencia.exe.config
+C:\Users\csi21-sdiapos\Desktop\Programacion\4Ev\Tareas\P41a_Alumnos_Con_Herencia\bin\Debug\P41a_Alumnos_Con_Herencia.exe
+C:\Users\csi21-sdiapos\Desktop\Programacion\4Ev\Tareas\P41a_Alumnos_Con_Herencia\bin\Debug\P41a_Alumnos_Con_Herencia.pdb
+C:\Users\csi21-sdiapos\Desktop\Programacion\4Ev\Tareas\P41a_Alumnos_Con_Herencia\obj\Debug\P41a_Alumnos_Con_Herencia.csproj.AssemblyReference.cache
+C:\Users\csi21-sdiapos\Desktop\Programacion\4Ev\Tareas\P41a_Alumnos_Con_Herencia\obj\Debug\P41a_Alumnos_Con_Herencia.csproj.CoreCompileInputs.cache
+C:\Users\csi21-sdiapos\Desktop\Programacion\4Ev\Tareas\P41a_Alumnos_Con_Herencia\obj\Debug\P41a_Alumnos_Con_Herencia.exe
+C:\Users\csi21-sdiapos\Desktop\Programacion\4Ev\Tareas\P41a_Alumnos_Con_Herencia\obj\Debug\P41a_Alumnos_Con_Herencia.pdb
+C:\Users\Sergio DC\Desktop\P41a_Alumnos_Con_Herencia\bin\Debug\P41a_Alumnos_Con_Herencia.exe.config
+C:\Users\Sergio DC\Desktop\P41a_Alumnos_Con_Herencia\bin\Debug\P41a_Alumnos_Con_Herencia.exe
+C:\Users\Sergio DC\Desktop\P41a_Alumnos_Con_Herencia\bin\Debug\P41a_Alumnos_Con_Herencia.pdb
+C:\Users\Sergio DC\Desktop\P41a_Alumnos_Con_Herencia\obj\Debug\P41a_Alumnos_Con_Herencia.csproj.AssemblyReference.cache
+C:\Users\Sergio DC\Desktop\P41a_Alumnos_Con_Herencia\obj\Debug\P41a_Alumnos_Con_Herencia.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sergio DC\Desktop\P41a_Alumnos_Con_Herencia\obj\Debug\P41a_Alumnos_Con_Herencia.csproj.CoreCompileInputs.cache
+C:\Users\Sergio DC\Desktop\P41a_Alumnos_Con_Herencia\obj\Debug\P41a_Alumnos_Con_Herencia.exe
+C:\Users\Sergio DC\Desktop\P41a_Alumnos_Con_Herencia\obj\Debug\P41a_Alumnos_Con_Herencia.pdb

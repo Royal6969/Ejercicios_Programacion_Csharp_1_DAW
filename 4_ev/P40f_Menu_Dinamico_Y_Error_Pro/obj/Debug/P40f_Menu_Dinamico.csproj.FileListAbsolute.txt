@@ -1,0 +1,23 @@
+C:\Users\csi21-sdiapos\Desktop\Programacion\4Ev\Tareas\P40f_Menu_Dinamico\bin\Debug\P40f_Menu_Dinamico.exe.config
+C:\Users\csi21-sdiapos\Desktop\Programacion\4Ev\Tareas\P40f_Menu_Dinamico\bin\Debug\P40f_Menu_Dinamico.exe
+C:\Users\csi21-sdiapos\Desktop\Programacion\4Ev\Tareas\P40f_Menu_Dinamico\bin\Debug\P40f_Menu_Dinamico.pdb
+C:\Users\csi21-sdiapos\Desktop\Programacion\4Ev\Tareas\P40f_Menu_Dinamico\obj\Debug\P40f_Menu_Dinamico.csproj.AssemblyReference.cache
+C:\Users\csi21-sdiapos\Desktop\Programacion\4Ev\Tareas\P40f_Menu_Dinamico\obj\Debug\P40f_Menu_Dinamico.csproj.CoreCompileInputs.cache
+C:\Users\csi21-sdiapos\Desktop\Programacion\4Ev\Tareas\P40f_Menu_Dinamico\obj\Debug\P40f_Menu_Dinamico.exe
+C:\Users\csi21-sdiapos\Desktop\Programacion\4Ev\Tareas\P40f_Menu_Dinamico\obj\Debug\P40f_Menu_Dinamico.pdb
+C:\Users\Sergio DC\Desktop\DAW\Programacion\4Ev\P40f_Menu_Dinamico\obj\Debug\P40f_Menu_Dinamico.csproj.AssemblyReference.cache
+C:\Users\Sergio DC\Desktop\DAW\Programacion\4Ev\P40f_Menu_Dinamico\obj\Debug\P40f_Menu_Dinamico.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sergio DC\Desktop\DAW\Programacion\4Ev\P40f_Menu_Dinamico\obj\Debug\P40f_Menu_Dinamico.csproj.CoreCompileInputs.cache
+C:\Users\Sergio DC\Desktop\DAW\Programacion\4Ev\P40f_Menu_Dinamico\obj\Debug\P40f_Menu_Dinamico.exe
+C:\Users\Sergio DC\Desktop\DAW\Programacion\4Ev\P40f_Menu_Dinamico\obj\Debug\P40f_Menu_Dinamico.pdb
+C:\Users\Sergio DC\Desktop\DAW\Programacion\4Ev\P40f_Menu_Dinamico\bin\Debug\P40f_Menu_Dinamico.exe.config
+C:\Users\Sergio DC\Desktop\DAW\Programacion\4Ev\P40f_Menu_Dinamico\bin\Debug\P40f_Menu_Dinamico.exe
+C:\Users\Sergio DC\Desktop\DAW\Programacion\4Ev\P40f_Menu_Dinamico\bin\Debug\P40f_Menu_Dinamico.pdb
+C:\Users\Sergio DC\Desktop\DAW\Programacion\4Ev\P40f_Menu_Dinamico_Y_Error_Pro\bin\Debug\P40f_Menu_Dinamico.exe.config
+C:\Users\Sergio DC\Desktop\DAW\Programacion\4Ev\P40f_Menu_Dinamico_Y_Error_Pro\bin\Debug\P40f_Menu_Dinamico.exe
+C:\Users\Sergio DC\Desktop\DAW\Programacion\4Ev\P40f_Menu_Dinamico_Y_Error_Pro\bin\Debug\P40f_Menu_Dinamico.pdb
+C:\Users\Sergio DC\Desktop\DAW\Programacion\4Ev\P40f_Menu_Dinamico_Y_Error_Pro\obj\Debug\P40f_Menu_Dinamico.csproj.AssemblyReference.cache
+C:\Users\Sergio DC\Desktop\DAW\Programacion\4Ev\P40f_Menu_Dinamico_Y_Error_Pro\obj\Debug\P40f_Menu_Dinamico.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sergio DC\Desktop\DAW\Programacion\4Ev\P40f_Menu_Dinamico_Y_Error_Pro\obj\Debug\P40f_Menu_Dinamico.csproj.CoreCompileInputs.cache
+C:\Users\Sergio DC\Desktop\DAW\Programacion\4Ev\P40f_Menu_Dinamico_Y_Error_Pro\obj\Debug\P40f_Menu_Dinamico.exe
+C:\Users\Sergio DC\Desktop\DAW\Programacion\4Ev\P40f_Menu_Dinamico_Y_Error_Pro\obj\Debug\P40f_Menu_Dinamico.pdb
