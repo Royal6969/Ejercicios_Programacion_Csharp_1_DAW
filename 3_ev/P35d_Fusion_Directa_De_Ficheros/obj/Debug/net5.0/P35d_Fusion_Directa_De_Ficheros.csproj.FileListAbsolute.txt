@@ -1,0 +1,16 @@
+C:\Users\Sergio DC\Desktop\DAW\Programacion\3Ev\P35d_Fusion_Directa_De_Ficheros\bin\Debug\net5.0\P35d_Fusion_Directa_De_Ficheros.exe
+C:\Users\Sergio DC\Desktop\DAW\Programacion\3Ev\P35d_Fusion_Directa_De_Ficheros\bin\Debug\net5.0\P35d_Fusion_Directa_De_Ficheros.deps.json
+C:\Users\Sergio DC\Desktop\DAW\Programacion\3Ev\P35d_Fusion_Directa_De_Ficheros\bin\Debug\net5.0\P35d_Fusion_Directa_De_Ficheros.runtimeconfig.json
+C:\Users\Sergio DC\Desktop\DAW\Programacion\3Ev\P35d_Fusion_Directa_De_Ficheros\bin\Debug\net5.0\P35d_Fusion_Directa_De_Ficheros.runtimeconfig.dev.json
+C:\Users\Sergio DC\Desktop\DAW\Programacion\3Ev\P35d_Fusion_Directa_De_Ficheros\bin\Debug\net5.0\P35d_Fusion_Directa_De_Ficheros.dll
+C:\Users\Sergio DC\Desktop\DAW\Programacion\3Ev\P35d_Fusion_Directa_De_Ficheros\bin\Debug\net5.0\ref\P35d_Fusion_Directa_De_Ficheros.dll
+C:\Users\Sergio DC\Desktop\DAW\Programacion\3Ev\P35d_Fusion_Directa_De_Ficheros\bin\Debug\net5.0\P35d_Fusion_Directa_De_Ficheros.pdb
+C:\Users\Sergio DC\Desktop\DAW\Programacion\3Ev\P35d_Fusion_Directa_De_Ficheros\obj\Debug\net5.0\P35d_Fusion_Directa_De_Ficheros.csproj.AssemblyReference.cache
+C:\Users\Sergio DC\Desktop\DAW\Programacion\3Ev\P35d_Fusion_Directa_De_Ficheros\obj\Debug\net5.0\P35d_Fusion_Directa_De_Ficheros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sergio DC\Desktop\DAW\Programacion\3Ev\P35d_Fusion_Directa_De_Ficheros\obj\Debug\net5.0\P35d_Fusion_Directa_De_Ficheros.AssemblyInfoInputs.cache
+C:\Users\Sergio DC\Desktop\DAW\Programacion\3Ev\P35d_Fusion_Directa_De_Ficheros\obj\Debug\net5.0\P35d_Fusion_Directa_De_Ficheros.AssemblyInfo.cs
+C:\Users\Sergio DC\Desktop\DAW\Programacion\3Ev\P35d_Fusion_Directa_De_Ficheros\obj\Debug\net5.0\P35d_Fusion_Directa_De_Ficheros.csproj.CoreCompileInputs.cache
+C:\Users\Sergio DC\Desktop\DAW\Programacion\3Ev\P35d_Fusion_Directa_De_Ficheros\obj\Debug\net5.0\P35d_Fusion_Directa_De_Ficheros.dll
+C:\Users\Sergio DC\Desktop\DAW\Programacion\3Ev\P35d_Fusion_Directa_De_Ficheros\obj\Debug\net5.0\ref\P35d_Fusion_Directa_De_Ficheros.dll
+C:\Users\Sergio DC\Desktop\DAW\Programacion\3Ev\P35d_Fusion_Directa_De_Ficheros\obj\Debug\net5.0\P35d_Fusion_Directa_De_Ficheros.pdb
+C:\Users\Sergio DC\Desktop\DAW\Programacion\3Ev\P35d_Fusion_Directa_De_Ficheros\obj\Debug\net5.0\P35d_Fusion_Directa_De_Ficheros.genruntimeconfig.cache
