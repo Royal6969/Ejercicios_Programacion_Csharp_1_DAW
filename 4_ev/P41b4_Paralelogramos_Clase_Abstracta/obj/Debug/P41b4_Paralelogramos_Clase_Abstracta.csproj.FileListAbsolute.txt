@@ -1,0 +1,8 @@
+C:\Users\Sergio DC\Desktop\DAW\Programacion\4Ev\P41b4_Paralelogramos_Clase_Abstracta\bin\Debug\P41b4_Paralelogramos_Clase_Abstracta.exe.config
+C:\Users\Sergio DC\Desktop\DAW\Programacion\4Ev\P41b4_Paralelogramos_Clase_Abstracta\bin\Debug\P41b4_Paralelogramos_Clase_Abstracta.exe
+C:\Users\Sergio DC\Desktop\DAW\Programacion\4Ev\P41b4_Paralelogramos_Clase_Abstracta\bin\Debug\P41b4_Paralelogramos_Clase_Abstracta.pdb
+C:\Users\Sergio DC\Desktop\DAW\Programacion\4Ev\P41b4_Paralelogramos_Clase_Abstracta\obj\Debug\P41b4_Paralelogramos_Clase_Abstracta.csproj.AssemblyReference.cache
+C:\Users\Sergio DC\Desktop\DAW\Programacion\4Ev\P41b4_Paralelogramos_Clase_Abstracta\obj\Debug\P41b4_Paralelogramos_Clase_Abstracta.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sergio DC\Desktop\DAW\Programacion\4Ev\P41b4_Paralelogramos_Clase_Abstracta\obj\Debug\P41b4_Paralelogramos_Clase_Abstracta.csproj.CoreCompileInputs.cache
+C:\Users\Sergio DC\Desktop\DAW\Programacion\4Ev\P41b4_Paralelogramos_Clase_Abstracta\obj\Debug\P41b4_Paralelogramos_Clase_Abstracta.exe
+C:\Users\Sergio DC\Desktop\DAW\Programacion\4Ev\P41b4_Paralelogramos_Clase_Abstracta\obj\Debug\P41b4_Paralelogramos_Clase_Abstracta.pdb

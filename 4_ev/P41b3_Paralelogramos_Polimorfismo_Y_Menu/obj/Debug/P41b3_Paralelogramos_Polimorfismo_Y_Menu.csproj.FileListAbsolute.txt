@@ -1,0 +1,15 @@
+C:\Users\csi21-sdiapos\Desktop\Programacion\4Ev\Tareas\P41b3_Paralelogramos_Polimorfismo_Y_Menu\bin\Debug\P41b3_Paralelogramos_Polimorfismo_Y_Menu.exe.config
+C:\Users\csi21-sdiapos\Desktop\Programacion\4Ev\Tareas\P41b3_Paralelogramos_Polimorfismo_Y_Menu\bin\Debug\P41b3_Paralelogramos_Polimorfismo_Y_Menu.exe
+C:\Users\csi21-sdiapos\Desktop\Programacion\4Ev\Tareas\P41b3_Paralelogramos_Polimorfismo_Y_Menu\bin\Debug\P41b3_Paralelogramos_Polimorfismo_Y_Menu.pdb
+C:\Users\csi21-sdiapos\Desktop\Programacion\4Ev\Tareas\P41b3_Paralelogramos_Polimorfismo_Y_Menu\obj\Debug\P41b3_Paralelogramos_Polimorfismo_Y_Menu.csproj.AssemblyReference.cache
+C:\Users\csi21-sdiapos\Desktop\Programacion\4Ev\Tareas\P41b3_Paralelogramos_Polimorfismo_Y_Menu\obj\Debug\P41b3_Paralelogramos_Polimorfismo_Y_Menu.csproj.CoreCompileInputs.cache
+C:\Users\csi21-sdiapos\Desktop\Programacion\4Ev\Tareas\P41b3_Paralelogramos_Polimorfismo_Y_Menu\obj\Debug\P41b3_Paralelogramos_Polimorfismo_Y_Menu.exe
+C:\Users\csi21-sdiapos\Desktop\Programacion\4Ev\Tareas\P41b3_Paralelogramos_Polimorfismo_Y_Menu\obj\Debug\P41b3_Paralelogramos_Polimorfismo_Y_Menu.pdb
+C:\Users\Sergio DC\Desktop\DAW\Programacion\4Ev\P41b3_Paralelogramos_Polimorfismo_Y_Menu\bin\Debug\P41b3_Paralelogramos_Polimorfismo_Y_Menu.exe.config
+C:\Users\Sergio DC\Desktop\DAW\Programacion\4Ev\P41b3_Paralelogramos_Polimorfismo_Y_Menu\bin\Debug\P41b3_Paralelogramos_Polimorfismo_Y_Menu.exe
+C:\Users\Sergio DC\Desktop\DAW\Programacion\4Ev\P41b3_Paralelogramos_Polimorfismo_Y_Menu\bin\Debug\P41b3_Paralelogramos_Polimorfismo_Y_Menu.pdb
+C:\Users\Sergio DC\Desktop\DAW\Programacion\4Ev\P41b3_Paralelogramos_Polimorfismo_Y_Menu\obj\Debug\P41b3_Paralelogramos_Polimorfismo_Y_Menu.csproj.AssemblyReference.cache
+C:\Users\Sergio DC\Desktop\DAW\Programacion\4Ev\P41b3_Paralelogramos_Polimorfismo_Y_Menu\obj\Debug\P41b3_Paralelogramos_Polimorfismo_Y_Menu.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sergio DC\Desktop\DAW\Programacion\4Ev\P41b3_Paralelogramos_Polimorfismo_Y_Menu\obj\Debug\P41b3_Paralelogramos_Polimorfismo_Y_Menu.csproj.CoreCompileInputs.cache
+C:\Users\Sergio DC\Desktop\DAW\Programacion\4Ev\P41b3_Paralelogramos_Polimorfismo_Y_Menu\obj\Debug\P41b3_Paralelogramos_Polimorfismo_Y_Menu.exe
+C:\Users\Sergio DC\Desktop\DAW\Programacion\4Ev\P41b3_Paralelogramos_Polimorfismo_Y_Menu\obj\Debug\P41b3_Paralelogramos_Polimorfismo_Y_Menu.pdb

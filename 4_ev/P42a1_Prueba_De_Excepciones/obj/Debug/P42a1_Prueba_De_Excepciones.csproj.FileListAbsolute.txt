@@ -1,0 +1,8 @@
+C:\Users\Sergio DC\Desktop\DAW\Programacion\4Ev\P42a1_Prueba_De_Excepciones\bin\Debug\P42a1_Prueba_De_Excepciones.exe.config
+C:\Users\Sergio DC\Desktop\DAW\Programacion\4Ev\P42a1_Prueba_De_Excepciones\bin\Debug\P42a1_Prueba_De_Excepciones.exe
+C:\Users\Sergio DC\Desktop\DAW\Programacion\4Ev\P42a1_Prueba_De_Excepciones\bin\Debug\P42a1_Prueba_De_Excepciones.pdb
+C:\Users\Sergio DC\Desktop\DAW\Programacion\4Ev\P42a1_Prueba_De_Excepciones\obj\Debug\P42a1_Prueba_De_Excepciones.csproj.AssemblyReference.cache
+C:\Users\Sergio DC\Desktop\DAW\Programacion\4Ev\P42a1_Prueba_De_Excepciones\obj\Debug\P42a1_Prueba_De_Excepciones.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sergio DC\Desktop\DAW\Programacion\4Ev\P42a1_Prueba_De_Excepciones\obj\Debug\P42a1_Prueba_De_Excepciones.csproj.CoreCompileInputs.cache
+C:\Users\Sergio DC\Desktop\DAW\Programacion\4Ev\P42a1_Prueba_De_Excepciones\obj\Debug\P42a1_Prueba_De_Excepciones.exe
+C:\Users\Sergio DC\Desktop\DAW\Programacion\4Ev\P42a1_Prueba_De_Excepciones\obj\Debug\P42a1_Prueba_De_Excepciones.pdb

@@ -1,0 +1,8 @@
+C:\Users\Sergio DC\Desktop\DAW\Programacion\4Ev\P42a2_CapturaEntero_Con_Excepciones\bin\Debug\P42a2_CapturaEntero_Con_Excepciones.exe.config
+C:\Users\Sergio DC\Desktop\DAW\Programacion\4Ev\P42a2_CapturaEntero_Con_Excepciones\bin\Debug\P42a2_CapturaEntero_Con_Excepciones.exe
+C:\Users\Sergio DC\Desktop\DAW\Programacion\4Ev\P42a2_CapturaEntero_Con_Excepciones\bin\Debug\P42a2_CapturaEntero_Con_Excepciones.pdb
+C:\Users\Sergio DC\Desktop\DAW\Programacion\4Ev\P42a2_CapturaEntero_Con_Excepciones\obj\Debug\P42a2_CapturaEntero_Con_Excepciones.csproj.AssemblyReference.cache
+C:\Users\Sergio DC\Desktop\DAW\Programacion\4Ev\P42a2_CapturaEntero_Con_Excepciones\obj\Debug\P42a2_CapturaEntero_Con_Excepciones.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sergio DC\Desktop\DAW\Programacion\4Ev\P42a2_CapturaEntero_Con_Excepciones\obj\Debug\P42a2_CapturaEntero_Con_Excepciones.csproj.CoreCompileInputs.cache
+C:\Users\Sergio DC\Desktop\DAW\Programacion\4Ev\P42a2_CapturaEntero_Con_Excepciones\obj\Debug\P42a2_CapturaEntero_Con_Excepciones.exe
+C:\Users\Sergio DC\Desktop\DAW\Programacion\4Ev\P42a2_CapturaEntero_Con_Excepciones\obj\Debug\P42a2_CapturaEntero_Con_Excepciones.pdb
