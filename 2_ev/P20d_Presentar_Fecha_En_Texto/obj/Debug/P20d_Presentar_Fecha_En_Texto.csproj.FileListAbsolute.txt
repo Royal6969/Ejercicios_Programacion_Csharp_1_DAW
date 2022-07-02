@@ -1,0 +1,7 @@
+C:\Users\csi21-sdiapos\Desktop\Programacion\2Ev\Tareas\P20d_Presentar_Fecha_En_Texto\P20d_Presentar_Fecha_En_Texto\bin\Debug\P20d_Presentar_Fecha_En_Texto.exe.config
+C:\Users\csi21-sdiapos\Desktop\Programacion\2Ev\Tareas\P20d_Presentar_Fecha_En_Texto\P20d_Presentar_Fecha_En_Texto\bin\Debug\P20d_Presentar_Fecha_En_Texto.exe
+C:\Users\csi21-sdiapos\Desktop\Programacion\2Ev\Tareas\P20d_Presentar_Fecha_En_Texto\P20d_Presentar_Fecha_En_Texto\bin\Debug\P20d_Presentar_Fecha_En_Texto.pdb
+C:\Users\csi21-sdiapos\Desktop\Programacion\2Ev\Tareas\P20d_Presentar_Fecha_En_Texto\P20d_Presentar_Fecha_En_Texto\obj\Debug\P20d_Presentar_Fecha_En_Texto.csproj.CoreCompileInputs.cache
+C:\Users\csi21-sdiapos\Desktop\Programacion\2Ev\Tareas\P20d_Presentar_Fecha_En_Texto\P20d_Presentar_Fecha_En_Texto\obj\Debug\P20d_Presentar_Fecha_En_Texto.exe
+C:\Users\csi21-sdiapos\Desktop\Programacion\2Ev\Tareas\P20d_Presentar_Fecha_En_Texto\P20d_Presentar_Fecha_En_Texto\obj\Debug\P20d_Presentar_Fecha_En_Texto.pdb
+C:\Users\csi21-sdiapos\Desktop\Programacion\2Ev\Tareas\P20d_Presentar_Fecha_En_Texto\P20d_Presentar_Fecha_En_Texto\obj\Debug\P20d_Presentar_Fecha_En_Texto.csproj.AssemblyReference.cache
