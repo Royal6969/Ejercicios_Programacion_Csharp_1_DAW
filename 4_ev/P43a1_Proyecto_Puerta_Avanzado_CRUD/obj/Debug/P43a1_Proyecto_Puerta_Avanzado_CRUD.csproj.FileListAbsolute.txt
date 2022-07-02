@@ -1,0 +1,8 @@
+C:\Users\Sergio DC\Desktop\DAW\Programacion\4Ev\P43a1_Proyecto_Puerta_Avanzado_CRUD\bin\Debug\P43a1_Proyecto_Puerta_Avanzado_CRUD.exe.config
+C:\Users\Sergio DC\Desktop\DAW\Programacion\4Ev\P43a1_Proyecto_Puerta_Avanzado_CRUD\bin\Debug\P43a1_Proyecto_Puerta_Avanzado_CRUD.exe
+C:\Users\Sergio DC\Desktop\DAW\Programacion\4Ev\P43a1_Proyecto_Puerta_Avanzado_CRUD\bin\Debug\P43a1_Proyecto_Puerta_Avanzado_CRUD.pdb
+C:\Users\Sergio DC\Desktop\DAW\Programacion\4Ev\P43a1_Proyecto_Puerta_Avanzado_CRUD\obj\Debug\P43a1_Proyecto_Puerta_Avanzado_CRUD.csproj.AssemblyReference.cache
+C:\Users\Sergio DC\Desktop\DAW\Programacion\4Ev\P43a1_Proyecto_Puerta_Avanzado_CRUD\obj\Debug\P43a1_Proyecto_Puerta_Avanzado_CRUD.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sergio DC\Desktop\DAW\Programacion\4Ev\P43a1_Proyecto_Puerta_Avanzado_CRUD\obj\Debug\P43a1_Proyecto_Puerta_Avanzado_CRUD.csproj.CoreCompileInputs.cache
+C:\Users\Sergio DC\Desktop\DAW\Programacion\4Ev\P43a1_Proyecto_Puerta_Avanzado_CRUD\obj\Debug\P43a1_Proyecto_Puerta_Avanzado_CRUD.exe
+C:\Users\Sergio DC\Desktop\DAW\Programacion\4Ev\P43a1_Proyecto_Puerta_Avanzado_CRUD\obj\Debug\P43a1_Proyecto_Puerta_Avanzado_CRUD.pdb

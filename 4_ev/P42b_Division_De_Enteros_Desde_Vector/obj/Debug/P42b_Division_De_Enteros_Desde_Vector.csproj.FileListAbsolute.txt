@@ -1,0 +1,23 @@
+C:\Users\csi21-sdiapos\Desktop\Programacion\4Ev\Tareas\P42b_Division_De_Enteros_Desde_Vector\bin\Debug\P42b_Division_De_Enteros_Desde_Vector.exe.config
+C:\Users\csi21-sdiapos\Desktop\Programacion\4Ev\Tareas\P42b_Division_De_Enteros_Desde_Vector\bin\Debug\P42b_Division_De_Enteros_Desde_Vector.exe
+C:\Users\csi21-sdiapos\Desktop\Programacion\4Ev\Tareas\P42b_Division_De_Enteros_Desde_Vector\bin\Debug\P42b_Division_De_Enteros_Desde_Vector.pdb
+C:\Users\csi21-sdiapos\Desktop\Programacion\4Ev\Tareas\P42b_Division_De_Enteros_Desde_Vector\obj\Debug\P42b_Division_De_Enteros_Desde_Vector.csproj.AssemblyReference.cache
+C:\Users\csi21-sdiapos\Desktop\Programacion\4Ev\Tareas\P42b_Division_De_Enteros_Desde_Vector\obj\Debug\P42b_Division_De_Enteros_Desde_Vector.csproj.CoreCompileInputs.cache
+C:\Users\csi21-sdiapos\Desktop\Programacion\4Ev\Tareas\P42b_Division_De_Enteros_Desde_Vector\obj\Debug\P42b_Division_De_Enteros_Desde_Vector.exe
+C:\Users\csi21-sdiapos\Desktop\Programacion\4Ev\Tareas\P42b_Division_De_Enteros_Desde_Vector\obj\Debug\P42b_Division_De_Enteros_Desde_Vector.pdb
+C:\Users\Sergio DC\Desktop\P42b_Division_De_Enteros_Desde_Vector\bin\Debug\P42b_Division_De_Enteros_Desde_Vector.exe.config
+C:\Users\Sergio DC\Desktop\P42b_Division_De_Enteros_Desde_Vector\bin\Debug\P42b_Division_De_Enteros_Desde_Vector.exe
+C:\Users\Sergio DC\Desktop\P42b_Division_De_Enteros_Desde_Vector\bin\Debug\P42b_Division_De_Enteros_Desde_Vector.pdb
+C:\Users\Sergio DC\Desktop\P42b_Division_De_Enteros_Desde_Vector\obj\Debug\P42b_Division_De_Enteros_Desde_Vector.csproj.AssemblyReference.cache
+C:\Users\Sergio DC\Desktop\P42b_Division_De_Enteros_Desde_Vector\obj\Debug\P42b_Division_De_Enteros_Desde_Vector.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sergio DC\Desktop\P42b_Division_De_Enteros_Desde_Vector\obj\Debug\P42b_Division_De_Enteros_Desde_Vector.csproj.CoreCompileInputs.cache
+C:\Users\Sergio DC\Desktop\P42b_Division_De_Enteros_Desde_Vector\obj\Debug\P42b_Division_De_Enteros_Desde_Vector.exe
+C:\Users\Sergio DC\Desktop\P42b_Division_De_Enteros_Desde_Vector\obj\Debug\P42b_Division_De_Enteros_Desde_Vector.pdb
+C:\Users\Sergio DC\Desktop\DAW\Programacion\4Ev\P42b_Division_De_Enteros_Desde_Vector\bin\Debug\P42b_Division_De_Enteros_Desde_Vector.exe.config
+C:\Users\Sergio DC\Desktop\DAW\Programacion\4Ev\P42b_Division_De_Enteros_Desde_Vector\bin\Debug\P42b_Division_De_Enteros_Desde_Vector.exe
+C:\Users\Sergio DC\Desktop\DAW\Programacion\4Ev\P42b_Division_De_Enteros_Desde_Vector\bin\Debug\P42b_Division_De_Enteros_Desde_Vector.pdb
+C:\Users\Sergio DC\Desktop\DAW\Programacion\4Ev\P42b_Division_De_Enteros_Desde_Vector\obj\Debug\P42b_Division_De_Enteros_Desde_Vector.csproj.AssemblyReference.cache
+C:\Users\Sergio DC\Desktop\DAW\Programacion\4Ev\P42b_Division_De_Enteros_Desde_Vector\obj\Debug\P42b_Division_De_Enteros_Desde_Vector.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sergio DC\Desktop\DAW\Programacion\4Ev\P42b_Division_De_Enteros_Desde_Vector\obj\Debug\P42b_Division_De_Enteros_Desde_Vector.csproj.CoreCompileInputs.cache
+C:\Users\Sergio DC\Desktop\DAW\Programacion\4Ev\P42b_Division_De_Enteros_Desde_Vector\obj\Debug\P42b_Division_De_Enteros_Desde_Vector.exe
+C:\Users\Sergio DC\Desktop\DAW\Programacion\4Ev\P42b_Division_De_Enteros_Desde_Vector\obj\Debug\P42b_Division_De_Enteros_Desde_Vector.pdb

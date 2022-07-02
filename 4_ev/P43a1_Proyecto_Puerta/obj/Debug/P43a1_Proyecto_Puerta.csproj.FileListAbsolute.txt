@@ -1,0 +1,16 @@
+C:\Users\Sergio DC\Desktop\P43a1_Proyecto_Puerta\bin\Debug\P43a1_Proyecto_Puerta.exe.config
+C:\Users\Sergio DC\Desktop\P43a1_Proyecto_Puerta\bin\Debug\P43a1_Proyecto_Puerta.exe
+C:\Users\Sergio DC\Desktop\P43a1_Proyecto_Puerta\bin\Debug\P43a1_Proyecto_Puerta.pdb
+C:\Users\Sergio DC\Desktop\P43a1_Proyecto_Puerta\obj\Debug\P43a1_Proyecto_Puerta.csproj.AssemblyReference.cache
+C:\Users\Sergio DC\Desktop\P43a1_Proyecto_Puerta\obj\Debug\P43a1_Proyecto_Puerta.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sergio DC\Desktop\P43a1_Proyecto_Puerta\obj\Debug\P43a1_Proyecto_Puerta.csproj.CoreCompileInputs.cache
+C:\Users\Sergio DC\Desktop\P43a1_Proyecto_Puerta\obj\Debug\P43a1_Proyecto_Puerta.exe
+C:\Users\Sergio DC\Desktop\P43a1_Proyecto_Puerta\obj\Debug\P43a1_Proyecto_Puerta.pdb
+C:\Users\Sergio DC\Desktop\DAW\Programacion\4Ev\P43a1_Proyecto_Puerta\bin\Debug\P43a1_Proyecto_Puerta.exe.config
+C:\Users\Sergio DC\Desktop\DAW\Programacion\4Ev\P43a1_Proyecto_Puerta\bin\Debug\P43a1_Proyecto_Puerta.exe
+C:\Users\Sergio DC\Desktop\DAW\Programacion\4Ev\P43a1_Proyecto_Puerta\bin\Debug\P43a1_Proyecto_Puerta.pdb
+C:\Users\Sergio DC\Desktop\DAW\Programacion\4Ev\P43a1_Proyecto_Puerta\obj\Debug\P43a1_Proyecto_Puerta.csproj.AssemblyReference.cache
+C:\Users\Sergio DC\Desktop\DAW\Programacion\4Ev\P43a1_Proyecto_Puerta\obj\Debug\P43a1_Proyecto_Puerta.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sergio DC\Desktop\DAW\Programacion\4Ev\P43a1_Proyecto_Puerta\obj\Debug\P43a1_Proyecto_Puerta.csproj.CoreCompileInputs.cache
+C:\Users\Sergio DC\Desktop\DAW\Programacion\4Ev\P43a1_Proyecto_Puerta\obj\Debug\P43a1_Proyecto_Puerta.exe
+C:\Users\Sergio DC\Desktop\DAW\Programacion\4Ev\P43a1_Proyecto_Puerta\obj\Debug\P43a1_Proyecto_Puerta.pdb

@@ -1,0 +1,8 @@
+C:\Users\Sergio DC\Desktop\DAW\Programacion\4Ev\P43a2_Proyecto_Portón_Con_Herencia\obj\Debug\P43a2_Proyecto_Portón_Con_Herencia.csproj.AssemblyReference.cache
+C:\Users\Sergio DC\Desktop\DAW\Programacion\4Ev\P43a2_Proyecto_Portón_Con_Herencia\obj\Debug\P43a2_Proyecto_Portón_Con_Herencia.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sergio DC\Desktop\DAW\Programacion\4Ev\P43a2_Proyecto_Portón_Con_Herencia\obj\Debug\P43a2_Proyecto_Portón_Con_Herencia.csproj.CoreCompileInputs.cache
+C:\Users\Sergio DC\Desktop\DAW\Programacion\4Ev\P43a2_Proyecto_Portón_Con_Herencia\bin\Debug\P43a2_Proyecto_Portón_Con_Herencia.exe.config
+C:\Users\Sergio DC\Desktop\DAW\Programacion\4Ev\P43a2_Proyecto_Portón_Con_Herencia\bin\Debug\P43a2_Proyecto_Portón_Con_Herencia.exe
+C:\Users\Sergio DC\Desktop\DAW\Programacion\4Ev\P43a2_Proyecto_Portón_Con_Herencia\bin\Debug\P43a2_Proyecto_Portón_Con_Herencia.pdb
+C:\Users\Sergio DC\Desktop\DAW\Programacion\4Ev\P43a2_Proyecto_Portón_Con_Herencia\obj\Debug\P43a2_Proyecto_Portón_Con_Herencia.exe
+C:\Users\Sergio DC\Desktop\DAW\Programacion\4Ev\P43a2_Proyecto_Portón_Con_Herencia\obj\Debug\P43a2_Proyecto_Portón_Con_Herencia.pdb

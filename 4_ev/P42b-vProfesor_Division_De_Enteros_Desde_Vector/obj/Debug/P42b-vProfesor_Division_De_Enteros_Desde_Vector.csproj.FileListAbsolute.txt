@@ -1,0 +1,8 @@
+C:\Users\Sergio DC\Desktop\DAW\Programacion\4Ev\P42b-vProfesor_Division_De_Enteros_Desde_Vector\bin\Debug\P42b-vProfesor_Division_De_Enteros_Desde_Vector.exe.config
+C:\Users\Sergio DC\Desktop\DAW\Programacion\4Ev\P42b-vProfesor_Division_De_Enteros_Desde_Vector\bin\Debug\P42b-vProfesor_Division_De_Enteros_Desde_Vector.exe
+C:\Users\Sergio DC\Desktop\DAW\Programacion\4Ev\P42b-vProfesor_Division_De_Enteros_Desde_Vector\bin\Debug\P42b-vProfesor_Division_De_Enteros_Desde_Vector.pdb
+C:\Users\Sergio DC\Desktop\DAW\Programacion\4Ev\P42b-vProfesor_Division_De_Enteros_Desde_Vector\obj\Debug\P42b-vProfesor_Division_De_Enteros_Desde_Vector.csproj.AssemblyReference.cache
+C:\Users\Sergio DC\Desktop\DAW\Programacion\4Ev\P42b-vProfesor_Division_De_Enteros_Desde_Vector\obj\Debug\P42b-vProfesor_Division_De_Enteros_Desde_Vector.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sergio DC\Desktop\DAW\Programacion\4Ev\P42b-vProfesor_Division_De_Enteros_Desde_Vector\obj\Debug\P42b-vProfesor_Division_De_Enteros_Desde_Vector.csproj.CoreCompileInputs.cache
+C:\Users\Sergio DC\Desktop\DAW\Programacion\4Ev\P42b-vProfesor_Division_De_Enteros_Desde_Vector\obj\Debug\P42b-vProfesor_Division_De_Enteros_Desde_Vector.exe
+C:\Users\Sergio DC\Desktop\DAW\Programacion\4Ev\P42b-vProfesor_Division_De_Enteros_Desde_Vector\obj\Debug\P42b-vProfesor_Division_De_Enteros_Desde_Vector.pdb
