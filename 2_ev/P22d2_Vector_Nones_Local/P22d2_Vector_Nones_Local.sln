@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P22d2_Vector_Nones_Local", "P22d2_Vector_Nones_Local\P22d2_Vector_Nones_Local.csproj", "{93BBD752-818E-4750-8A31-FF3F95EDEE6D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93BBD752-818E-4750-8A31-FF3F95EDEE6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93BBD752-818E-4750-8A31-FF3F95EDEE6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93BBD752-818E-4750-8A31-FF3F95EDEE6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93BBD752-818E-4750-8A31-FF3F95EDEE6D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C14E127-0D22-4E8E-AD51-AB23880A7246}
+	EndGlobalSection
+EndGlobal

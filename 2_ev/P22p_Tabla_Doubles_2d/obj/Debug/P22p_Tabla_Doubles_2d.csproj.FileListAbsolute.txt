@@ -1,0 +1,7 @@
+C:\Users\csi21-sdiapos\Desktop\Programacion\2Ev\Tareas\P22p_Tabla_Doubles_2d\P22p_Tabla_Doubles_2d\bin\Debug\P22p_Tabla_Doubles_2d.exe.config
+C:\Users\csi21-sdiapos\Desktop\Programacion\2Ev\Tareas\P22p_Tabla_Doubles_2d\P22p_Tabla_Doubles_2d\bin\Debug\P22p_Tabla_Doubles_2d.exe
+C:\Users\csi21-sdiapos\Desktop\Programacion\2Ev\Tareas\P22p_Tabla_Doubles_2d\P22p_Tabla_Doubles_2d\bin\Debug\P22p_Tabla_Doubles_2d.pdb
+C:\Users\csi21-sdiapos\Desktop\Programacion\2Ev\Tareas\P22p_Tabla_Doubles_2d\P22p_Tabla_Doubles_2d\obj\Debug\P22p_Tabla_Doubles_2d.csproj.AssemblyReference.cache
+C:\Users\csi21-sdiapos\Desktop\Programacion\2Ev\Tareas\P22p_Tabla_Doubles_2d\P22p_Tabla_Doubles_2d\obj\Debug\P22p_Tabla_Doubles_2d.csproj.CoreCompileInputs.cache
+C:\Users\csi21-sdiapos\Desktop\Programacion\2Ev\Tareas\P22p_Tabla_Doubles_2d\P22p_Tabla_Doubles_2d\obj\Debug\P22p_Tabla_Doubles_2d.exe
+C:\Users\csi21-sdiapos\Desktop\Programacion\2Ev\Tareas\P22p_Tabla_Doubles_2d\P22p_Tabla_Doubles_2d\obj\Debug\P22p_Tabla_Doubles_2d.pdb

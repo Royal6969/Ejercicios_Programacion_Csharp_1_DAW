@@ -1,0 +1,7 @@
+C:\Users\csi21-sdiapos\Desktop\Programacion\2Ev\Tareas\P22I1_Vector_IDs_Azar_SinRepetir\P22I1_Vector_IDs_Azar_SinRepetir\bin\Debug\P22I1_Vector_IDs_Azar_SinRepetir.exe.config
+C:\Users\csi21-sdiapos\Desktop\Programacion\2Ev\Tareas\P22I1_Vector_IDs_Azar_SinRepetir\P22I1_Vector_IDs_Azar_SinRepetir\bin\Debug\P22I1_Vector_IDs_Azar_SinRepetir.exe
+C:\Users\csi21-sdiapos\Desktop\Programacion\2Ev\Tareas\P22I1_Vector_IDs_Azar_SinRepetir\P22I1_Vector_IDs_Azar_SinRepetir\bin\Debug\P22I1_Vector_IDs_Azar_SinRepetir.pdb
+C:\Users\csi21-sdiapos\Desktop\Programacion\2Ev\Tareas\P22I1_Vector_IDs_Azar_SinRepetir\P22I1_Vector_IDs_Azar_SinRepetir\obj\Debug\P22I1_Vector_IDs_Azar_SinRepetir.csproj.AssemblyReference.cache
+C:\Users\csi21-sdiapos\Desktop\Programacion\2Ev\Tareas\P22I1_Vector_IDs_Azar_SinRepetir\P22I1_Vector_IDs_Azar_SinRepetir\obj\Debug\P22I1_Vector_IDs_Azar_SinRepetir.csproj.CoreCompileInputs.cache
+C:\Users\csi21-sdiapos\Desktop\Programacion\2Ev\Tareas\P22I1_Vector_IDs_Azar_SinRepetir\P22I1_Vector_IDs_Azar_SinRepetir\obj\Debug\P22I1_Vector_IDs_Azar_SinRepetir.exe
+C:\Users\csi21-sdiapos\Desktop\Programacion\2Ev\Tareas\P22I1_Vector_IDs_Azar_SinRepetir\P22I1_Vector_IDs_Azar_SinRepetir\obj\Debug\P22I1_Vector_IDs_Azar_SinRepetir.pdb

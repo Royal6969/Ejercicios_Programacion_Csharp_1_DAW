@@ -1,0 +1,7 @@
+C:\Users\csi21-sdiapos\Desktop\Programacion\2Ev\Tareas\P22d1_Vector_Nones_Global\P22d1_Vector_Nones_Global\bin\Debug\P22d1_Vector_Nones_Global.exe.config
+C:\Users\csi21-sdiapos\Desktop\Programacion\2Ev\Tareas\P22d1_Vector_Nones_Global\P22d1_Vector_Nones_Global\bin\Debug\P22d1_Vector_Nones_Global.exe
+C:\Users\csi21-sdiapos\Desktop\Programacion\2Ev\Tareas\P22d1_Vector_Nones_Global\P22d1_Vector_Nones_Global\bin\Debug\P22d1_Vector_Nones_Global.pdb
+C:\Users\csi21-sdiapos\Desktop\Programacion\2Ev\Tareas\P22d1_Vector_Nones_Global\P22d1_Vector_Nones_Global\obj\Debug\P22d1_Vector_Nones_Global.csproj.AssemblyReference.cache
+C:\Users\csi21-sdiapos\Desktop\Programacion\2Ev\Tareas\P22d1_Vector_Nones_Global\P22d1_Vector_Nones_Global\obj\Debug\P22d1_Vector_Nones_Global.csproj.CoreCompileInputs.cache
+C:\Users\csi21-sdiapos\Desktop\Programacion\2Ev\Tareas\P22d1_Vector_Nones_Global\P22d1_Vector_Nones_Global\obj\Debug\P22d1_Vector_Nones_Global.exe
+C:\Users\csi21-sdiapos\Desktop\Programacion\2Ev\Tareas\P22d1_Vector_Nones_Global\P22d1_Vector_Nones_Global\obj\Debug\P22d1_Vector_Nones_Global.pdb
